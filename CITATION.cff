@@ -2,14 +2,14 @@ cff-version: 1.2.0
 message: Please cite this dataset when using the transcription or documentation. Historical text and excluded source images have separate rights; see RIGHTS.md.
 type: dataset
 title: '施醫信錄（1870；Bodleian Sinica 1630）：逐面轉錄與捐款名錄 / Shi yi xin lu [Report of the Peking Hospital]: Transcription and donor lists'
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
   orcid: https://orcid.org/0009-0003-9738-6914
 url: https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870
 license: CC-BY-4.0
-abstract: Shi yi xin lu (Report of the Peking Hospital), prepared by John Dudgeon and printed at the American Mission Press in Peking in 1870, is held as Bodleian Sinica 1630. This London Missionary Society hospital report reviews its work from 1861 to 1869, discussing patient conditions, medical teaching, charitable care, footbinding, anaesthetics and knowledge of circulation; it also lists Chinese and foreign contributors and recorded silver amounts. The dataset supports histories of medicine, missions, philanthropy and translation through an AI-assisted initial transcription of 32 content faces within 20 official image canvases, including Chinese and English title pages. JSON, TXT and TEI preserve source-face and text-unit references, accompanied by a literal donor table, uncertainty records and small-note continuation links. Source images are excluded. Uncertain readings are marked; the text has not undergone full human collation or expert approval.
+abstract: 'Shi yi xin lu (printed English title: Report of the Peking Hospital), prepared by John Dudgeon and printed at the American Mission Press in Peking in 1870, is held as Bodleian Sinica 1630. This London Missionary Society report discusses the Peking Hospital’s work from 1861 to 1869, charitable care, medical teaching, footbinding and the Chinese circulation of early Western medical knowledge; its closing lists name contributors and record silver amounts. The dataset supports histories of medicine, missions, philanthropy and translation. It provides JSON, TXT and TEI for32content faces in20fixed official captures, a literal table of53source donor entries and parent links for23small notes, with source references and uncertainty records. AI initial transcription, a separately saved reading and nonblind original-image adjudication informed this version. Uncertain readings remain; it has not undergone full human double collation or expert approval.'
 keywords:
 - 施醫信錄
 - Shi yi xin lu

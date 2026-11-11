@@ -2,16 +2,16 @@
 
 Shi yi xin lu [Report of the Peking Hospital]
 
-版本0.1.0。[倉庫](https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870)及[發行頁](https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870/releases/tag/v0.1.0)為本版預定位置；製備時尚未取得DOI。
+版本0.2.0。[倉庫](https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870)與[發行頁](https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870/releases/tag/v0.2.0)；製備時尚未取得DOI。
 
-《施醫信錄》（Shi yi xin lu）由德貞（John Dudgeon）著校，1870年在北京美華活字書館刊印，牛津博德利圖書館藏本為Sinica 1630。這份倫敦傳道會北京施醫院報告回顧1861至1869年的院務，並討論求診病症、醫學教育、慈善救濟、纏足、麻藥和血液循環知識，末附中外捐款者與銀數，可供晚清醫學史、傳教史、慈善史與翻譯史研究。本版提供20個館方影像幀中32個內容面的AI輔助初錄，以JSON、TXT及TEI保存來源面次與文字單位，另附捐款表、疑讀與小字接續定位；不包含館方影像。疑讀已標記，尚未經人類全文校勘或專家審定，方法與限制另見說明。
+《施醫信錄》（Shi yi xin lu；英文原題 Report of the Peking Hospital）是德貞（John Dudgeon）於1870年在北京美華活字書館印行的倫敦傳道會醫院報告，現藏牛津博德利圖書館 Sinica 1630。原書敘述1861至1869年的北京施醫院沿革、求診與慈善照護、醫學教育、纏足議論及早期西醫知識的中文傳播，末附捐輸者名錄與原印銀數，可供晚清醫學史、傳教史、慈善史與翻譯史研究。本版提供固定20個館方影像幀中32個內容面的JSON、TXT、TEI與53個原文表格欄目的名錄，23個小註均連回主欄／表格欄目，並保留來源定位與疑讀。文字經AI初錄、另存獨立讀稿及非盲回圖裁定；仍有疑讀，未經人類全文雙校或專家審定。
 
-Shi yi xin lu (Report of the Peking Hospital), prepared by John Dudgeon and printed at the American Mission Press in Peking in 1870, is held as Bodleian Sinica 1630. This London Missionary Society hospital report reviews its work from 1861 to 1869, discussing patient conditions, medical teaching, charitable care, footbinding, anaesthetics and knowledge of circulation; it also lists Chinese and foreign contributors and recorded silver amounts. The dataset supports histories of medicine, missions, philanthropy and translation through an AI-assisted initial transcription of 32 content faces within 20 official image canvases, including Chinese and English title pages. JSON, TXT and TEI preserve source-face and text-unit references, accompanied by a literal donor table, uncertainty records and small-note continuation links. Source images are excluded. Uncertain readings are marked; the text has not undergone full human collation or expert approval.
+Shi yi xin lu (printed English title: Report of the Peking Hospital), prepared by John Dudgeon and printed at the American Mission Press in Peking in 1870, is held as Bodleian Sinica 1630. This London Missionary Society report discusses the Peking Hospital’s work from 1861 to 1869, charitable care, medical teaching, footbinding and the Chinese circulation of early Western medical knowledge; its closing lists name contributors and record silver amounts. The dataset supports histories of medicine, missions, philanthropy and translation. It provides JSON, TXT and TEI for 32 content faces in 20 fixed official captures, a literal table of 53 source donor entries and parent links for 23 small notes, with source references and uncertainty records. AI initial transcription, a separately saved reading and nonblind original-image adjudication informed this version. Uncertain readings remain; it has not undergone full human double collation or expert approval.
 
-固定20個館方影像幀中的32個內容面、407個來源文字單位，保留134筆疑讀與22個未解字形標記。[book.json](book.json)為分層文字資料，[book.txt](book.txt)與[book.tei.xml](book.tei.xml)逐單位保留相同字串；它們沒有提供逐字字框。
+32個原印內容面、418個文字單位、96筆現行疑處／來源問題、4個未解字形標記及23個小註父欄連結。JSON／TXT／TEI逐單位保留相同字串，bbox為null，不宣稱逐字座標。TXT含獨立小字，須依[閱讀關係](READING-MAP.json)連回主欄，不能直接把每行接成連續正文。
 
-[DONORS.csv](DONORS.csv)有53個原文表格欄目，含群體及機構署名；銀數保持原字與原單位，沒有換算或重算總額。[12個小註接續](READING-MAP.json)須連到各自主欄／表格欄目閱讀，不能把TXT列序直接當成連續正文。原印合計保留為原書文字，沒有代作者核算。
+[DONORS.csv](DONORS.csv)保存53個原文表格欄目，包含群體與機構；銀數原字、原單位照錄，沒有換算、核帳或加總。外交官稱銜的10個原印雙行小字分開保存，原印合計仍只是原書文字。
 
-[原件](https://digital.bodleian.ox.ac.uk/objects/b5eb81ca-42ca-49c9-9372-aac27572a35e/)、[IIIF清單](https://iiif.bodleian.ox.ac.uk/iiif/manifest/b5eb81ca-42ca-49c9-9372-aac27572a35e.json)、[館目固定快照](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%201630.xml)；[來源](PROVENANCE.md)、[讀者指南](READING-GUIDE.md)、[疑讀](uncertainties.json)、[品質](QUALITY.md)、[方法](METHODS.md)、[權利](RIGHTS.md)。
+[原件](https://digital.bodleian.ox.ac.uk/objects/b5eb81ca-42ca-49c9-9372-aac27572a35e/)、[來源映射](SOURCE-MAP.json)、[疑讀](uncertainties.json)、[字串變更](CHANGES.json)、[品質](QUALITY.md)、[方法](METHODS.md)、[讀者指南](READING-GUIDE.md)、[權利](RIGHTS.md)。固定0.1.0保持原狀；本版仍未經人類全文雙校、專家審定或準確率量測。
 
-整理者曲宸宇／Chu, Chen-Yu（帳號poplolioi11），[ORCID](https://orcid.org/0009-0003-9738-6914)。歷史作者與資料整理者分開；無館方背書。
+整理者曲宸宇／Chu, Chen-Yu（帳號poplolioi11），[ORCID](https://orcid.org/0009-0003-9738-6914)。無館方共同製作或背書聲明。

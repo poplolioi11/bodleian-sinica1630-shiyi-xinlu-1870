@@ -1,6 +1,6 @@
 {
   "dataset_id": "bodleian-sinica1630",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "title": "施醫信錄（1870；Bodleian Sinica 1630）：逐面轉錄與捐款名錄 / Shi yi xin lu [Report of the Peking Hospital]: Transcription and donor lists",
   "source": {
     "historical_title": "施醫信錄",
@@ -43,8 +43,8 @@
     "coverage_limit": "Only available fixed captures; no assertion beyond supplied images or of every physical-book character being intact"
   },
   "quality": {
-    "stage": "AI-assisted initial transcription",
-    "independent_second_reading": "not-run/not-incorporated",
+    "stage": "AI-assisted transcription, separate native reading and nonblind original-image adjudication",
+    "independent_second_reading": "separate saved394-unit32face reading; some source small notes/full column absent, f004-L source-only addendum incorporated; not every result unit has two independent readings",
     "human_full_double_collation": "not-run",
     "expert_review": "not-run",
     "peer_review": "not-run",
@@ -52,10 +52,13 @@
     "actual_native_model": null,
     "actual_native_effort": null,
     "native_token_counters": null,
-    "uncertainty_records": 134,
-    "whole_unit_coordinate_precision": "unit bboxes remain null; no measured column/baseline/glyph geometry claimed"
+    "uncertainty_records": 96,
+    "whole_unit_coordinate_precision": "unit bboxes remain null; no measured column/baseline/glyph geometry claimed",
+    "historical_text_units": 418,
+    "small_note_units": 23,
+    "source_adjudicated_content_faces": 32
   },
-  "position_convention": "0-based Unicode codepoints; end exclusive; no normalization; source order follows the fixed initial master",
+  "position_convention": "0-based Unicode codepoints, end exclusive; no normalization; fixed original source order, with explicit small-note parent links",
   "pages": [
     {
       "page_id": "f002-L",
@@ -317,14 +320,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "月因英國阿使臣來京地不敷用更兼街道遼僻往來人不甚多遂將原處⟦g-f003-L-col02⟧於府中另",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f003-L-q001: Single source glyph after 原處 retained unresolved; not reconstructed from relocation history.",
-              "extent": 1
-            }
-          ]
+          "text": "月因英國阿使臣來京地不敷用更兼街道遼僻往來人不甚多遂將原處歸於府中另"
         },
         {
           "id": "f003-L-u004",
@@ -332,14 +328,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "買米市大街路東火神廟⟦g-f003-L-col03⟧之計房三十餘間以大殿為講書堂每日有人在此宣講聖",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f003-L-q002: Single source glyph after 廟 needs another source reading.",
-              "extent": 1
-            }
-          ]
+          "text": "買米市大街路東火神廟移之計房三十餘間以大殿爲講書堂每日有人在此宣講聖"
         },
         {
           "id": "f003-L-u005",
@@ -371,14 +360,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "所需之項皆英國衆善官民商賈按時盡力捐輸並無間斷貽愧彼意一為濟世一為輔",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f003-L-q003: Visible initial surface retained; phrase is not silently improved from meaning.",
-              "extent": 2
-            }
-          ]
+          "text": "所需之項皆英國衆善官民商賈按時盡力捐輸並無間斷貽悞彼意一爲濟世一爲輔"
         },
         {
           "id": "f003-L-u009",
@@ -460,7 +442,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "則內科婦科亦皆求治焉於昔日先是中國醫士品評月旦謂外國人精於外科華人精"
+          "text": "則內科婦科亦皆求治倍於昔日先是中國醫士品評月旦謂外國人精於外科華人精"
         },
         {
           "id": "f004-R-u003",
@@ -468,7 +450,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "於內科余心以為西國人不止精於外科茲觀內科婦科之病源源而來可為確據其精"
+          "text": "於內科余心以爲西國人不止精於外科茲觀內科婦科之病源源而來可爲確據其精"
         },
         {
           "id": "f004-R-u004",
@@ -492,14 +474,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "較⟦g-f004-R-c06⟧親視者所以得其精也但此地病者必先延華醫調治未效或已成沉痾始來本院",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-R-q001: Short source character before 親視 is not resolved from expected phrase.",
-              "extent": 1
-            }
-          ]
+          "text": "較夫親視者所以得其精也但此地病者必先延華醫調治未效或已成沉痾始來本院"
         },
         {
           "id": "f004-R-u007",
@@ -507,14 +482,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "求醫覬延之愆每至莫能措手余與病者兩無光顏最為可惜醫士雒公先在定海廣東",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-R-q003: Initial visible forms preserved rather than editorially changing to a modern idiom.",
-              "extent": 4
-            }
-          ]
+          "text": "求醫覬延之悞每至莫能措手余與病者兩無光顏最爲可惜醫士雒公先在定海廣東"
         },
         {
           "id": "f004-R-u008",
@@ -522,7 +490,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "上海等處行道有年百姓皆為甘棠之頌又一合信醫士久居廣東救人濟世界有餘暇"
+          "text": "上海等處行道有年百姓皆爲甘棠之頌又一合信醫士久居廣東救人濟世畧有餘暇"
         },
         {
           "id": "f004-R-u009",
@@ -530,19 +498,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "卽將西國醫書譯成漢本四五冊中國高麗日本等國均極鄭重寶貴刋印行世居中土",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-R-q004: Source-looking glyph encodings retained, not normalized.",
-              "extent": 1
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-R-q005: Source-looking glyph encodings retained, not normalized.",
-              "extent": 1
-            }
-          ]
+          "text": "卽將西國醫書譯成漢本四五冊中國高麗日本等國均極鄭重寶貴刋印行世居中土"
         },
         {
           "id": "f004-R-u010",
@@ -550,14 +506,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "者二十餘載益人匪淺二公⟦g-f004-R-c10⟧愛於南方至今日碑在道惟北京醫院此為創始病愈者",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-R-q002: Small source form before 愛 needs independent reading.",
-              "extent": 1
-            }
-          ]
+          "text": "者二十餘載益人匪淺二公貽愛於南方至今口碑在道惟北京醫院此爲創始病愈者"
         },
         {
           "id": "f004-R-u011",
@@ -600,24 +549,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "余無所用何如以厚禮之資捐於院册遇有貧之病者為調息瞻養之助芳衘登簡盛德",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-L-q006: Source-looking forms retained; no automatic modern character replacement. Occurrence-level exact glyph/encoding should be reviewed.",
-              "extent": 1
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-L-q007: Source-looking forms retained; no automatic modern character replacement. Occurrence-level exact glyph/encoding should be reviewed.",
-              "extent": 1
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-L-q008: Source-looking forms retained; no automatic modern character replacement. Occurrence-level exact glyph/encoding should be reviewed.",
-              "extent": 1
-            }
-          ]
+          "text": "余無所用何如以厚禮之資捐於院册遇有貧乏病者爲調息瞻養之助芳衘登簡盛德"
         },
         {
           "id": "f004-L-u002",
@@ -625,7 +557,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "廣傳當時為拯人之善事後世為永著之鴻恩余亦與有榮焉"
+          "text": "廣傳當時爲拯人之善事後世爲永著之鴻恩余亦與有榮焉"
         },
         {
           "id": "f004-L-u003",
@@ -633,7 +565,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "heading",
-          "text": "溫黃之症"
+          "text": "瘟黃之症"
         },
         {
           "id": "f004-L-u004",
@@ -641,14 +573,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "咸豐十一年溫黃流行公治過三百七十人先不甚多繼則甚盛始得身痛作燒⟦g-f004-L-tailword⟧治",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-L-q003: Character immediately before 治 after 作燒 needs another source reading; do not replace from context.",
-              "extent": 1
-            }
-          ]
+          "text": "咸豐十一年瘟黃流行公治過三百七十人先不甚多繼則甚盛始得身痛作燒遲治"
         },
         {
           "id": "f004-L-u005",
@@ -656,21 +581,14 @@
           "layer": "faithful",
           "bbox": null,
           "role": "small-note",
-          "text": "⟦g-f004-L-inline-cluster⟧",
+          "text": "雒",
           "anchor": {
             "parent_unit_id": "f004-L-u004",
             "after_surface": "咸豐十一年溫黃流行",
             "before_surface": "公治過",
             "status": "spatially located near this main-column interval; no source insertion mark interpreted"
           },
-          "reading_order_note": "Small printed cluster remains a separate unit; do not read the following TXT row as an appended sentence.",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-L-q001: Actual small type cluster between main 流行 and 公 remains unresolved; it is not silently appended to the main column.",
-              "extent": "unknown"
-            }
-          ]
+          "reading_order_note": "Small printed cluster remains a separate unit; do not read the following TXT row as an appended sentence."
         },
         {
           "id": "f004-L-u006",
@@ -678,14 +596,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "⟦g-f004-L-headpair⟧症因春秋冷暖不勻乍寒乍熱血旺內流積聚於肝肝之無力流滯致獲此症",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-L-q002: Two-character column head was viewed in full image and actual-pixel detail. First has enclosing form, second has right striking-stroke component; candidate not accepted from sentence plausibility.",
-              "extent": 2
-            }
-          ]
+          "text": "罔效症因春秋冷煖不勻乍寒乍熱血旺內流積聚於肝肝之無力統容致獲此症人之"
         },
         {
           "id": "f004-L-u007",
@@ -693,12 +604,26 @@
           "layer": "faithful",
           "bbox": null,
           "role": "small-note",
-          "text": "肝居",
+          "text": "肝居右腹並不在左開視許多皆然試將猪肝驗之亦各在右",
           "anchor": {
             "parent_unit_id": "f004-L-u006",
-            "after_surface": "致獲此症",
-            "status": "small two-character tail beside the column bottom; continues in next physical column"
-          }
+            "after": "人之",
+            "relation": "small-tail-next-to-column-end-no-source-insertion-mark"
+          },
+          "source_segments": [
+            {
+              "text": "肝居",
+              "source_location": "C05 printed end side-note tail"
+            },
+            {
+              "text": "右腹並不在左開視許多皆",
+              "source_location": "C06 upper small right line"
+            },
+            {
+              "text": "然試將猪肝驗之亦各在右",
+              "source_location": "C06 upper small left line"
+            }
+          ]
         },
         {
           "id": "f004-L-u008",
@@ -706,7 +631,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "右腹並不在左開視許多皆然試將猪肝驗之亦各在右治法先行降藥繼用斑毛膏藥貼於肝部汁出血歸皮膚肝覺"
+          "text": "治法先行降藥繼用斑毛膏藥貼於肝部汗出血歸皮膚肝覺"
         },
         {
           "id": "f004-L-u009",
@@ -714,7 +639,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "蘇快其症可痊是症北京較盛山陝二省之地較多"
+          "text": "疎快其症可痊是症北京較盛山陜二省之地較多"
         },
         {
           "id": "f004-L-u010",
@@ -730,14 +655,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "先前外國天花甚少自行牛痘法於今已六十餘年兹者西國嬰童皆種此痘英國向有",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-L-q005: Initial visible reading preserved; check source glyph against 多 in independent reading, without correcting from a historical expectation.",
-              "extent": 1
-            }
-          ]
+          "text": "先前外國天花甚少自行牛痘法於今已六十餘年兹者西國嬰童皆種此痘英國向有"
         },
         {
           "id": "f004-L-u012",
@@ -745,7 +663,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "條例不種則治以罪條例未設之先因生天花人多麻面今已較少生痘之流也中國乾"
+          "text": "條例不種則治以罪條例未設之先因生天花人多麻面今已較少牛痘之流也中國乾"
         },
         {
           "id": "f004-L-u013",
@@ -753,18 +671,24 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "隆年間已有種痘之法駐⟦g-f004-L-tu-shi⟧邇其京城英國使臣之夫人帶至本國或從中國傳其法用綿",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f004-L-q004: Relative horizontal lengths at this occurrence remain uncertain; expected place name is not used as a replacement.",
-              "extent": 1
-            }
-          ]
+          "text": "隆年間已有種痘之法駐土爾其京城英國使臣之夫人帶至本國其法用綿"
+        },
+        {
+          "id": "f004-L-u013-note-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "或從中國傳之彼地者",
+          "anchor": {
+            "parent_unit_id": "f004-L-u013",
+            "after": "帶至本國",
+            "relation": "side-note-near-parent-phrase-no-printed-insertion-mark"
+          },
+          "bbox": null,
+          "order": 14
         },
         {
           "id": "f004-L-u014",
-          "order": 14,
+          "order": 15,
           "layer": "faithful",
           "bbox": null,
           "role": "running-title",
@@ -772,7 +696,7 @@
         },
         {
           "id": "f004-L-u015",
-          "order": 15,
+          "order": 16,
           "layer": "faithful",
           "bbox": null,
           "role": "printed-folio",
@@ -818,14 +742,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "團塞於鼻及出時仍係天花雖較不種者微輕究難必其不死未若牛痘之安且便也牛",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f005-R-q001: Continuation-column initial surface remains to be independently checked with preceding face; no protocol reconstruction.",
-              "extent": 2
-            }
-          ]
+          "text": "團塞於鼻及出時仍係天花雖較不種者微輕究難必其不死未若牛痘之安且便也牛"
         },
         {
           "id": "f005-R-u002",
@@ -833,14 +750,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "痘之法先來廣東已六十四載傳於北京至斯四十三年今京師設局四五處施種識為",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f005-R-q002: First source glyph has unclear speech-side details at fixed preview resolution.",
-              "extent": 2
-            }
-          ]
+          "text": "痘之法先來廣東已六十四載傳於北京至斯四十三年今京師設局四五處施種誠爲"
         },
         {
           "id": "f005-R-u003",
@@ -848,14 +758,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "美舉近年慶缺牛漿來本院尋乞卽付之為救生續命之助先是小呂宋國來漿因道路",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f005-R-q003: Source form before 缺 is not expanded from expected grammar.",
-              "extent": 2
-            }
-          ]
+          "text": "美舉近年慶缺牛漿來本院尋乞卽付之爲救生續命之助先是小呂宋國來漿因道路"
         },
         {
           "id": "f005-R-u004",
@@ -863,7 +766,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "遙遠恐漿乾燥凝在道時每八日途中種一嬰轉種至京其漿鮮豔法不果行嗣仍携漿"
+          "text": "遙遠恐漿乾燥擬在道時每八日途中種一嬰轉種至京其漿鮮豔法不果行嗣仍携漿"
         },
         {
           "id": "f005-R-u005",
@@ -871,7 +774,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "來北依然適用後又用以痘中亦與漿無異尤為簡便兹以此事極要者中國賢士大夫"
+          "text": "來北依然適用後又用以痘甲亦與漿無異尤爲簡便兹以此事極要者中國賢士大夫"
         },
         {
           "id": "f005-R-u006",
@@ -895,7 +798,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "數今實三百萬人每年產嬰十萬皆種牛痘北京民數雖未悉其確聊作為一百五十萬"
+          "text": "數今實三百萬人每年產嬰十萬皆種牛痘北京民數雖未悉其確聊作爲一百五十萬"
         },
         {
           "id": "f005-R-u009",
@@ -911,14 +814,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "童八人保其生命其餘之生死均未可知又蘇甸國未種牛痘之先花年死者一萬餘自",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f005-R-q004: Historical transliteration copied as visible, not replaced by a modern country name.",
-              "extent": 3
-            }
-          ]
+          "text": "童八人保其生命其餘之生死均未可知又蘇甸國未種牛痘之先花年死者一萬餘自"
         },
         {
           "id": "f005-R-u011",
@@ -926,7 +822,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有牛痘以來歲不過數十人耳況天花為時毒所引若任其自發則歷代相傳各處類及"
+          "text": "有牛痘以來歲不過數十人耳況天花爲時毒所引若任其自發則歷代相傳各處類及"
         }
       ]
     },
@@ -968,7 +864,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "由近至遠愈久愈盛無所底止牛痘則不待自發種具數粒毒已消除根株盡絕久則天"
+          "text": "由近至遠愈久愈盛無所底止牛痘則不待自發種只數粒毒已消除根株盡絕久則天"
         },
         {
           "id": "f005-L-u002",
@@ -976,14 +872,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "花漸息童稚無⟦g-f005-L-c02⟧豈非保赤盡善盡美之策此余厚望於中國顯達諸公之推廣者云",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f005-L-q001: Single glyph after 無 is too small to resolve; source retained.",
-              "extent": 1
-            }
-          ]
+          "text": "花漸息童稚無憂豈非保赤盡善盡美之策此余厚望於中國顯達諸公之推廣者云"
         },
         {
           "id": "f005-L-u003",
@@ -991,7 +880,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "牛痘書始自外國初傳者無論矣有一編在救主降生一千八百十七年為中國嘉慶二"
+          "text": "牛痘書始自外國初傳者無論矣有一編在救主降生一千八百十七年爲中國嘉慶二"
         },
         {
           "id": "f005-L-u004",
@@ -999,7 +888,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "十三年至東粵道降生一千八百二十八年為中國道光十年曾撫台澤此編北京廣傳"
+          "text": "十三年至東粵道降生一千八百二十八年爲中國道光十年曾撫台摹此編北京廣傳"
         },
         {
           "id": "f005-L-u005",
@@ -1007,14 +896,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "之迄今已四十三年矣是書創稿乃一英國顯達彌譯成帙凡東粵及他省考據諸家並",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f005-L-q006: Source proper-name/verb sequence not repaired from external biographical knowledge.",
-              "extent": 4
-            }
-          ]
+          "text": "之迄今已四十三年矣是書創稿乃一英國顯達翻譯成帙凡東粵及他省考據諸家並"
         },
         {
           "id": "f005-L-u006",
@@ -1022,7 +904,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "醫士皆各引用其言遵為模楷"
+          "text": "醫士皆各引用其言遵爲模楷"
         },
         {
           "id": "f005-L-u007",
@@ -1060,14 +942,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "死者不下二萬餘人每日每門發殯者滔滔皆是其見症也腹先泄洩隨卽轉筋霍公治",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f005-L-q007: Visible initial source form preserved; not harmonized to earlier doctor name.",
-              "extent": 2
-            }
-          ]
+          "text": "死者不下二萬餘人每日每門發殯者滔滔皆是其見症也腹先泄洩隨卽轉筋雒公治"
         },
         {
           "id": "f005-L-u011",
@@ -1075,7 +950,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "法內用收歛之劑飲鴉片洋輕粉外用芥末膏藥貼之以熱水洗溫足心腿肚又用補精神"
+          "text": "法內用收歛之劑飲鴉片洋輕粉外用芥末膏藥貼之以熱水洗溫足心腿肚又用補精"
         },
         {
           "id": "f005-L-u012",
@@ -1083,14 +958,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "與火之藥卽可痊愈治好多⟦g-f005-L-c11⟧人三十七年以前外國原無此症後來自印度始有之其",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f005-L-q002: The small source mark between 多 and 人 needs another view; not deleted as duplicate.",
-              "extent": 1
-            }
-          ]
+          "text": "神與火之藥卽可痊愈治好多人三十七年以前外國原無此症後來自印度始有之其"
         },
         {
           "id": "f005-L-u013",
@@ -1156,7 +1024,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有兵役洒掃差衞不准民間堆積污穢有則隨時清除又有藥水能解毒氣惡味者時時"
+          "text": "有兵役洒掃通衢不准民間堆積污穢有則隨時清除又有藥水能解毒氣惡味者時時"
         },
         {
           "id": "f006-R-u003",
@@ -1164,7 +1032,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "洒之兼以淨水澆灑自免前症之害北京地窄人稠日曬臭水氣味熏蒸更感以天時之"
+          "text": "洒之兼以淨水澆潑自免前症之害北京地窄人稠日曬臭水氣味熏蒸更感以天時之"
         },
         {
           "id": "f006-R-u004",
@@ -1172,7 +1040,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "毒易致此病若此首善大邦河渠最為至要倘由城北引西來之水不使東流故於城中"
+          "text": "毒易致此病若此首善大邦河渠最爲至要倘由城北引西來之水不使東流放於城中"
         },
         {
           "id": "f006-R-u005",
@@ -1188,7 +1056,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "先泄洩服藥能止者易治否則甚難"
+          "text": "先泄瀉服藥能止者易治否則甚難"
         },
         {
           "id": "f006-R-u007",
@@ -1196,14 +1064,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "heading",
-          "text": "氣⟦g-f006-R-heading⟧",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f006-R-q001: Disease-heading specific source glyph needs independent source reading; not supplied from modern diagnosis.",
-              "extent": 1
-            }
-          ]
+          "text": "氣⟦g-f006-R-heading⟧"
         },
         {
           "id": "f006-R-u008",
@@ -1211,24 +1072,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "北京近山一帶有之凡氣⟦g-f006-R-body-name⟧人多⟦g-f006-R-complication⟧其症皆水所致水甜此病寡少若水中雜以石灰",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f006-R-q002: Repeated source disease glyph remains separately located.",
-              "extent": 1
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f006-R-q003: Two small source glyphs after 人多 remain unresolved.",
-              "extent": 2
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f006-R-q004: Crowded sequence before 氣 retained for another source reading.",
-              "extent": 3
-            }
-          ]
+          "text": "北京近山一帶有之凡氣⟦g-f006-R-body-name⟧人多癡癲其症皆水所致水甜此病寡少若水中雜以石灰"
         },
         {
           "id": "f006-R-u009",
@@ -1310,14 +1154,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "特百姓不識用法卽中國醫士亦未必深究其理每於病無策便唆勸其吸煙以圖卸責",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f006-L-q001: Source-looking initial phrase retained; radicals need independent source reading.",
-              "extent": 2
-            }
-          ]
+          "text": "特百姓不識用法卽中國醫士亦未必深究其理每於病無策便唆勸其吸烟以圖卸責"
         },
         {
           "id": "f006-L-u004",
@@ -1325,7 +1162,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "吸後百害皆作較其病為尤深故煙能敗精神耗財物損聲名內為家人所鄙薄外為親"
+          "text": "吸後百害皆作較其病爲尤深故烟能敗精神耗財物損聲名內爲家人所鄙薄外爲親"
         },
         {
           "id": "f006-L-u005",
@@ -1333,14 +1170,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "友所輕視無怪乎中原財帛一年窮於一年人民精神衰弱子嗣艱難一年減於一年國",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f006-L-q002: Second glyph looks 帛/吊 at this resolution; no financial-context normalization.",
-              "extent": 2
-            }
-          ]
+          "text": "友所輕視無怪乎中原財帛一年窮於一年人民精神衰弱子嗣艱難一年減於一年國"
         },
         {
           "id": "f006-L-u006",
@@ -1348,7 +1178,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "累民貧吸煙之故余實為寒心直有涕泗滂沱隱痛更兼鴉片其初來自外國今則內地"
+          "text": "累民貧吸烟之故余實爲寒心直有涕泗滂沱隱痛更兼鴉片其初來自外國今則內地"
         },
         {
           "id": "f006-L-u007",
@@ -1356,14 +1186,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "各處皆種值之年復一年多於五穀再若任其儼種將來天下之大皆為產煙之區尤可",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f006-L-q003: Source glyph before 種 is preserved pending independent reading.",
-              "extent": 2
-            }
-          ]
+          "text": "各處皆種值之年復一年多於五穀再若任其播種將來天下之大皆爲產烟之區尤可"
         },
         {
           "id": "f006-L-u008",
@@ -1371,14 +1194,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "慮也惟願中國皇上輔政各臣設法禁止民間不種鴉片只種穀梁種與吸者日見其少",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f006-L-q004: Visible source form retained without changing to a conventional agricultural phrase.",
-              "extent": 2
-            }
-          ]
+          "text": "慮也惟願中國皇上輔政各臣設法禁止民間不種鴉片只種穀粱種與吸者日見其少"
         },
         {
           "id": "f006-L-u009",
@@ -1386,7 +1202,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "培養數載國阜民豐是為至願"
+          "text": "培養數載國阜民豐是爲至願"
         },
         {
           "id": "f006-L-u010",
@@ -1460,7 +1276,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "書背書為時甚久精力虧損加之乘隙逞其淫樂煙酒心身之困勞累太過且此症富貴"
+          "text": "書背書爲時甚久精力虧損加之乘隙逞其淫樂烟酒心身之困勞累太過且此症富貴"
         },
         {
           "id": "f007-R-u002",
@@ -1468,7 +1284,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "人得之甚易仕官每逢朝覲叩頭跪拜年老身虛精神頹敗久則致此最難醫治又有被"
+          "text": "人得之甚易仕宦每逢朝廟叩頭跪拜年老身虛精神頹敗久則致此最難醫治又有被"
         },
         {
           "id": "f007-R-u003",
@@ -1476,14 +1292,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "刑嚴考手足拘攣如美人⟦g-f007-R-name⟧英雄架之類為時既久血凝滯不通亦能致之同治二年京",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f007-R-q001: Specific source glyph between 美人 and 英雄架 unresolved; historical punishment wording not reconstructed.",
-              "extent": 1
-            }
-          ]
+          "text": "刑嚴考手足拘攣如美人⟦g-f007-R-name⟧英雄架之類爲時既久血凝滯不通亦能致之同治二年京"
         },
         {
           "id": "f007-R-u004",
@@ -1491,14 +1300,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "都有一人身被木架維繫歸得痰火之症重不堪醫雖用電氣法終未得愈三年又一人",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f007-R-q002: Source sequence retained for independent source reading.",
-              "extent": 4
-            }
-          ]
+          "text": "都有一人身被木架維繫歸得痰火之症重不堪醫雖用電氣法終未得愈三年又一人"
         },
         {
           "id": "f007-R-u005",
@@ -1522,7 +1324,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "證據卽行釋放不動非法之刑另有因北方煤氣甚重房無煙筒日夜熏蒸神氣昏悶亦"
+          "text": "證據卽行釋放不動非法之刑另有因北方煤氣甚重房無烟筒日夜熏蒸神氣昏悶亦"
         },
         {
           "id": "f007-R-u008",
@@ -1530,7 +1332,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "可致此倘中國煙筒設於房外俾室內清潔無煙未始非却病之一道至偏枯半身不遂"
+          "text": "可致此倘中國烟筒設於房外俾室內清潔無烟未始非却病之一道至偏枯半身不遂"
         },
         {
           "id": "f007-R-u009",
@@ -1604,7 +1406,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "守豐其衣食不令出牆垣之外恐滋生事端內有弈棋詩書並講道諸務博其見聞暢其"
+          "text": "守望其衣食不令出牆垣之外恐滋生事端內有琴棋詩書並講道諸務博其見聞暢其"
         },
         {
           "id": "f007-L-u003",
@@ -1612,14 +1414,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "性情並有花園容其游逸名其處為瘋癲院當費經納另有自捐公所其中諸務尤為全",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f007-L-q005: Visible phrase retained pending independent source reading.",
-              "extent": 4
-            }
-          ]
+          "text": "性情並有花園資其游逸名其處爲瘋癲院富貴縉紳另有自捐公所其中諸務尤爲全"
         },
         {
           "id": "f007-L-u004",
@@ -1635,14 +1430,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "恕其無知亦相愛之意耳若人無論中國外國均應設地安為調養母令失所盡其哀矜",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f007-L-q006: Visible source form preserved; no conversion to 毋令.",
-              "extent": 2
-            }
-          ]
+          "text": "恕其無知亦相愛之意耳若人無論中國外國均應設地安爲調養母令失所盡其哀矜"
         },
         {
           "id": "f007-L-u006",
@@ -1666,7 +1454,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "創設足為明徵最忍者病者家人願其速死莫免拖累甚非善意不如捐貲設院盡法調"
+          "text": "創設足爲明徵最忍者病者家人願其速死莫免拖累甚非善意不如捐貲設院盡法調"
         },
         {
           "id": "f007-L-u009",
@@ -1674,7 +1462,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "攝卽不痊不待其天年自盡不致輕棄性命實余之所厚望云爾"
+          "text": "攝卽不痊亦待其天年自盡不致輕棄性命實余之所厚望云爾"
         },
         {
           "id": "f007-L-u010",
@@ -1682,19 +1470,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "heading",
-          "text": "⟦g-f007-L-heading-first⟧牙乾肺勞積⟦g-f007-L-heading-last⟧",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f007-L-q001: Two initial disease-heading glyphs retained unresolved.",
-              "extent": 2
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f007-L-q002: Last heading glyph needs another source view.",
-              "extent": 1
-            }
-          ]
+          "text": "瘰癧牙乾肺勞積癖"
         },
         {
           "id": "f007-L-u011",
@@ -1702,19 +1478,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "此症以血虛血惡為基⟦g-f007-L-c11⟧痰癆牙乾肺勞積⟦g-f007-L-body-last⟧為房屋言其症之連類相及也幼時血之",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f007-L-q003: Source glyph following 基 not supplied from the house metaphor.",
-              "extent": 1
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f007-L-q004: Repeated specific disease glyph remains separately located.",
-              "extent": 1
-            }
-          ]
+          "text": "此症以血虛血惡爲基址瘰癧牙乾肺勞積癖爲房屋言其症之連類相及也幼時血之"
         },
         {
           "id": "f007-L-u012",
@@ -1788,7 +1552,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "女可以壯實故中國之五歲嬰童如外國之三歲者故衣服飲食寒暖諸事皆當妥為保"
+          "text": "女可以壯實故中國之五歲嬰童如外國之三歲者故衣服飲食寒暖諸事皆當安爲保"
         },
         {
           "id": "f008-R-u004",
@@ -1820,7 +1584,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "來治者約有數千中醫治法特貼膏藥為上轉致膿向內串其腫更甚本院治法熟者開"
+          "text": "來治者約有數千中醫治法恃貼膏藥爲上轉致膿向內串其腫更甚本院治法熟者開"
         },
         {
           "id": "f008-R-u008",
@@ -1828,14 +1592,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "之腐肉隨膿一并掏出將饅頭用熱水泡開調勻糊貼患上候毒與腐肉淨盡方貼膏藥",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f008-R-q001: Single source form after 勻 is retained as initial candidate.",
-              "extent": 4
-            }
-          ]
+          "text": "之腐肉隨膿一并掏出將饅頭用熱水泡開調勻攤貼患上候毒與腐肉淨盡方貼膏藥"
         },
         {
           "id": "f008-R-u009",
@@ -1843,7 +1600,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "可以痊愈凡有腐肉有膿貼饅首無者貼膏藥症勢較大非開不可開必為一十字形以"
+          "text": "可以痊愈凡有腐肉有膿貼饅首無者貼膏藥瘡勢較大非開不可開必爲一十字形以"
         },
         {
           "id": "f008-R-u010",
@@ -1859,14 +1616,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "heading",
-          "text": "跌打損傷銃炮傷藥傷",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f008-R-q003: Exact source fire-side/stone-side form remains to be checked.",
-              "extent": 2
-            }
-          ]
+          "text": "跌打損傷銃炮傷藥傷"
         }
       ]
     },
@@ -1916,14 +1666,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "不使病留餘患若此者治好多人大均各如故在外國兵一千立醫士三人一正二副凡兵",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f008-L-q001: Extra-looking source stroke after 人 needs independent reading, not deleted from expectation.",
-              "extent": 2
-            }
-          ]
+          "text": "不使病留餘患若此者治好多人人均各如故在外國兵一千立醫士三人一正二副凡兵"
         },
         {
           "id": "f008-L-u003",
@@ -1931,7 +1674,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "弁受傷者帶至行營按法調治每大邑亦醫院亦可就之其便如此中國行軍時倘亦"
+          "text": "弁受傷者帶至行營按法調治每大邑亦有醫院亦可就之其便如此中國行軍時倘亦"
         },
         {
           "id": "f008-L-u004",
@@ -1939,7 +1682,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "若是保全無負今中國兵勇使用火器並不謹慎火器不潔因不隨時詳細琢磨致有鏽"
+          "text": "若是保全無筭今中國兵勇使用火器並不謹慎火器不潔因不諳時詳細琢磨致有銃"
         },
         {
           "id": "f008-L-u005",
@@ -1955,14 +1698,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "沉重中醫無策來求余醫旬日間脫然無累特繪圖頒詳敘小引以誌其感又一山西人",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f008-L-q002: Small source verb sequence not resolved from a presumed publication title.",
-              "extent": 3
-            }
-          ]
+          "text": "沉重中醫無策來求余醫旬日間脫然無累特贈匾額詳敘小引以誌其感又一山西人"
         },
         {
           "id": "f008-L-u007",
@@ -1970,7 +1706,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "安姓用刀自破其腹斜長尺餘大小腸流出當將其腸條理停妥納入腹中針縫布蒙其"
+          "text": "安姓用刀自破其腹斜長尺餘大小腸流出當將其腸條理停妥納入腹中針縫布裹其"
         },
         {
           "id": "f008-L-u008",
@@ -1978,14 +1714,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "人瞬愈又有松姓等三人或傷肝或傷肺或傷心胞絡皆決不待治之症十二時內必死",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f008-L-q003: First source character retains an eye-side shape; not silently converted to 痊愈.",
-              "extent": 2
-            }
-          ]
+          "text": "人瞬愈又有松姓等三人或傷肝或傷肺或傷心胞絡皆決不待治之症十二時內必死"
         },
         {
           "id": "f008-L-u009",
@@ -1993,14 +1722,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "故來者三人死者二以見其傷重難醫云又一旗人婦以伊夫之火銃欲行自經燃其機",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f008-L-q004: Specific historical narrative source word remains unresolved.",
-              "extent": 2
-            }
-          ]
+          "text": "故來者三人死者二以見其傷重難醫云又一旗人婦以伊夫之火銃欲行自經燃其機"
         },
         {
           "id": "f008-L-u010",
@@ -2008,7 +1730,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "銃砂等於右股下自臀透出極為危險恰來醫治調理布裹未兼旬復初此外有或傷其"
+          "text": "銃砂穿於右股下自臀透出極爲危險抬來醫治調理布裹未兼旬復初此外有或傷其"
         },
         {
           "id": "f008-L-u011",
@@ -2074,7 +1796,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "為必死余詢其情形尚在可治無如中國律例凡被傷已報官者其人不准動移必待驗"
+          "text": "爲必死余詢其情形尚在可治無如中國律例凡被傷已報官者其人不准動移必待驗"
         },
         {
           "id": "f009-R-u002",
@@ -2082,14 +1804,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "後方許還徒余因其傷雖重尚有可乘之機若俟驗後則無及矣遂命人抬至院中撥房",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f009-R-q001: Second glyph source form after 還 remains unresolved.",
-              "extent": 2
-            }
-          ]
+          "text": "後方許還徒余因其傷雖重尚有可乘之機若俟驗後則無及矣遂命人抬至院中撥房"
         },
         {
           "id": "f009-R-u003",
@@ -2097,14 +1812,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "存身以便看視未及月餘平復如舊倘當時乘而不治其人猶有命乎然外國選醫甚非",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f009-R-q002: Visible initial wording retained, not silently repaired from context.",
-              "extent": 4
-            }
-          ]
+          "text": "存身以便看視未及月餘平復如舊倘當時棄而不治其人猶有命乎然外國選醫甚非"
         },
         {
           "id": "f009-R-u004",
@@ -2112,7 +1820,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "易易必須在院習之四年又必二十一歲以上者方准為之不可私充凡內科外科婦科"
+          "text": "易易必須在院習之四年又必二十一歲以上者方准爲之不可私充凡內科外科婦科"
         },
         {
           "id": "f009-R-u005",
@@ -2120,14 +1828,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "幼科查聽科化學草學身體學辨證學等皆通達者有管理宗學院及醫院秉公拔取領",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f009-R-q003: Historical field name recorded as visible; no modernization into present subject taxonomy.",
-              "extent": 3
-            }
-          ]
+          "text": "幼科查聽科化學草學身體學辨證學等皆通達者有管理宗學院及醫院秉公拔取領"
         },
         {
           "id": "f009-R-u006",
@@ -2135,14 +1836,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有文憑鈐有院印本人姓名年貌所學所能俱載於上交該士為執故國內醫人皆註名",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f009-R-q004: Source phrase kept for independent reading.",
-              "extent": 2
-            }
-          ]
+          "text": "有文憑鈐有院印本人姓名年貌所學所能俱載於上交該士爲執故國內醫人皆註名"
         },
         {
           "id": "f009-R-u007",
@@ -2158,7 +1852,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "不為官考卽欲行道為醫乎若西國之法雖顯其揀拔之難或可免庸醫之濫亦善策也"
+          "text": "不爲官考卽欲行道爲醫乎若西國之法雖顯其揀拔之難或可免庸醫之濫亦善策也"
         },
         {
           "id": "f009-R-u009",
@@ -2174,14 +1868,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "或為壓把或為石壓或手足所傷或器械所擊或因道路不平驚車逸馬往來擁擠砸碰",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f009-R-q005: Specific source form after 壓 unresolved; not rewritten to standard injury wording.",
-              "extent": 2
-            }
-          ]
+          "text": "或爲房杞或爲石壓或手足所傷或器械所擊或因道路不平驚車逸馬往來擁擠砸碰"
         },
         {
           "id": "f009-R-u011",
@@ -2189,7 +1876,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "踢踏本院治好者甚多前門外有一官員吳姓因車翻砸折肩骨延華醫調攝皮膚雖已"
+          "text": "踐踏本院治好者甚多前門外有一官員吳姓因車翻砸折肩骨延華醫調攝皮膚雖已"
         }
       ]
     },
@@ -2239,7 +1926,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "俱言脫落實非骨折然骨跡明明顯露何為是言也咸豐十一年有一婦人乘車行至御"
+          "text": "俱言脫落實非骨折然骨跡明明顯露何爲是言也咸豐十一年有一婦人乘車行至御"
         },
         {
           "id": "f009-L-u003",
@@ -2271,19 +1958,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "明最易傾蹶城門內之石路海漫亦多坭敗每致有蹶跌之處倘能如英國馬加達摩之",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f009-L-q001: Specific variant in source retained unresolved.",
-              "extent": 2
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f009-L-q002: Historical road-surface word retained as source, not modernized.",
-              "extent": 2
-            }
-          ]
+          "text": "明最易傾蹶城門內之石路海漫亦多圮敗每致有躓跌之虞倘能如英國馬加達摩之"
         },
         {
           "id": "f009-L-u007",
@@ -2307,7 +1982,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "裂復傷其腰近於命門官驗先言頭為馬砸腰被車壓死後覆驗又言車壓其頭馬踏其"
+          "text": "裂復傷其腰近於命門官驗先言頭爲馬砸腰被車壓死後覆驗又言車壓其頭馬踏其"
         },
         {
           "id": "f009-L-u010",
@@ -2323,14 +1998,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "起頭因車轍砸傷腰為馬踏調治旬月業經平復但仰臥多日未能起坐摩躍成瘡瘡重",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f009-L-q003: Source form describing prolonged-bed injury unresolved; no modern clinical term substituted.",
-              "extent": 2
-            }
-          ]
+          "text": "起頭因車轍砸傷腰爲馬踏調治旬月業經平復但仰臥多日未能起坐摩蹭成瘡瘡重"
         },
         {
           "id": "f009-L-u012",
@@ -2388,7 +2056,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "身微因瘡身死英國海關諸公合計足以每月贍銀三兩贍伊妻子為永遠養身之貲此"
+          "text": "身憊因瘡身死英國海關諸公合計足以每月贍銀三兩贍伊妻子爲永遠養身之貲此"
         },
         {
           "id": "f010-R-u002",
@@ -2396,7 +2064,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "亦路窄難避之一端耳又前門外一車行人年五旬餘為差役勒索被踢折胯骨三日始"
+          "text": "亦路窄難避之一端耳又前門外一車行人年五旬餘爲差役勒索被踢折胯骨三日始"
         },
         {
           "id": "f010-R-u003",
@@ -2404,7 +2072,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "抬來求治其人年老傷重身虛復受驚恐心力難敵三日已死其傷則官驗以為骨脫余"
+          "text": "抬來求治其人年老傷重身虛復受驚恐心力難敵三日已死其傷則官驗以爲骨脫余"
         },
         {
           "id": "f010-R-u004",
@@ -2412,14 +2080,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "言骨折兩論不決余欲開剖經驗不果而止又一英國府司昏因風翻席棚伊手握棚繩",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-R-q001: Source job title/name not replaced by a guessed occupation.",
-              "extent": 2
-            }
-          ]
+          "text": "言骨折兩論不決余欲開剖經驗不果而止又一英國府司昏因風翻蓆棚伊手握棚繩"
         },
         {
           "id": "f010-R-u005",
@@ -2427,19 +2088,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "風力甚猛將伊帶過房簷數尺幸其放手落地只將蒲棚及巨石掀出門外牟落於堤樹",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-R-q002: Printed initial form retained for source comparison.",
-              "extent": 2
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-R-q003: Character before 落 needs independent source reading.",
-              "extent": 2
-            }
-          ]
+          "text": "風力甚猛將伊帶過房簷數尺幸其放手落地只將蒲棚及巨石掀出門外半落於槐樹"
         },
         {
           "id": "f010-R-u006",
@@ -2447,14 +2096,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "之上牟插於河中而其人腿骨業經摔折得治痊愈",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-R-q004: Next-column initial glyph remains separately located.",
-              "extent": 2
-            }
-          ]
+          "text": "之上半插於河中而其人腿骨業經摔折得治痊愈"
         },
         {
           "id": "f010-R-u007",
@@ -2470,7 +2112,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有受煤氣者室內煤煙甚重或因酒醉落於熱水鍋中或倒於炕爐火內直有隨房燒燬"
+          "text": "有受煤氣者室內煤烟甚重或因酒醉落於熱水鍋中或倒於炕爐火內直有隨房燒燬"
         },
         {
           "id": "f010-R-u009",
@@ -2478,14 +2120,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "沿及孩提者其中凡有措手之機卽能獲安又有乞丐患凍瘡者脚指脫落亦治好多⟦g-f010-R-tail⟧",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-R-q005: Last source glyph at foot is partially crowded; stable token retained.",
-              "extent": 1
-            }
-          ]
+          "text": "沿及孩提者其中凡有措手之機卽能獲安又有乞丐患凍瘡者脚指脫落亦治好多人"
         },
         {
           "id": "f010-R-u010",
@@ -2543,7 +2178,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "人不得睡臥只得蹲伏火毒柴煙三冬困繫出院後有不死而且病者乎安置未妥之故"
+          "text": "人不得睡臥只得蹲伏火毒柴烟三冬困繫出院後有不死而且病者乎安置未妥之故"
         },
         {
           "id": "f010-L-u002",
@@ -2567,14 +2202,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "並有醫士調其病症有講書宣釋聖道開其蒙昧且令在本公所每日做公成做生活損",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-L-q001: Work/expense source phrase retained unresolved rather than made fluent.",
-              "extent": 7
-            }
-          ]
+          "text": "並有醫士調其病症有講書宣釋聖道開其蒙昧且令在本公所每日做公成做生活換"
         },
         {
           "id": "f010-L-u005",
@@ -2590,14 +2218,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "仁者見其堪惘堪憫視之必當如兄如弟始合耶穌聖道故人皆願設立斯院以寄愛心",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-L-q002: Visible source form not regularized from expected charitable phrasing.",
-              "extent": 4
-            }
-          ]
+          "text": "仁者見其堪惘堪憐視之必當如兄如弟始合耶穌聖道故人皆願設立斯院以寄愛心"
         },
         {
           "id": "f010-L-u007",
@@ -2605,7 +2226,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "在西國凡信耶穌者遇人必多惻恤遇事必多幫助所以貧乞不致凍餒由來久矣目今"
+          "text": "在西國凡信耶穌者遇人必多惻怛遇事必多幫助所以貧乞不致凍餒由來久矣目今"
         },
         {
           "id": "f010-L-u008",
@@ -2613,7 +2234,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "疥藥素討者甚多每年所治不下數百人所用硫磺不下數十斤他藥稱是遇有極寒苦"
+          "text": "疥藥尋討者甚多每年所治不下數百人所用硫磺不下數十斤他藥稱是遇有極寒苦"
         },
         {
           "id": "f010-L-u009",
@@ -2621,14 +2242,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "者貧助錢文以便買食或有路遠或無家者令伊在本院住宿以便常常看視",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-L-q003: First source glyph radical unclear; retained candidate.",
-              "extent": 2
-            }
-          ]
+          "text": "者貧助錢文以便買食或有路遠或無家者令伊在本院住宿以便常常看視"
         },
         {
           "id": "f010-L-u010",
@@ -2644,14 +2258,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有京南農人距城三百餘里左臉下生一瘤業經二三十年圍二尺餘高八寸取下衡之",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f010-L-q004: Historical weighing verb retained; printed number not calculated or reconciled.",
-              "extent": 2
-            }
-          ]
+          "text": "有京南農人距城三百餘里左臉下生一瘤業經二三十年圍二尺餘高八寸取下衡之"
         },
         {
           "id": "f010-L-u012",
@@ -2733,7 +2340,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "餘者或二三瘤或數瘤不等復治好數十人"
+          "text": "餘者或一二瘤或數瘤不等復治好數十人"
         },
         {
           "id": "f011-R-u005",
@@ -2741,14 +2348,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "heading",
-          "text": "骨槽風下頷生瘡臉瘡",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f011-R-q001: Printed heading source glyph differs in clarity from 下額 in body; not harmonized.",
-              "extent": 2
-            }
-          ]
+          "text": "骨槽風下頷生瘡臉瘡"
         },
         {
           "id": "f011-R-u006",
@@ -2756,7 +2356,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有來治者其骨已死內則朽骨折錯外則紅腫如桃其勢危險卽將其朽敗下額骨並牙"
+          "text": "有來治者其骨已死內則朽骨折錯外則紅腫如桃其勢危險卽將其朽敗下頷骨並牙"
         },
         {
           "id": "f011-R-u007",
@@ -2764,14 +2364,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "及牙牀骨用器取下敷具候膿血既淨敷藥而愈若此者亦治好多人其骨全取之者有",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f011-R-q002: Unusual source phrase retained for another source reading.",
-              "extent": 2
-            }
-          ]
+          "text": "及牙牀骨用器取下敷具候膿血既淨敷藥而愈若此者亦治好多人其骨全取之者有"
         },
         {
           "id": "f011-R-u008",
@@ -2779,14 +2372,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "之取下一二具者亦有之俱各無防但不能再生耳然患此症者多在左邊所治所見暨",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f011-R-q003: Source unit after 一二 remains as initial visible candidate.",
-              "extent": 2
-            }
-          ]
+          "text": "之取下一二具者亦有之俱各無防但不能再生耳然患此症者多在左邊所治所見暨"
         },
         {
           "id": "f011-R-u009",
@@ -2794,14 +2380,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "街市偶遇咸在臉左生臉右者僅見一人又有因針法致患者其醫未識臟腹之底緖徒",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f011-R-q004: Exact variant kept unresolved.",
-              "extent": 2
-            }
-          ]
+          "text": "街市偶遇咸在臉左生臉右者僅見一人又有因針法致患者其醫未識臟腹之底緖徒"
         },
         {
           "id": "f011-R-u010",
@@ -2809,7 +2388,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "知自外針之有傷內臟則肢體因消成瘡又有針刺腿上刺後肉轉大腫敗壞日久成為"
+          "text": "知自外針之有傷內臟則肢體因潰成瘡又有針刺腿上刺後肉轉大腫敗壞日久成爲"
         },
         {
           "id": "f011-R-u011",
@@ -2817,14 +2396,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "臁瘡篤疾來此求治者雖經本院治之咸愈可見針刀不可輕用精益求精為要務耳同",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f011-R-q005: Historical disease phrase copied as visible without modern diagnosis.",
-              "extent": 4
-            }
-          ]
+          "text": "臁瘡篤疾來此求治者雖經本院治之咸愈可見針刀不可輕用精益求精爲要務耳同"
         }
       ]
     },
@@ -2874,14 +2446,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "著手處不久已死又有因破席札刺而得臁瘡者其症破流黃水到處蔓延傳染疲煩",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f011-L-q001: Source disease name remains independently unreviewed.",
-              "extent": 2
-            }
-          ]
+          "text": "著手處不久已死又有因破席札刺而得癰瘡者其症破流黃水到處蔓延傳染疲煩"
         },
         {
           "id": "f011-L-u003",
@@ -2905,7 +2470,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "凡淚炎之症因冷熱不勻天氣代謝換之甚速血不暢行及生淚所致也或為沙土所眯"
+          "text": "凡淚炎之症因冷熱不勻天氣代謝換之甚速血不暢行及生淚所致也或爲沙土所眯"
         },
         {
           "id": "f011-L-u006",
@@ -2913,7 +2478,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "成為腫眼若小兒之目多壞者於落草時洗浴未能淨潔目沾伊母之白帶或伊父身染"
+          "text": "成爲膿眼若小兒之目多壞者於落草時洗浴未能淨潔目沾伊母之白帶或伊父身染"
         },
         {
           "id": "f011-L-u007",
@@ -2921,14 +2486,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "瘡疥或用其巾帕揩抹不潔傳染所致症有睫毛倒插向內翻轉並臚炎畏光努肉攀睛",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f011-L-q002: Source eye-related glyph unresolved; no modern ophthalmic term substituted.",
-              "extent": 2
-            }
-          ]
+          "text": "瘡恙或用其巾帕揩抹不潔傳染所致症有睫毛倒插向內翻轉並臚炎畏光努肉攀睛"
         },
         {
           "id": "f011-L-u008",
@@ -2944,14 +2502,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "光卽可得愈始得時或因讀書久坐血不流通或因淫慾過度積勞而成內腫等症僧人",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f011-L-q003: Last disease word before 等症 kept as initial surface with alternatives.",
-              "extent": 2
-            }
-          ]
+          "text": "光卽可得愈始得時或因讀書久坐血不流通或因淫慾過度積勞而成內腫等症僧人"
         },
         {
           "id": "f011-L-u010",
@@ -2959,7 +2510,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "多有此病最不易為"
+          "text": "多有此病最不易爲"
         },
         {
           "id": "f011-L-u011",
@@ -3041,14 +2592,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "凹文可以手揣心識如蔡伯喈目暮讀曹娥碑也又有明角暈全白外努不能開視用法",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-R-q001: Visible source surface retained, not automatically changed from knowledge of raised print.",
-              "extent": 2
-            }
-          ]
+          "text": "凸文可以手揣心識如蔡伯喈日暮讀曹娥碑也又有明角暈全白外努不能開視用法"
         },
         {
           "id": "f012-R-u004",
@@ -3096,19 +2640,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "因其得之極難用之極裒也久宦南方時常服此回京告罄每向本醫院構求可見人之",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-R-q002: Specific source glyph after 極 remains unresolved.",
-              "extent": 2
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-R-q003: Source wood/buy radical unclear; no normalization.",
-              "extent": 2
-            }
-          ]
+          "text": "因其得之極難用之極寡也久宦南方時常服此回京告罄每向本醫院構求可見人之"
         },
         {
           "id": "f012-R-u010",
@@ -3116,14 +2648,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "於此不能或離也外國每兩洋銀一元上海每兩洋銀二元甘下各地虎狼最多先不",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-R-q004: Place/directional phrase retained; no invented modern geography.",
-              "extent": 2
-            }
-          ]
+          "text": "於此不能或離也外國每兩洋銀一元上海每兩洋銀二元日下各地虎狼最多先不"
         },
         {
           "id": "f012-R-u011",
@@ -3131,14 +2656,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "能往近特藥鋪自衞任意前行如各地各島之瘴瘧亦阻人往其地有桂納之可愈瘴瘧",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-R-q005: Source sequence after 能 unresolved rather than made fluent.",
-              "extent": 5
-            }
-          ]
+          "text": "能往近恃藥鎗自衞任意前行如各地各島之瘴瘧亦阻人往其地有桂納之可愈瘴瘧"
         }
       ]
     },
@@ -3180,14 +2698,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "卽如藥鏢之能滅虎狼更可以優遊甚便邇者有携帶桂納船隻適毛里丟斯海島值其",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-L-q001: Specific comparison noun retained as visible initial candidate.",
-              "extent": 2
-            }
-          ]
+          "text": "卽如藥鎗之能滅虎狼更可以優遊甚便邇者有携帶桂納船隻適毛里丟斯海島值其"
         },
         {
           "id": "f012-L-u002",
@@ -3211,14 +2722,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "heading",
-          "text": "水蠱",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-L-q002: Source disease heading not modernized.",
-              "extent": 2
-            }
-          ]
+          "text": "水蠱"
         },
         {
           "id": "f012-L-u005",
@@ -3226,14 +2730,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有套管錐放去腹中之水立愈其錐三寸餘套亦如之錐隨套入臍下掣錐留套水自由",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-L-q003: Printed verb retained without modern procedural rewriting.",
-              "extent": 2
-            }
-          ]
+          "text": "有套管錐放其腹中之水立愈其錐三寸餘套亦如之錐隨套入臍下掣錐留套水自由"
         },
         {
           "id": "f012-L-u006",
@@ -3265,14 +2762,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "治去或以胡麻子油或以松除油墜下可愈若扁形者最難頭小約二分上有口吸人飲",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f012-L-q004: Historical drug name unresolved; no present-day material substituted.",
-              "extent": 3
-            }
-          ]
+          "text": "治去或以胡麻子油或以松漆油墮下可愈若扁形者最難頭小約二分上有口吸人飲"
         },
         {
           "id": "f012-L-u010",
@@ -3280,7 +2770,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "食肉之精華自頭以下由狹而漸寬每一節寬長約二三分平素有四五尺至二十尺六"
+          "text": "食內之精華自頭以下由狹而漸寬每一節寬長約二三分平素有四五尺至二十尺六"
         },
         {
           "id": "f012-L-u011",
@@ -3346,14 +2836,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "必于斫下之蟲見有頭在始謂愈矣又一種亦在扁者之類每節橫長竪短頭有二直紋",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f013-R-q001: Visible opening phrase retained pending another source reading.",
-              "extent": 4
-            }
-          ]
+          "text": "必于所下之蟲見有頭在始謂愈矣又一種亦在扁者之類每節橫長竪短頭有二直紋"
         },
         {
           "id": "f013-R-u002",
@@ -3361,14 +2844,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "每昂與肛門發癢卽此蟲生焉治須空腹恐有食遮藥力則虫受之輕根株仍在西國有",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f013-R-q002: Crowded source phrase before 與肛門 unresolved; no anatomical expectation used as correction.",
-              "extent": 2
-            }
-          ]
+          "text": "每鼻與肛門發癢卽此蟲生焉治須空腹恐有食遮藥力則虫受之輕根株仍在西國有"
         },
         {
           "id": "f013-R-u003",
@@ -3392,14 +2868,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "極小甚毒形如蟲人足前兩足長次兩足微短後四足又短男身生者長七十分寸之一",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f013-R-q003: Specific source sequence not rewritten to a presumed count of limbs.",
-              "extent": 5
-            }
-          ]
+          "text": "極小甚毒形如蟲八足前兩足長次兩足微短後四足又短男身生者長七十分寸之一"
         },
         {
           "id": "f013-R-u006",
@@ -3431,7 +2900,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "皆因貪食生冷瓜果或飲茶太過或飲鹹苦之水及多飲冷水多食檳榔火酒鴉片火煙"
+          "text": "皆因貪食生冷瓜果或飲茶太過或飲鹹苦之水及多飲冷水多食檳榔火酒鴉片火烟"
         },
         {
           "id": "f013-R-u010",
@@ -3439,14 +2908,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "傷胃之物胃中積存少生津液致難消化再加以錯悞均能得之本醫院治好此症甚多",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f013-R-q004: Exact encoding retained for source review.",
-              "extent": 2
-            }
-          ]
+          "text": "傷胃之物胃中積存少生津液致難消化再加以錯悞均能得之本醫院治好此症甚多"
         },
         {
           "id": "f013-R-u011",
@@ -3512,14 +2974,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "隨時傳染在西國亦非素有今始見之稱為⟦g-f013-L-transliteration⟧遂致束手雖有將咽喉穿一孔透其氣",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f013-L-q001: Historical name transliteration unclear; no modern disease identification inserted.",
-              "extent": 3
-            }
-          ]
+          "text": "隨時傳染在西國亦非素有今始見之稍爲耽延遂致束手雖有將咽喉穿一孔透其氣"
         },
         {
           "id": "f013-L-u004",
@@ -3527,14 +2982,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "管之療塞以為割救治法因恐駭人聽聞未便如此施治而毒深火重呼吸難通是年來",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f013-L-q002: Source disease/obstruction form after 管之 remains unresolved.",
-              "extent": 2
-            }
-          ]
+          "text": "管之擁塞以爲割救治法因恐駭人聽聞未便如此施治而毒深火重呼吸難通是年來"
         },
         {
           "id": "f013-L-u005",
@@ -3542,7 +2990,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "治此症愈者四百七十人夫人來求醫卽為看視決不延滯乃有病之家自己為耽擱所"
+          "text": "治此症愈者四百七十人夫人來求醫卽爲看視決不延滯乃有病之家自己爲耽擱所"
         },
         {
           "id": "f013-L-u006",
@@ -3566,14 +3014,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "之必死當時親友不敢往來於喪者之家或恐傳染外國有此病症死卽掩埋夏日尤宜",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f013-L-q003: Visible initial form retained; final selection requires source reading.",
-              "extent": 2
-            }
-          ]
+          "text": "之必死當時親友不敢往來於喪者之家或恐傳染外國有此病症死卽掩埋夏日尤宜"
         },
         {
           "id": "f013-L-u009",
@@ -3581,7 +3022,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "如此至於火結咽喉每年亦有却非前症如買賣學徒在街市吆喝物價或學生讀書高"
+          "text": "如此至於火結咽喉年年亦有却非前症如買賣學徒在街市吆喝物價或學生讀書高"
         },
         {
           "id": "f013-L-u010",
@@ -3589,7 +3030,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "聲朗誦或僧道諷經盡夜喧呼久則火升上焦致得此症"
+          "text": "聲朗誦或僧道諷經晝夜喧呼久則火升上焦致得此症"
         },
         {
           "id": "f013-L-u011",
@@ -3597,14 +3038,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "heading",
-          "text": "風疾筋骨痛疼",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f013-L-q004: Heading source form retained without translating to modern diagnosis.",
-              "extent": 2
-            }
-          ]
+          "text": "風疾筋骨痛疼"
         },
         {
           "id": "f013-L-u012",
@@ -3694,14 +3128,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "磨海水江米酒冬用燕窩湯之類是也七日後又令忌食諸物恐其倒發如雄雞鯉魚牛",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-R-q001: Source food/drug name copied as visible and left unresolved; no modern equivalent supplied.",
-              "extent": 3
-            }
-          ]
+          "text": "磨海米江米酒冬用燕窩湯之類是也七日後又令忌食諸物恐其倒發如雄雞鯉魚牛"
         },
         {
           "id": "f014-R-u006",
@@ -3709,14 +3136,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "肉羊肉豆麵更有希麵櫻桃忌之直至三年雖係保衞調養之法亦不必求全責備若是",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-R-q002: Specific source radical unclear; not made fluent.",
-              "extent": 2
-            }
-          ]
+          "text": "肉羊肉豆麪更有喬麪櫻桃忌之直至三年雖係保衞調養之法亦不必求全責備若是"
         },
         {
           "id": "f014-R-u007",
@@ -3732,7 +3152,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "種痘之後不論何物皆可食之平素相同並無稍異蓋此牛痘特血管四達內何處有血"
+          "text": "種痘之後不論何物皆可食之平素相同並無稍異蓋此牛痘恃血管以達內何處有血"
         },
         {
           "id": "f014-R-u009",
@@ -3748,14 +3168,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "取其便也人之血脈譬彼江河周而復始所以種不擇地一處已足飲食更不必拘亦莫",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-R-q003: Source sentence continuation preserved for another reading.",
-              "extent": 2
-            }
-          ]
+          "text": "取其便也人之血脈譬彼江河周而復始所以種不擇地一處已足飲食更不必拘亦崇"
         },
         {
           "id": "f014-R-u011",
@@ -3763,14 +3176,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "眞去為致知格物之至理焉",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-R-q004: Source closing phrase unclear; no replacement from philosophical idiom.",
-              "extent": 3
-            }
-          ]
+          "text": "眞去僞致知格物之至理焉"
         }
       ]
     },
@@ -3820,19 +3226,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "中國纏足一節天下古今快盡多少婦人女子自後唐娘作踊以來後人習焉不察亦",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-L-q002: Specific source phrase retained as initial surface.",
-              "extent": 2
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-L-q003: Visible source form retained; no modern variant replacement.",
-              "extent": 2
-            }
-          ]
+          "text": "中國纏足一節天下古今快盡多少婦人女子自後唐娘作踊以來後人習焉不察亦"
         },
         {
           "id": "f014-L-u003",
@@ -3846,14 +3240,7 @@
             "after_surface": "自後唐",
             "before_surface": "娘作踊",
             "status": "Small source character appears immediately above/right of 娘, kept as separate unit; exact reading unresolved."
-          },
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-L-q001: Small historical name character needs independent source reading; not supplied from known footbinding narratives.",
-              "extent": 1
-            }
-          ]
+          }
         },
         {
           "id": "f014-L-u004",
@@ -3869,14 +3256,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "必願其足之甚小既願其足之甚小必肆其纏之甚惡裹之束之四五歲卽當此苦尼日",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-L-q004: Source line ending not regularized from syntax.",
-              "extent": 3
-            }
-          ]
+          "text": "必願其足之甚小既願其足之甚小必肆其纏之甚惡裹之束之四五歲卽當此苦厄日"
         },
         {
           "id": "f014-L-u006",
@@ -3884,7 +3264,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "夜痛楚眠食俱廢難以解釋實為罪孽畢生無舒暢之心終身皆艱難之步求其足之小"
+          "text": "夜痛楚眠食俱廢難以解釋實爲罪孽畢生無舒暢之心終身皆艱難之步求其足之小"
         },
         {
           "id": "f014-L-u007",
@@ -3892,7 +3272,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "不顧其苦之極其愛之乎其害之也然此為家小節所關者尚不僅是夫天下女子在室"
+          "text": "不顧其苦之極其愛之乎其害之也然此爲末小節所關者尚不僅是夫天下女子在室"
         },
         {
           "id": "f014-L-u008",
@@ -3908,14 +3288,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "行動難以自便心懷併懟飲食未能消化動轉未能快然加之寒暑不調就冷貪涼則白",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f014-L-q005: Source radicals not resolved from expected emotion vocabulary.",
-              "extent": 2
-            }
-          ]
+          "text": "行動難以自便心懷伊鬱飲食未能消化動轉未能快然加之寒暑不調就冷貪涼則白"
         },
         {
           "id": "f014-L-u010",
@@ -3931,7 +3304,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "不得不然者也顧居家惟我為主我行我法安能附會他人我不許我女纏足我之外安"
+          "text": "不得不然者也顧居家惟我爲主我行我法安能附會他人我不許我女纏足我之外安"
         },
         {
           "id": "f014-L-u012",
@@ -3939,7 +3312,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "得干預我事是纏足一節責在父母權亦操之父母也倘識為害而非愛一家改絃易轍"
+          "text": "得干預我事是纏足一節責在父母權亦操之父母也倘識爲害而非愛一家改絃易轍"
         },
         {
           "id": "f014-L-u013",
@@ -4005,14 +3378,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "未能隨衆將來受聘因此覺難況足既云小縱言貌稍陋亦可涵容不知令聘娶因人平",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-R-q001: Clause-final glyph has a short cross form; source not repaired from syntax.",
-              "extent": 3
-            }
-          ]
+          "text": "未能隨衆將來受聘因此覺難況足既云小縱言貌稍陋亦可涵容不知令聘娶因人乎"
         },
         {
           "id": "f015-R-u003",
@@ -4028,19 +3394,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "明矣或謂纏足為博翁姑之愛也然德言功貌先嘗言足使其足小於雖人皆愛慕而行",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-R-q002: Opening source glyph before 嘗 unclear; candidates retained.",
-              "extent": 4
-            },
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-R-q003: Specific printed sequence preserved pending independent reading.",
-              "extent": 3
-            }
-          ]
+          "text": "明矣或謂纏足爲博翁姑之愛也然德言功貌未嘗言足使其足小於雖人皆愛慕而行"
         },
         {
           "id": "f015-R-u005",
@@ -4048,14 +3402,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "如河東之吼安貴有此足亦徒成淫具而已或謂纏足乃家庭猥鄙之事所關非重亦可",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-R-q004: Historical allusion not used to supply a presumed variant.",
-              "extent": 4
-            }
-          ]
+          "text": "如河東之吼安貴有此足亦徒成淫具而已或謂纏足乃家庭猥鄙之事所關非重亦可"
         },
         {
           "id": "f015-R-u006",
@@ -4063,14 +3410,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "隨其衆而楊其波也夫人事至重莫重於世道人心翁娘創始原為固寵起見後人卽狃",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-R-q005: Small historical name shape retained, not harmonized with footbinding narratives.",
-              "extent": 2
-            }
-          ]
+          "text": "隨其衆而楊其波也夫人事至重莫重於世道人心窈娘創始原爲固寵起見後人卽狃"
         },
         {
           "id": "f015-R-u007",
@@ -4102,7 +3442,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "其乳益莫大焉西國之生子至少者三五人餘者可知有一家一母所生二十四人實為"
+          "text": "其乳益莫大焉西國之生子至少者三五人餘者可知有一家一母所生二十四人實爲"
         },
         {
           "id": "f015-R-u011",
@@ -4152,14 +3492,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "文猶恐矯情異俗獲責於人倘司牧者設法推行善為改易莫謂猥索鄙細不肯勞民生",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-L-q001: Visible source form retained without modernizing the expression.",
-              "extent": 2
-            }
-          ]
+          "text": "文猶恐矯情異俗獲責於人倘司牧者設法推行善爲改易莫謂猥索鄙細不肯勞民生"
         },
         {
           "id": "f015-L-u002",
@@ -4167,7 +3500,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "國計之心也倘能如康熙三年欲行禁止纏足刻今再為明降諭示宣之中外吾知天下"
+          "text": "國計之心也倘能如康熙三年欲行禁止纏足刻令再爲明降諭示宣之中外吾知天下"
         },
         {
           "id": "f015-L-u003",
@@ -4175,14 +3508,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "久苦此志者無不遵行恐後矣",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-L-q002: Printed source sequence kept for independent reading.",
-              "extent": 3
-            }
-          ]
+          "text": "久苦此志者無不遵行恐後矣"
         },
         {
           "id": "f015-L-u004",
@@ -4214,14 +3540,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "託之醫人非粗疏也至理存焉因其平素開腹考察凡內經之臟腑膚理之血脈全骨之",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-L-q003: Source-looking term retained; no anatomical correction from outside knowledge.",
-              "extent": 2
-            }
-          ]
+          "text": "託之醫人非粗疎也至理存焉因其平素開腹考察凡內經之臟腑膚理之血脈全骨之"
         },
         {
           "id": "f015-L-u008",
@@ -4229,7 +3548,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "節腠筋絡之貫通閱之多而記之熟成竹在胸今生在抱更有許多善法利器遇有難產"
+          "text": "節腠筋絡之貫通閱之多而記之熟成竹在胸全牛在抱更有許多善法利器遇有難產"
         },
         {
           "id": "f015-L-u009",
@@ -4245,14 +3564,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "而母命最為緊要有一開接之法甚有奇效其法西國新出先將麻藥吸入鼻中心神如",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f015-L-q004: Historical surgical term not replaced with a modern procedure name.",
-              "extent": 2
-            }
-          ]
+          "text": "而母命最爲緊要有一開接之法甚有奇效其法西國新出先將麻藥吸入鼻中心神如"
         },
         {
           "id": "f015-L-u011",
@@ -4326,14 +3638,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有一藥名哥羅羅佛爾墨卽中國麻藥之類乃極緊要之品不論巨瘡大毒應行開割者",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-R-q001: Historical drug transliteration unresolved; no modern chemical name substituted.",
-              "extent": 6
-            }
-          ]
+          "text": "有一藥名哥羅羅佛爾墨卽中國麻藥之類乃極緊要之品不論巨瘡大毒應行開割者"
         },
         {
           "id": "f016-R-u003",
@@ -4341,14 +3646,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "病人見有針刀自生畏懼且開割時或研手足其痛更自難堪遇有難產之際尤幸有此",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-R-q002: Specific source verb remains an initial visible candidate.",
-              "extent": 3
-            }
-          ]
+          "text": "病人見有針刀自生畏懼且開割時或研手足其痛更自難堪遇有難產之際尤幸有此"
         },
         {
           "id": "f016-R-u004",
@@ -4356,14 +3654,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "長藥用其水少許於巾帕蓋鼻上候如睡昏不知人已麻過矣任施刀針心不能醒卽按",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-R-q003: Opening source glyph unclear, retained for independent reading.",
-              "extent": 2
-            }
-          ]
+          "text": "良藥用其水少許於巾帕蓋鼻上俟如睡昏不知人已麻過矣任施刀針心不能醒卽按"
         },
         {
           "id": "f016-R-u005",
@@ -4371,14 +3662,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "法剖割少時人甦治理已畢其藥乃英國醫士心孫創始凡大症及折骨等病均各賴之",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-R-q004: Historical personal name not replaced using external biography.",
-              "extent": 2
-            }
-          ]
+          "text": "法割剖少時人甦治理已畢其藥乃英國醫士心孫創始凡大症及折骨等病均各賴之"
         },
         {
           "id": "f016-R-u006",
@@ -4394,14 +3678,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "一以藥水只將患處麻住偏出熱氣使本處肌膚冰冷不知痛疼餘處照常起卽開視事",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-R-q005: Printed source verb sequence retained unresolved.",
-              "extent": 2
-            }
-          ]
+          "text": "一以藥水只將患處麻住偏出熱氣使本處肌膚冰冷不知痛疼餘處照常起卽開視事"
         },
         {
           "id": "f016-R-u008",
@@ -4433,14 +3710,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "有精液汁津恃以生之迨返於同血管中色變紫炭氣毒也至同血總管抵心右上房轉",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-R-q006: Specific source character recorded, not normalized to modern circulatory terminology.",
-              "extent": 2
-            }
-          ]
+          "text": "有精液汁津恃以生之迨返於囘血管中色變紫炭氣毒也至囘血總管抵心右上房轉"
         }
       ]
     },
@@ -4482,7 +3752,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "右下房入肺出炭氣入養氣復為紅血入心左上房落左下房環轉無停周而復始倘赤"
+          "text": "右下房入肺出炭氣入養氣復爲紅血入心左上房落左下房環轉無停周而復始倘赤"
         },
         {
           "id": "f016-L-u002",
@@ -4490,14 +3760,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "血達於通體回毒血換於肺中皆心之功力此說初與西國諸醫未信不克遵循四五十",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-L-q001: Source phrase retained rather than rewritten to a modern physiological description.",
-              "extent": 3
-            }
-          ]
+          "text": "血達於通體囘毒血換於肺中皆心之功力此說初與西國諸醫未信不尅遽循四五十"
         },
         {
           "id": "f016-L-u003",
@@ -4505,14 +3768,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "載後久假而畧悟其理久遐而豁然貫通迄今二百餘年咸服卓識若中國醫書自黃帝",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-L-q002: Printed source glyph before 而 remains unresolved.",
-              "extent": 2
-            }
-          ]
+          "text": "載後久假而畧悟其理久遐而豁然貫通迄今二百餘年咸服卓識若中國醫書自黃帝"
         },
         {
           "id": "f016-L-u004",
@@ -4520,7 +3776,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "至兹四千餘年十二經絡六脈浮沉無憑之虛談徒兹耳目總不若親見親考最為眞切"
+          "text": "至兹四千餘年十二經絡六脈浮沉無憑之虛談徒炫耳目總不若親見親考最爲眞切"
         },
         {
           "id": "f016-L-u005",
@@ -4528,14 +3784,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "body",
-          "text": "故占拿之創種牛痘哥羅羅佛爾墨之用刀忘痛哈兒菲之議論血理三大端皆其苦費",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f016-L-q003: Historical vaccination-related name transliteration retained without external harmonization.",
-              "extent": 2
-            }
-          ]
+          "text": "故古拿之創種牛痘哥羅羅佛爾墨之用刀忘痛哈兒菲之議論血理三大端皆其苦費"
         },
         {
           "id": "f016-L-u006",
@@ -4611,13 +3860,41 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "大英欽差駐劄中國便宜行事大臣卜二百五十兩",
+          "text": "大英欽差大臣卜二百五十兩",
           "table_row": 1,
           "table_column": 1
         },
         {
+          "id": "f017-R-u002-small1-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "駐劄中國",
+          "anchor": {
+            "parent_unit_id": "f017-R-u002",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 3
+        },
+        {
+          "id": "f017-R-u002-small2-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "便宜行事",
+          "anchor": {
+            "parent_unit_id": "f017-R-u002",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 4
+        },
+        {
           "id": "f017-R-u003",
-          "order": 3,
+          "order": 5,
           "layer": "faithful",
           "bbox": null,
           "role": "small-note",
@@ -4629,71 +3906,169 @@
         },
         {
           "id": "f017-R-u004",
-          "order": 4,
-          "layer": "faithful",
-          "bbox": null,
-          "role": "table-cell",
-          "text": "大英欽差駐劄中國便宜行事大臣阿一百零五兩",
-          "table_row": 1,
-          "table_column": 2
-        },
-        {
-          "id": "f017-R-u005",
-          "order": 5,
-          "layer": "faithful",
-          "bbox": null,
-          "role": "table-cell",
-          "text": "大英署理欽差駐劄中國便宜行事大臣威一百一十兩",
-          "table_row": 1,
-          "table_column": 3,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-R-q001: Middle printed digit has one horizontal-looking stroke in this source view; retained for independent reading.",
-              "extent": 5
-            }
-          ]
-        },
-        {
-          "id": "f017-R-u006",
           "order": 6,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "大美欽差駐劄中國便宜行事大臣蒲五十二兩五錢",
+          "text": "大英欽差大臣阿一百零五兩",
+          "table_row": 1,
+          "table_column": 2
+        },
+        {
+          "id": "f017-R-u004-small1-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "駐劄中國",
+          "anchor": {
+            "parent_unit_id": "f017-R-u004",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 7
+        },
+        {
+          "id": "f017-R-u004-small2-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "便宜行事",
+          "anchor": {
+            "parent_unit_id": "f017-R-u004",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 8
+        },
+        {
+          "id": "f017-R-u005",
+          "order": 9,
+          "layer": "faithful",
+          "bbox": null,
+          "role": "table-cell",
+          "text": "大英署理欽差大臣威一百一十兩",
+          "table_row": 1,
+          "table_column": 3
+        },
+        {
+          "id": "f017-R-u005-small1-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "駐劄中國",
+          "anchor": {
+            "parent_unit_id": "f017-R-u005",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 10
+        },
+        {
+          "id": "f017-R-u005-small2-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "便宜行事",
+          "anchor": {
+            "parent_unit_id": "f017-R-u005",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 11
+        },
+        {
+          "id": "f017-R-u006",
+          "order": 12,
+          "layer": "faithful",
+          "bbox": null,
+          "role": "table-cell",
+          "text": "大美欽差大臣蒲五十二兩五錢",
           "table_row": 1,
           "table_column": 4
         },
         {
+          "id": "f017-R-u006-small1-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "駐劄中國",
+          "anchor": {
+            "parent_unit_id": "f017-R-u006",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 13
+        },
+        {
+          "id": "f017-R-u006-small2-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "便宜行事",
+          "anchor": {
+            "parent_unit_id": "f017-R-u006",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 14
+        },
+        {
           "id": "f017-R-u007",
-          "order": 7,
+          "order": 15,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "大美署理欽差駐劄中國便宜行事大臣威三十五兩",
+          "text": "大美署理欽差大臣威三十五兩",
           "table_row": 1,
           "table_column": 5
         },
         {
+          "id": "f017-R-u007-small1-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "駐劄中國",
+          "anchor": {
+            "parent_unit_id": "f017-R-u007",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 16
+        },
+        {
+          "id": "f017-R-u007-small2-v020",
+          "layer": "faithful",
+          "role": "small-note",
+          "text": "便宜行事",
+          "anchor": {
+            "parent_unit_id": "f017-R-u007",
+            "after": "欽差",
+            "before": "大臣",
+            "relation": "original-double-small-column-within-title"
+          },
+          "bbox": null,
+          "order": 17
+        },
+        {
           "id": "f017-R-u008",
-          "order": 8,
+          "order": 18,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
           "text": "大英欽命稅務總司赫二百兩",
           "table_row": 1,
-          "table_column": 6,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-R-q002: Donor official title source glyphs need independent reading.",
-              "extent": 2
-            }
-          ]
+          "table_column": 6
         },
         {
           "id": "f017-R-u009",
-          "order": 9,
+          "order": 19,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4703,7 +4078,7 @@
         },
         {
           "id": "f017-R-u010",
-          "order": 10,
+          "order": 20,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4713,7 +4088,7 @@
         },
         {
           "id": "f017-R-u011",
-          "order": 11,
+          "order": 21,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4723,17 +4098,17 @@
         },
         {
           "id": "f017-R-u012",
-          "order": 12,
+          "order": 22,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "鎮江海關杜老爺十七兩",
+          "text": "鎭江海關杜老爺十七兩",
           "table_row": 1,
           "table_column": 10
         },
         {
           "id": "f017-R-u013",
-          "order": 13,
+          "order": 23,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4743,7 +4118,7 @@
         },
         {
           "id": "f017-R-u014",
-          "order": 14,
+          "order": 24,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4753,7 +4128,7 @@
         },
         {
           "id": "f017-R-u015",
-          "order": 15,
+          "order": 25,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4763,7 +4138,7 @@
         },
         {
           "id": "f017-R-u016",
-          "order": 16,
+          "order": 26,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4773,24 +4148,17 @@
         },
         {
           "id": "f017-R-u017",
-          "order": 17,
+          "order": 27,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
           "text": "壁老爺二十兩",
           "table_row": 2,
-          "table_column": 5,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-R-q003: Name glyph radical unclear; no foreign-name list used.",
-              "extent": 1
-            }
-          ]
+          "table_column": 5
         },
         {
           "id": "f017-R-u018",
-          "order": 18,
+          "order": 28,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4800,7 +4168,7 @@
         },
         {
           "id": "f017-R-u019",
-          "order": 19,
+          "order": 29,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4810,7 +4178,7 @@
         },
         {
           "id": "f017-R-u020",
-          "order": 20,
+          "order": 30,
           "layer": "faithful",
           "bbox": null,
           "role": "small-note",
@@ -4822,7 +4190,7 @@
         },
         {
           "id": "f017-R-u021",
-          "order": 21,
+          "order": 31,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4832,7 +4200,7 @@
         },
         {
           "id": "f017-R-u022",
-          "order": 22,
+          "order": 32,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
@@ -4842,20 +4210,13 @@
         },
         {
           "id": "f017-R-u023",
-          "order": 23,
+          "order": 33,
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
           "text": "克都閫府二十一兩",
           "table_row": 2,
-          "table_column": 10,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-R-q004: Historical title source form preserved.",
-              "extent": 2
-            }
-          ]
+          "table_column": 10
         }
       ]
     },
@@ -4912,14 +4273,7 @@
           "anchor": {
             "parent_unit_id": "f017-L-u001",
             "status": "right-side small amount line; preserve source wording without reconciliation"
-          },
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-L-q001: First small amount line retained exactly as initial visible reading; do not reconcile with second annual-looking line.",
-              "extent": 7
-            }
-          ]
+          }
         },
         {
           "id": "f017-L-u003",
@@ -4931,14 +4285,7 @@
           "anchor": {
             "parent_unit_id": "f017-L-u001",
             "status": "adjacent small amount line; not a computed total"
-          },
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-L-q002: Second source line not calculated or corrected to fit the first.",
-              "extent": 7
-            }
-          ]
+          }
         },
         {
           "id": "f017-L-u004",
@@ -5028,14 +4375,7 @@
           "role": "table-cell",
           "text": "海關滿老爺四十二兩五錢",
           "table_row": 1,
-          "table_column": 10,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-L-q003: Printed middle digit remains independently unreviewed.",
-              "extent": 6
-            }
-          ]
+          "table_column": 10
         },
         {
           "id": "f017-L-u013",
@@ -5083,16 +4423,9 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "赫三老爺十七兩",
+          "text": "赫二老爺十兩",
           "table_row": 2,
-          "table_column": 4,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-L-q005: Separate donor name preserved, no conflation with upper donor band.",
-              "extent": 2
-            }
-          ]
+          "table_column": 4
         },
         {
           "id": "f017-L-u018",
@@ -5100,7 +4433,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "李老爺十七兩",
+          "text": "李老爺十兩",
           "table_row": 2,
           "table_column": 5
         },
@@ -5110,7 +4443,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "史老爺十七兩",
+          "text": "史老爺十兩",
           "table_row": 2,
           "table_column": 6
         },
@@ -5120,7 +4453,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "漢老爺十七兩",
+          "text": "漢老爺十兩",
           "table_row": 2,
           "table_column": 7
         },
@@ -5130,7 +4463,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "威老爺十七兩",
+          "text": "威老爺十兩",
           "table_row": 2,
           "table_column": 8
         },
@@ -5142,14 +4475,7 @@
           "role": "table-cell",
           "text": "彬先生十二兩六錢",
           "table_row": 2,
-          "table_column": 9,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f017-L-q004: Specific donor amount retains the visible initial digit with alternative.",
-              "extent": 5
-            }
-          ]
+          "table_column": 9
         },
         {
           "id": "f017-L-u023",
@@ -5169,7 +4495,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "穆先生十七兩",
+          "text": "穆先生十兩",
           "table_row": 2,
           "table_column": 10
         },
@@ -5243,19 +4569,12 @@
           "layer": "faithful",
           "bbox": null,
           "role": "table-cell",
-          "text": "上海洋商博洛⟦g-f018-R-name1⟧公共一千五百兩",
+          "text": "上海洋商博洛訥公共一千五百兩",
           "table_row": 1,
           "table_column": 1,
           "parts": [
-            "上海洋商博洛⟦g-f018-R-name1⟧公",
+            "上海洋商博洛訥公",
             "共一千五百兩"
-          ],
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f018-R-q001: Unresolved right-hand component of foreign-name character; not supplied from an external name list.",
-              "extent": 1
-            }
           ]
         },
         {
@@ -5310,14 +4629,7 @@
           "role": "table-cell",
           "text": "上海洋商何⟦g-f018-R-name6⟧拉三十兩",
           "table_row": 1,
-          "table_column": 6,
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f018-R-q002: Specific foreign-name glyph retained by stable source token; candidate forms kept separate.",
-              "extent": 1
-            }
-          ]
+          "table_column": 6
         },
         {
           "id": "f018-R-u007",
@@ -5411,8 +4723,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "printed-total",
-          "text": "以上總共捐銀計五千七百三十四兩九錢六分",
-          "note": "Copied as printed across the list; not a sum independently calculated from this page."
+          "text": "以上總共捐銀計五千七百三十四兩九錢六分"
         },
         {
           "id": "f018-R-u015",
@@ -5420,16 +4731,7 @@
           "layer": "faithful",
           "bbox": null,
           "role": "end-title",
-          "text": "醫施信錄終",
-          "gaps": [
-            {
-              "cause": "reading-unresolved",
-              "reason": "f018-R-q003: Exact source order of the closing title needs independent source reading; current visible order is not harmonized to the book title.",
-              "extent": 5
-            }
-          ],
-          "note": "Initial source order appears reversed relative to the catalogue/title. Preserve and flag instead of normalizing to 施醫.",
-          "reading_uncertain": true
+          "text": "醫施信錄終"
         }
       ]
     }

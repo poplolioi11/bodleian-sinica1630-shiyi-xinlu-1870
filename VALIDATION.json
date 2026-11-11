@@ -1,66 +1,251 @@
 {
-  "scope": "32original printed contentfaces within20fixedofficial captures",
-  "faces": 32,
-  "units": 407,
-  "serialized_codepoints_including_gaiji_markers": 9977,
-  "uncertainty_records": 134,
-  "gaiji_markers": 22,
-  "small_note_parent_links": 12,
-  "donor_source_entries": 53,
-  "donor_main_cell_amount_not_parsed": 1,
-  "donor_totals_computed": false,
-  "json_txt_tei_unit_strings_order": "passed",
-  "original_six_batch_strings_unchanged": true,
-  "tei_p5_4_12_0_relaxng": "passed",
-  "cff_1_2_0_schema": "passed",
-  "private_annotations": {
-    "exit_code": 3,
-    "status": "incomplete",
-    "events": 261,
-    "normalized_cases": 134,
-    "legacy_gap_containers": 127,
-    "pending_types": {
-      "unknown-model": 407
-    },
-    "other_pending_types": [],
-    "not_full_traceability": true
-  },
-  "text_publication_gate": "allowed-as-recorded; not legal certification",
-  "source_reading_reperformed_by_integrator": false,
-  "independent_second_reading_applied": false,
-  "human_full_collation": false,
-  "expert_review": false,
-  "accuracy_measurement": false,
-  "negative_checks": [
+  "schema": "text-package-validation/1",
+  "version": "0.2.0",
+  "status": "passed",
+  "checks": [
     {
-      "case": "changed-character",
-      "rejected": true
+      "check": "all418source-adjudicated-unit-strings-and-order",
+      "passed": true,
+      "evidence": {
+        "faces": 32,
+        "units": 418,
+        "unicode_codepoints_including_markers": 9670
+      }
     },
     {
-      "case": "missing-unit",
-      "rejected": true
+      "check": "TXT-exact-derived-navigation-and-unit-strings",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "swapped-unit-order",
-      "rejected": true
+      "check": "official-TEIP5-4.12.0-RNG",
+      "passed": true,
+      "evidence": ""
     },
     {
-      "case": "source-hash-change",
-      "rejected": true
+      "check": "TEI-all418id-and-string-order-roundtrip",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "duplicate-id",
-      "rejected": true
+      "check": "official-CFF1.2.0-schema-and-one-creator",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "uncertainty-offset-change",
-      "rejected": true
+      "check": "version-title-and-abstract-synchronization",
+      "passed": true,
+      "evidence": null
     },
     {
-      "case": "external-DTD",
-      "rejected": true
+      "check": "all96current-uncertainty-codepoint-offsets",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all4gaiji-exact-current-registry",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "gaiji-have-exact-uncertainty-events",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all23source-note-parent-phrase-and3segment-anchors",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all53donor-entry-strings-and-table-positions",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "allassociated-donor-small-note-strings",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "source-donorfigures-no-calculation-and-reversed-colophon",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "all24initial-public-files-byte-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "fixed-initial-master-common-andZIP-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "original394independent-reading-unchanged",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "32fixedsource-image-byte-hashes",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "68actual-view-file-hashes-and20wholeframes",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "formalannotations-only-disclosed-unknown-model418",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "fresh-v020-text-publication-gate-allowed",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "explicit23prevalidation-files-only",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-RIGHTS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-LICENSE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-gaiji.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-CHANGELOG.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-book.tei.xml",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-KEYWORDS.txt",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-CITATION.cff",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-book.txt",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-book.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-METADATA.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-PROVENANCE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-QUALITY.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-README.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-TRANSCRIPTION-POLICY.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-METHODS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-DONORS.csv",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-READING-MAP.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-DONORS-SCHEMA.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-CHANGES.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-ABSTRACTS.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-SOURCE-MAP.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-uncertainties.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "privacy-scan-READING-GUIDE.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "source-languages-and-rights-machine-codes",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "check": "no-fake-DOI",
+      "passed": true,
+      "evidence": null
     }
   ],
-  "public_allowlist": "passed",
-  "remote_publication_performed": false
+  "source_faces": 32,
+  "historical_units": 418,
+  "uncertainty_records": 96,
+  "gaiji": 4,
+  "small_notes": 23,
+  "donor_source_cells": 53,
+  "source_reading_accuracy_certified": false,
+  "expert_or_human_double_collation": false,
+  "annotations_status": "incomplete: unknown-model418 only, actual model/effort/tokens unknown; limited controller acceptance required",
+  "text_publication_gate": "allowed-as-recorded, not legal certification"
 }

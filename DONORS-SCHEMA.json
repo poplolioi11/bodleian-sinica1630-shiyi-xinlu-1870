@@ -1,11 +1,10 @@
 {
   "encoding": "UTF-8",
   "row_count": 53,
-  "row_semantics": "One printed table-cell source entry; a cell can identify a group or institution",
-  "source_entry_is_unchanged": true,
-  "name_amount_split": "Only source-provided parts or literal currency suffix; no Arabic-number/currency normalization",
-  "empty_amount_source": "No amount parsed in the main cell, not zero; associated note strings retained",
-  "notes": "All associated source notes remain in their original order; annual-looking lines are not reconciled or converted into computed totals",
+  "row_semantics": "One source donor cell, potentially a group or institution, not53persons",
+  "entry_source": "Literal selected source main-cell string; original small title columns and notes separately linked",
+  "amount_source": "Literal source currency suffix only; no Arabic-number conversion, currency conversion, reconciliation or summing",
+  "empty_amount_source": "No amount in main cell, not zero; see associated source notes",
   "no_totals_computed": true,
-  "printed_totals": "Original printed-total unit remains in book.json/TXT/TEI; not computed by this dataset"
+  "source_printed_total": "Original printed-total unit remains unchanged as source text, not computed by curator"
 }

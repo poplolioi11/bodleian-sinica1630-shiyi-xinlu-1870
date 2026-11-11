@@ -1,0 +1,1406 @@
+{
+  "baseline_version": "0.1.0",
+  "version": "0.2.0",
+  "baseline_commit": "a32eab2eec5aa38c56284a698ced6fa49e0136cb",
+  "changed_existing_units": [
+    {
+      "unit_id": "f003-L-u003",
+      "page_id": "f003-L",
+      "before": "月因英國阿使臣來京地不敷用更兼街道遼僻往來人不甚多遂將原處⟦g-f003-L-col02⟧於府中另",
+      "after": "月因英國阿使臣來京地不敷用更兼街道遼僻往來人不甚多遂將原處歸於府中另",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be8d6962-3b7a-4efe-b8a9-c6a64f301341.json",
+      "source_face_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b"
+    },
+    {
+      "unit_id": "f003-L-u004",
+      "page_id": "f003-L",
+      "before": "買米市大街路東火神廟⟦g-f003-L-col03⟧之計房三十餘間以大殿為講書堂每日有人在此宣講聖",
+      "after": "買米市大街路東火神廟移之計房三十餘間以大殿爲講書堂每日有人在此宣講聖",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be8d6962-3b7a-4efe-b8a9-c6a64f301341.json",
+      "source_face_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b"
+    },
+    {
+      "unit_id": "f003-L-u008",
+      "page_id": "f003-L",
+      "before": "所需之項皆英國衆善官民商賈按時盡力捐輸並無間斷貽愧彼意一為濟世一為輔",
+      "after": "所需之項皆英國衆善官民商賈按時盡力捐輸並無間斷貽悞彼意一爲濟世一爲輔",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be8d6962-3b7a-4efe-b8a9-c6a64f301341.json",
+      "source_face_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b"
+    },
+    {
+      "unit_id": "f004-R-u002",
+      "page_id": "f004-R",
+      "before": "則內科婦科亦皆求治焉於昔日先是中國醫士品評月旦謂外國人精於外科華人精",
+      "after": "則內科婦科亦皆求治倍於昔日先是中國醫士品評月旦謂外國人精於外科華人精",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "unit_id": "f004-R-u003",
+      "page_id": "f004-R",
+      "before": "於內科余心以為西國人不止精於外科茲觀內科婦科之病源源而來可為確據其精",
+      "after": "於內科余心以爲西國人不止精於外科茲觀內科婦科之病源源而來可爲確據其精",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "unit_id": "f004-R-u006",
+      "page_id": "f004-R",
+      "before": "較⟦g-f004-R-c06⟧親視者所以得其精也但此地病者必先延華醫調治未效或已成沉痾始來本院",
+      "after": "較夫親視者所以得其精也但此地病者必先延華醫調治未效或已成沉痾始來本院",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "unit_id": "f004-R-u007",
+      "page_id": "f004-R",
+      "before": "求醫覬延之愆每至莫能措手余與病者兩無光顏最為可惜醫士雒公先在定海廣東",
+      "after": "求醫覬延之悞每至莫能措手余與病者兩無光顏最爲可惜醫士雒公先在定海廣東",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "unit_id": "f004-R-u008",
+      "page_id": "f004-R",
+      "before": "上海等處行道有年百姓皆為甘棠之頌又一合信醫士久居廣東救人濟世界有餘暇",
+      "after": "上海等處行道有年百姓皆爲甘棠之頌又一合信醫士久居廣東救人濟世畧有餘暇",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "unit_id": "f004-R-u010",
+      "page_id": "f004-R",
+      "before": "者二十餘載益人匪淺二公⟦g-f004-R-c10⟧愛於南方至今日碑在道惟北京醫院此為創始病愈者",
+      "after": "者二十餘載益人匪淺二公貽愛於南方至今口碑在道惟北京醫院此爲創始病愈者",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "unit_id": "f004-L-u001",
+      "page_id": "f004-L",
+      "before": "余無所用何如以厚禮之資捐於院册遇有貧之病者為調息瞻養之助芳衘登簡盛德",
+      "after": "余無所用何如以厚禮之資捐於院册遇有貧乏病者爲調息瞻養之助芳衘登簡盛德",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u002",
+      "page_id": "f004-L",
+      "before": "廣傳當時為拯人之善事後世為永著之鴻恩余亦與有榮焉",
+      "after": "廣傳當時爲拯人之善事後世爲永著之鴻恩余亦與有榮焉",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u003",
+      "page_id": "f004-L",
+      "before": "溫黃之症",
+      "after": "瘟黃之症",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u004",
+      "page_id": "f004-L",
+      "before": "咸豐十一年溫黃流行公治過三百七十人先不甚多繼則甚盛始得身痛作燒⟦g-f004-L-tailword⟧治",
+      "after": "咸豐十一年瘟黃流行公治過三百七十人先不甚多繼則甚盛始得身痛作燒遲治",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u005",
+      "page_id": "f004-L",
+      "before": "⟦g-f004-L-inline-cluster⟧",
+      "after": "雒",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u006",
+      "page_id": "f004-L",
+      "before": "⟦g-f004-L-headpair⟧症因春秋冷暖不勻乍寒乍熱血旺內流積聚於肝肝之無力流滯致獲此症",
+      "after": "罔效症因春秋冷煖不勻乍寒乍熱血旺內流積聚於肝肝之無力統容致獲此症人之",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u007",
+      "page_id": "f004-L",
+      "before": "肝居",
+      "after": "肝居右腹並不在左開視許多皆然試將猪肝驗之亦各在右",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u008",
+      "page_id": "f004-L",
+      "before": "右腹並不在左開視許多皆然試將猪肝驗之亦各在右治法先行降藥繼用斑毛膏藥貼於肝部汁出血歸皮膚肝覺",
+      "after": "治法先行降藥繼用斑毛膏藥貼於肝部汗出血歸皮膚肝覺",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u009",
+      "page_id": "f004-L",
+      "before": "蘇快其症可痊是症北京較盛山陝二省之地較多",
+      "after": "疎快其症可痊是症北京較盛山陜二省之地較多",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u012",
+      "page_id": "f004-L",
+      "before": "條例不種則治以罪條例未設之先因生天花人多麻面今已較少生痘之流也中國乾",
+      "after": "條例不種則治以罪條例未設之先因生天花人多麻面今已較少牛痘之流也中國乾",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f004-L-u013",
+      "page_id": "f004-L",
+      "before": "隆年間已有種痘之法駐⟦g-f004-L-tu-shi⟧邇其京城英國使臣之夫人帶至本國或從中國傳其法用綿",
+      "after": "隆年間已有種痘之法駐土爾其京城英國使臣之夫人帶至本國其法用綿",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "unit_id": "f005-R-u002",
+      "page_id": "f005-R",
+      "before": "痘之法先來廣東已六十四載傳於北京至斯四十三年今京師設局四五處施種識為",
+      "after": "痘之法先來廣東已六十四載傳於北京至斯四十三年今京師設局四五處施種誠爲",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "unit_id": "f005-R-u003",
+      "page_id": "f005-R",
+      "before": "美舉近年慶缺牛漿來本院尋乞卽付之為救生續命之助先是小呂宋國來漿因道路",
+      "after": "美舉近年慶缺牛漿來本院尋乞卽付之爲救生續命之助先是小呂宋國來漿因道路",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "unit_id": "f005-R-u004",
+      "page_id": "f005-R",
+      "before": "遙遠恐漿乾燥凝在道時每八日途中種一嬰轉種至京其漿鮮豔法不果行嗣仍携漿",
+      "after": "遙遠恐漿乾燥擬在道時每八日途中種一嬰轉種至京其漿鮮豔法不果行嗣仍携漿",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "unit_id": "f005-R-u005",
+      "page_id": "f005-R",
+      "before": "來北依然適用後又用以痘中亦與漿無異尤為簡便兹以此事極要者中國賢士大夫",
+      "after": "來北依然適用後又用以痘甲亦與漿無異尤爲簡便兹以此事極要者中國賢士大夫",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "unit_id": "f005-R-u008",
+      "page_id": "f005-R",
+      "before": "數今實三百萬人每年產嬰十萬皆種牛痘北京民數雖未悉其確聊作為一百五十萬",
+      "after": "數今實三百萬人每年產嬰十萬皆種牛痘北京民數雖未悉其確聊作爲一百五十萬",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "unit_id": "f005-R-u011",
+      "page_id": "f005-R",
+      "before": "有牛痘以來歲不過數十人耳況天花為時毒所引若任其自發則歷代相傳各處類及",
+      "after": "有牛痘以來歲不過數十人耳況天花爲時毒所引若任其自發則歷代相傳各處類及",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "unit_id": "f005-L-u001",
+      "page_id": "f005-L",
+      "before": "由近至遠愈久愈盛無所底止牛痘則不待自發種具數粒毒已消除根株盡絕久則天",
+      "after": "由近至遠愈久愈盛無所底止牛痘則不待自發種只數粒毒已消除根株盡絕久則天",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f005-L-u002",
+      "page_id": "f005-L",
+      "before": "花漸息童稚無⟦g-f005-L-c02⟧豈非保赤盡善盡美之策此余厚望於中國顯達諸公之推廣者云",
+      "after": "花漸息童稚無憂豈非保赤盡善盡美之策此余厚望於中國顯達諸公之推廣者云",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f005-L-u003",
+      "page_id": "f005-L",
+      "before": "牛痘書始自外國初傳者無論矣有一編在救主降生一千八百十七年為中國嘉慶二",
+      "after": "牛痘書始自外國初傳者無論矣有一編在救主降生一千八百十七年爲中國嘉慶二",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f005-L-u004",
+      "page_id": "f005-L",
+      "before": "十三年至東粵道降生一千八百二十八年為中國道光十年曾撫台澤此編北京廣傳",
+      "after": "十三年至東粵道降生一千八百二十八年爲中國道光十年曾撫台摹此編北京廣傳",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f005-L-u005",
+      "page_id": "f005-L",
+      "before": "之迄今已四十三年矣是書創稿乃一英國顯達彌譯成帙凡東粵及他省考據諸家並",
+      "after": "之迄今已四十三年矣是書創稿乃一英國顯達翻譯成帙凡東粵及他省考據諸家並",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f005-L-u006",
+      "page_id": "f005-L",
+      "before": "醫士皆各引用其言遵為模楷",
+      "after": "醫士皆各引用其言遵爲模楷",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f005-L-u010",
+      "page_id": "f005-L",
+      "before": "死者不下二萬餘人每日每門發殯者滔滔皆是其見症也腹先泄洩隨卽轉筋霍公治",
+      "after": "死者不下二萬餘人每日每門發殯者滔滔皆是其見症也腹先泄洩隨卽轉筋雒公治",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f005-L-u011",
+      "page_id": "f005-L",
+      "before": "法內用收歛之劑飲鴉片洋輕粉外用芥末膏藥貼之以熱水洗溫足心腿肚又用補精神",
+      "after": "法內用收歛之劑飲鴉片洋輕粉外用芥末膏藥貼之以熱水洗溫足心腿肚又用補精",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f005-L-u012",
+      "page_id": "f005-L",
+      "before": "與火之藥卽可痊愈治好多⟦g-f005-L-c11⟧人三十七年以前外國原無此症後來自印度始有之其",
+      "after": "神與火之藥卽可痊愈治好多人三十七年以前外國原無此症後來自印度始有之其",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "unit_id": "f006-R-u002",
+      "page_id": "f006-R",
+      "before": "有兵役洒掃差衞不准民間堆積污穢有則隨時清除又有藥水能解毒氣惡味者時時",
+      "after": "有兵役洒掃通衢不准民間堆積污穢有則隨時清除又有藥水能解毒氣惡味者時時",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "unit_id": "f006-R-u003",
+      "page_id": "f006-R",
+      "before": "洒之兼以淨水澆灑自免前症之害北京地窄人稠日曬臭水氣味熏蒸更感以天時之",
+      "after": "洒之兼以淨水澆潑自免前症之害北京地窄人稠日曬臭水氣味熏蒸更感以天時之",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "unit_id": "f006-R-u004",
+      "page_id": "f006-R",
+      "before": "毒易致此病若此首善大邦河渠最為至要倘由城北引西來之水不使東流故於城中",
+      "after": "毒易致此病若此首善大邦河渠最爲至要倘由城北引西來之水不使東流放於城中",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "unit_id": "f006-R-u006",
+      "page_id": "f006-R",
+      "before": "先泄洩服藥能止者易治否則甚難",
+      "after": "先泄瀉服藥能止者易治否則甚難",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "unit_id": "f006-R-u008",
+      "page_id": "f006-R",
+      "before": "北京近山一帶有之凡氣⟦g-f006-R-body-name⟧人多⟦g-f006-R-complication⟧其症皆水所致水甜此病寡少若水中雜以石灰",
+      "after": "北京近山一帶有之凡氣⟦g-f006-R-body-name⟧人多癡癲其症皆水所致水甜此病寡少若水中雜以石灰",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "unit_id": "f006-L-u003",
+      "page_id": "f006-L",
+      "before": "特百姓不識用法卽中國醫士亦未必深究其理每於病無策便唆勸其吸煙以圖卸責",
+      "after": "特百姓不識用法卽中國醫士亦未必深究其理每於病無策便唆勸其吸烟以圖卸責",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "unit_id": "f006-L-u004",
+      "page_id": "f006-L",
+      "before": "吸後百害皆作較其病為尤深故煙能敗精神耗財物損聲名內為家人所鄙薄外為親",
+      "after": "吸後百害皆作較其病爲尤深故烟能敗精神耗財物損聲名內爲家人所鄙薄外爲親",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "unit_id": "f006-L-u006",
+      "page_id": "f006-L",
+      "before": "累民貧吸煙之故余實為寒心直有涕泗滂沱隱痛更兼鴉片其初來自外國今則內地",
+      "after": "累民貧吸烟之故余實爲寒心直有涕泗滂沱隱痛更兼鴉片其初來自外國今則內地",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "unit_id": "f006-L-u007",
+      "page_id": "f006-L",
+      "before": "各處皆種值之年復一年多於五穀再若任其儼種將來天下之大皆為產煙之區尤可",
+      "after": "各處皆種值之年復一年多於五穀再若任其播種將來天下之大皆爲產烟之區尤可",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "unit_id": "f006-L-u008",
+      "page_id": "f006-L",
+      "before": "慮也惟願中國皇上輔政各臣設法禁止民間不種鴉片只種穀梁種與吸者日見其少",
+      "after": "慮也惟願中國皇上輔政各臣設法禁止民間不種鴉片只種穀粱種與吸者日見其少",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "unit_id": "f006-L-u009",
+      "page_id": "f006-L",
+      "before": "培養數載國阜民豐是為至願",
+      "after": "培養數載國阜民豐是爲至願",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "unit_id": "f007-R-u001",
+      "page_id": "f007-R",
+      "before": "書背書為時甚久精力虧損加之乘隙逞其淫樂煙酒心身之困勞累太過且此症富貴",
+      "after": "書背書爲時甚久精力虧損加之乘隙逞其淫樂烟酒心身之困勞累太過且此症富貴",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b"
+    },
+    {
+      "unit_id": "f007-R-u002",
+      "page_id": "f007-R",
+      "before": "人得之甚易仕官每逢朝覲叩頭跪拜年老身虛精神頹敗久則致此最難醫治又有被",
+      "after": "人得之甚易仕宦每逢朝廟叩頭跪拜年老身虛精神頹敗久則致此最難醫治又有被",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b"
+    },
+    {
+      "unit_id": "f007-R-u003",
+      "page_id": "f007-R",
+      "before": "刑嚴考手足拘攣如美人⟦g-f007-R-name⟧英雄架之類為時既久血凝滯不通亦能致之同治二年京",
+      "after": "刑嚴考手足拘攣如美人⟦g-f007-R-name⟧英雄架之類爲時既久血凝滯不通亦能致之同治二年京",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b"
+    },
+    {
+      "unit_id": "f007-R-u007",
+      "page_id": "f007-R",
+      "before": "證據卽行釋放不動非法之刑另有因北方煤氣甚重房無煙筒日夜熏蒸神氣昏悶亦",
+      "after": "證據卽行釋放不動非法之刑另有因北方煤氣甚重房無烟筒日夜熏蒸神氣昏悶亦",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b"
+    },
+    {
+      "unit_id": "f007-R-u008",
+      "page_id": "f007-R",
+      "before": "可致此倘中國煙筒設於房外俾室內清潔無煙未始非却病之一道至偏枯半身不遂",
+      "after": "可致此倘中國烟筒設於房外俾室內清潔無烟未始非却病之一道至偏枯半身不遂",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b"
+    },
+    {
+      "unit_id": "f007-L-u002",
+      "page_id": "f007-L",
+      "before": "守豐其衣食不令出牆垣之外恐滋生事端內有弈棋詩書並講道諸務博其見聞暢其",
+      "after": "守望其衣食不令出牆垣之外恐滋生事端內有琴棋詩書並講道諸務博其見聞暢其",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "unit_id": "f007-L-u003",
+      "page_id": "f007-L",
+      "before": "性情並有花園容其游逸名其處為瘋癲院當費經納另有自捐公所其中諸務尤為全",
+      "after": "性情並有花園資其游逸名其處爲瘋癲院富貴縉紳另有自捐公所其中諸務尤爲全",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "unit_id": "f007-L-u005",
+      "page_id": "f007-L",
+      "before": "恕其無知亦相愛之意耳若人無論中國外國均應設地安為調養母令失所盡其哀矜",
+      "after": "恕其無知亦相愛之意耳若人無論中國外國均應設地安爲調養母令失所盡其哀矜",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "unit_id": "f007-L-u008",
+      "page_id": "f007-L",
+      "before": "創設足為明徵最忍者病者家人願其速死莫免拖累甚非善意不如捐貲設院盡法調",
+      "after": "創設足爲明徵最忍者病者家人願其速死莫免拖累甚非善意不如捐貲設院盡法調",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "unit_id": "f007-L-u009",
+      "page_id": "f007-L",
+      "before": "攝卽不痊不待其天年自盡不致輕棄性命實余之所厚望云爾",
+      "after": "攝卽不痊亦待其天年自盡不致輕棄性命實余之所厚望云爾",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "unit_id": "f007-L-u010",
+      "page_id": "f007-L",
+      "before": "⟦g-f007-L-heading-first⟧牙乾肺勞積⟦g-f007-L-heading-last⟧",
+      "after": "瘰癧牙乾肺勞積癖",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "unit_id": "f007-L-u011",
+      "page_id": "f007-L",
+      "before": "此症以血虛血惡為基⟦g-f007-L-c11⟧痰癆牙乾肺勞積⟦g-f007-L-body-last⟧為房屋言其症之連類相及也幼時血之",
+      "after": "此症以血虛血惡爲基址瘰癧牙乾肺勞積癖爲房屋言其症之連類相及也幼時血之",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "unit_id": "f008-R-u003",
+      "page_id": "f008-R",
+      "before": "女可以壯實故中國之五歲嬰童如外國之三歲者故衣服飲食寒暖諸事皆當妥為保",
+      "after": "女可以壯實故中國之五歲嬰童如外國之三歲者故衣服飲食寒暖諸事皆當安爲保",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "5d1459eaa3f8e59a173e733934a14e438bf591d05d82302eea6a9c08e2176fad"
+    },
+    {
+      "unit_id": "f008-R-u007",
+      "page_id": "f008-R",
+      "before": "來治者約有數千中醫治法特貼膏藥為上轉致膿向內串其腫更甚本院治法熟者開",
+      "after": "來治者約有數千中醫治法恃貼膏藥爲上轉致膿向內串其腫更甚本院治法熟者開",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "5d1459eaa3f8e59a173e733934a14e438bf591d05d82302eea6a9c08e2176fad"
+    },
+    {
+      "unit_id": "f008-R-u008",
+      "page_id": "f008-R",
+      "before": "之腐肉隨膿一并掏出將饅頭用熱水泡開調勻糊貼患上候毒與腐肉淨盡方貼膏藥",
+      "after": "之腐肉隨膿一并掏出將饅頭用熱水泡開調勻攤貼患上候毒與腐肉淨盡方貼膏藥",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "5d1459eaa3f8e59a173e733934a14e438bf591d05d82302eea6a9c08e2176fad"
+    },
+    {
+      "unit_id": "f008-R-u009",
+      "page_id": "f008-R",
+      "before": "可以痊愈凡有腐肉有膿貼饅首無者貼膏藥症勢較大非開不可開必為一十字形以",
+      "after": "可以痊愈凡有腐肉有膿貼饅首無者貼膏藥瘡勢較大非開不可開必爲一十字形以",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "5d1459eaa3f8e59a173e733934a14e438bf591d05d82302eea6a9c08e2176fad"
+    },
+    {
+      "unit_id": "f008-L-u002",
+      "page_id": "f008-L",
+      "before": "不使病留餘患若此者治好多人大均各如故在外國兵一千立醫士三人一正二副凡兵",
+      "after": "不使病留餘患若此者治好多人人均各如故在外國兵一千立醫士三人一正二副凡兵",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "unit_id": "f008-L-u003",
+      "page_id": "f008-L",
+      "before": "弁受傷者帶至行營按法調治每大邑亦醫院亦可就之其便如此中國行軍時倘亦",
+      "after": "弁受傷者帶至行營按法調治每大邑亦有醫院亦可就之其便如此中國行軍時倘亦",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "unit_id": "f008-L-u004",
+      "page_id": "f008-L",
+      "before": "若是保全無負今中國兵勇使用火器並不謹慎火器不潔因不隨時詳細琢磨致有鏽",
+      "after": "若是保全無筭今中國兵勇使用火器並不謹慎火器不潔因不諳時詳細琢磨致有銃",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "unit_id": "f008-L-u006",
+      "page_id": "f008-L",
+      "before": "沉重中醫無策來求余醫旬日間脫然無累特繪圖頒詳敘小引以誌其感又一山西人",
+      "after": "沉重中醫無策來求余醫旬日間脫然無累特贈匾額詳敘小引以誌其感又一山西人",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "unit_id": "f008-L-u007",
+      "page_id": "f008-L",
+      "before": "安姓用刀自破其腹斜長尺餘大小腸流出當將其腸條理停妥納入腹中針縫布蒙其",
+      "after": "安姓用刀自破其腹斜長尺餘大小腸流出當將其腸條理停妥納入腹中針縫布裹其",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "unit_id": "f008-L-u010",
+      "page_id": "f008-L",
+      "before": "銃砂等於右股下自臀透出極為危險恰來醫治調理布裹未兼旬復初此外有或傷其",
+      "after": "銃砂穿於右股下自臀透出極爲危險抬來醫治調理布裹未兼旬復初此外有或傷其",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d8c79af6-7ac6-4245-8524-38a685310143.json",
+      "source_face_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "unit_id": "f009-R-u001",
+      "page_id": "f009-R",
+      "before": "為必死余詢其情形尚在可治無如中國律例凡被傷已報官者其人不准動移必待驗",
+      "after": "爲必死余詢其情形尚在可治無如中國律例凡被傷已報官者其人不准動移必待驗",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "unit_id": "f009-R-u003",
+      "page_id": "f009-R",
+      "before": "存身以便看視未及月餘平復如舊倘當時乘而不治其人猶有命乎然外國選醫甚非",
+      "after": "存身以便看視未及月餘平復如舊倘當時棄而不治其人猶有命乎然外國選醫甚非",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "unit_id": "f009-R-u004",
+      "page_id": "f009-R",
+      "before": "易易必須在院習之四年又必二十一歲以上者方准為之不可私充凡內科外科婦科",
+      "after": "易易必須在院習之四年又必二十一歲以上者方准爲之不可私充凡內科外科婦科",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "unit_id": "f009-R-u006",
+      "page_id": "f009-R",
+      "before": "有文憑鈐有院印本人姓名年貌所學所能俱載於上交該士為執故國內醫人皆註名",
+      "after": "有文憑鈐有院印本人姓名年貌所學所能俱載於上交該士爲執故國內醫人皆註名",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "unit_id": "f009-R-u008",
+      "page_id": "f009-R",
+      "before": "不為官考卽欲行道為醫乎若西國之法雖顯其揀拔之難或可免庸醫之濫亦善策也",
+      "after": "不爲官考卽欲行道爲醫乎若西國之法雖顯其揀拔之難或可免庸醫之濫亦善策也",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "unit_id": "f009-R-u010",
+      "page_id": "f009-R",
+      "before": "或為壓把或為石壓或手足所傷或器械所擊或因道路不平驚車逸馬往來擁擠砸碰",
+      "after": "或爲房杞或爲石壓或手足所傷或器械所擊或因道路不平驚車逸馬往來擁擠砸碰",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "unit_id": "f009-R-u011",
+      "page_id": "f009-R",
+      "before": "踢踏本院治好者甚多前門外有一官員吳姓因車翻砸折肩骨延華醫調攝皮膚雖已",
+      "after": "踐踏本院治好者甚多前門外有一官員吳姓因車翻砸折肩骨延華醫調攝皮膚雖已",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "unit_id": "f009-L-u002",
+      "page_id": "f009-L",
+      "before": "俱言脫落實非骨折然骨跡明明顯露何為是言也咸豐十一年有一婦人乘車行至御",
+      "after": "俱言脫落實非骨折然骨跡明明顯露何爲是言也咸豐十一年有一婦人乘車行至御",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "1c5ffd2896fcef4580246654905ebfbf456a3526ad0476b2dcb3256d30224539"
+    },
+    {
+      "unit_id": "f009-L-u006",
+      "page_id": "f009-L",
+      "before": "明最易傾蹶城門內之石路海漫亦多坭敗每致有蹶跌之處倘能如英國馬加達摩之",
+      "after": "明最易傾蹶城門內之石路海漫亦多圮敗每致有躓跌之虞倘能如英國馬加達摩之",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "1c5ffd2896fcef4580246654905ebfbf456a3526ad0476b2dcb3256d30224539"
+    },
+    {
+      "unit_id": "f009-L-u009",
+      "page_id": "f009-L",
+      "before": "裂復傷其腰近於命門官驗先言頭為馬砸腰被車壓死後覆驗又言車壓其頭馬踏其",
+      "after": "裂復傷其腰近於命門官驗先言頭爲馬砸腰被車壓死後覆驗又言車壓其頭馬踏其",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "1c5ffd2896fcef4580246654905ebfbf456a3526ad0476b2dcb3256d30224539"
+    },
+    {
+      "unit_id": "f009-L-u011",
+      "page_id": "f009-L",
+      "before": "起頭因車轍砸傷腰為馬踏調治旬月業經平復但仰臥多日未能起坐摩躍成瘡瘡重",
+      "after": "起頭因車轍砸傷腰爲馬踏調治旬月業經平復但仰臥多日未能起坐摩蹭成瘡瘡重",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ec51819a-2eea-446a-9e74-0a9472a98a70.json",
+      "source_face_sha256": "1c5ffd2896fcef4580246654905ebfbf456a3526ad0476b2dcb3256d30224539"
+    },
+    {
+      "unit_id": "f010-R-u001",
+      "page_id": "f010-R",
+      "before": "身微因瘡身死英國海關諸公合計足以每月贍銀三兩贍伊妻子為永遠養身之貲此",
+      "after": "身憊因瘡身死英國海關諸公合計足以每月贍銀三兩贍伊妻子爲永遠養身之貲此",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "unit_id": "f010-R-u002",
+      "page_id": "f010-R",
+      "before": "亦路窄難避之一端耳又前門外一車行人年五旬餘為差役勒索被踢折胯骨三日始",
+      "after": "亦路窄難避之一端耳又前門外一車行人年五旬餘爲差役勒索被踢折胯骨三日始",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "unit_id": "f010-R-u003",
+      "page_id": "f010-R",
+      "before": "抬來求治其人年老傷重身虛復受驚恐心力難敵三日已死其傷則官驗以為骨脫余",
+      "after": "抬來求治其人年老傷重身虛復受驚恐心力難敵三日已死其傷則官驗以爲骨脫余",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "unit_id": "f010-R-u004",
+      "page_id": "f010-R",
+      "before": "言骨折兩論不決余欲開剖經驗不果而止又一英國府司昏因風翻席棚伊手握棚繩",
+      "after": "言骨折兩論不決余欲開剖經驗不果而止又一英國府司昏因風翻蓆棚伊手握棚繩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "unit_id": "f010-R-u005",
+      "page_id": "f010-R",
+      "before": "風力甚猛將伊帶過房簷數尺幸其放手落地只將蒲棚及巨石掀出門外牟落於堤樹",
+      "after": "風力甚猛將伊帶過房簷數尺幸其放手落地只將蒲棚及巨石掀出門外半落於槐樹",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "unit_id": "f010-R-u006",
+      "page_id": "f010-R",
+      "before": "之上牟插於河中而其人腿骨業經摔折得治痊愈",
+      "after": "之上半插於河中而其人腿骨業經摔折得治痊愈",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "unit_id": "f010-R-u008",
+      "page_id": "f010-R",
+      "before": "有受煤氣者室內煤煙甚重或因酒醉落於熱水鍋中或倒於炕爐火內直有隨房燒燬",
+      "after": "有受煤氣者室內煤烟甚重或因酒醉落於熱水鍋中或倒於炕爐火內直有隨房燒燬",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "unit_id": "f010-R-u009",
+      "page_id": "f010-R",
+      "before": "沿及孩提者其中凡有措手之機卽能獲安又有乞丐患凍瘡者脚指脫落亦治好多⟦g-f010-R-tail⟧",
+      "after": "沿及孩提者其中凡有措手之機卽能獲安又有乞丐患凍瘡者脚指脫落亦治好多人",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "unit_id": "f010-L-u001",
+      "page_id": "f010-L",
+      "before": "人不得睡臥只得蹲伏火毒柴煙三冬困繫出院後有不死而且病者乎安置未妥之故",
+      "after": "人不得睡臥只得蹲伏火毒柴烟三冬困繫出院後有不死而且病者乎安置未妥之故",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "unit_id": "f010-L-u004",
+      "page_id": "f010-L",
+      "before": "並有醫士調其病症有講書宣釋聖道開其蒙昧且令在本公所每日做公成做生活損",
+      "after": "並有醫士調其病症有講書宣釋聖道開其蒙昧且令在本公所每日做公成做生活換",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "unit_id": "f010-L-u006",
+      "page_id": "f010-L",
+      "before": "仁者見其堪惘堪憫視之必當如兄如弟始合耶穌聖道故人皆願設立斯院以寄愛心",
+      "after": "仁者見其堪惘堪憐視之必當如兄如弟始合耶穌聖道故人皆願設立斯院以寄愛心",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "unit_id": "f010-L-u007",
+      "page_id": "f010-L",
+      "before": "在西國凡信耶穌者遇人必多惻恤遇事必多幫助所以貧乞不致凍餒由來久矣目今",
+      "after": "在西國凡信耶穌者遇人必多惻怛遇事必多幫助所以貧乞不致凍餒由來久矣目今",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "unit_id": "f010-L-u008",
+      "page_id": "f010-L",
+      "before": "疥藥素討者甚多每年所治不下數百人所用硫磺不下數十斤他藥稱是遇有極寒苦",
+      "after": "疥藥尋討者甚多每年所治不下數百人所用硫磺不下數十斤他藥稱是遇有極寒苦",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "unit_id": "f011-R-u004",
+      "page_id": "f011-R",
+      "before": "餘者或二三瘤或數瘤不等復治好數十人",
+      "after": "餘者或一二瘤或數瘤不等復治好數十人",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "unit_id": "f011-R-u006",
+      "page_id": "f011-R",
+      "before": "有來治者其骨已死內則朽骨折錯外則紅腫如桃其勢危險卽將其朽敗下額骨並牙",
+      "after": "有來治者其骨已死內則朽骨折錯外則紅腫如桃其勢危險卽將其朽敗下頷骨並牙",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "unit_id": "f011-R-u010",
+      "page_id": "f011-R",
+      "before": "知自外針之有傷內臟則肢體因消成瘡又有針刺腿上刺後肉轉大腫敗壞日久成為",
+      "after": "知自外針之有傷內臟則肢體因潰成瘡又有針刺腿上刺後肉轉大腫敗壞日久成爲",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "unit_id": "f011-R-u011",
+      "page_id": "f011-R",
+      "before": "臁瘡篤疾來此求治者雖經本院治之咸愈可見針刀不可輕用精益求精為要務耳同",
+      "after": "臁瘡篤疾來此求治者雖經本院治之咸愈可見針刀不可輕用精益求精爲要務耳同",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "unit_id": "f011-L-u002",
+      "page_id": "f011-L",
+      "before": "著手處不久已死又有因破席札刺而得臁瘡者其症破流黃水到處蔓延傳染疲煩",
+      "after": "著手處不久已死又有因破席札刺而得癰瘡者其症破流黃水到處蔓延傳染疲煩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8"
+    },
+    {
+      "unit_id": "f011-L-u005",
+      "page_id": "f011-L",
+      "before": "凡淚炎之症因冷熱不勻天氣代謝換之甚速血不暢行及生淚所致也或為沙土所眯",
+      "after": "凡淚炎之症因冷熱不勻天氣代謝換之甚速血不暢行及生淚所致也或爲沙土所眯",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8"
+    },
+    {
+      "unit_id": "f011-L-u006",
+      "page_id": "f011-L",
+      "before": "成為腫眼若小兒之目多壞者於落草時洗浴未能淨潔目沾伊母之白帶或伊父身染",
+      "after": "成爲膿眼若小兒之目多壞者於落草時洗浴未能淨潔目沾伊母之白帶或伊父身染",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8"
+    },
+    {
+      "unit_id": "f011-L-u007",
+      "page_id": "f011-L",
+      "before": "瘡疥或用其巾帕揩抹不潔傳染所致症有睫毛倒插向內翻轉並臚炎畏光努肉攀睛",
+      "after": "瘡恙或用其巾帕揩抹不潔傳染所致症有睫毛倒插向內翻轉並臚炎畏光努肉攀睛",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8"
+    },
+    {
+      "unit_id": "f011-L-u010",
+      "page_id": "f011-L",
+      "before": "多有此病最不易為",
+      "after": "多有此病最不易爲",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1083e99f-849a-476a-97f8-cc5fa12adfba.json",
+      "source_face_sha256": "817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8"
+    },
+    {
+      "unit_id": "f012-R-u003",
+      "page_id": "f012-R",
+      "before": "凹文可以手揣心識如蔡伯喈目暮讀曹娥碑也又有明角暈全白外努不能開視用法",
+      "after": "凸文可以手揣心識如蔡伯喈日暮讀曹娥碑也又有明角暈全白外努不能開視用法",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2aac1d42-b429-4ac1-b7f5-75d5427b56d9.json",
+      "source_face_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "unit_id": "f012-R-u009",
+      "page_id": "f012-R",
+      "before": "因其得之極難用之極裒也久宦南方時常服此回京告罄每向本醫院構求可見人之",
+      "after": "因其得之極難用之極寡也久宦南方時常服此回京告罄每向本醫院構求可見人之",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2aac1d42-b429-4ac1-b7f5-75d5427b56d9.json",
+      "source_face_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "unit_id": "f012-R-u010",
+      "page_id": "f012-R",
+      "before": "於此不能或離也外國每兩洋銀一元上海每兩洋銀二元甘下各地虎狼最多先不",
+      "after": "於此不能或離也外國每兩洋銀一元上海每兩洋銀二元日下各地虎狼最多先不",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2aac1d42-b429-4ac1-b7f5-75d5427b56d9.json",
+      "source_face_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "unit_id": "f012-R-u011",
+      "page_id": "f012-R",
+      "before": "能往近特藥鋪自衞任意前行如各地各島之瘴瘧亦阻人往其地有桂納之可愈瘴瘧",
+      "after": "能往近恃藥鎗自衞任意前行如各地各島之瘴瘧亦阻人往其地有桂納之可愈瘴瘧",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2aac1d42-b429-4ac1-b7f5-75d5427b56d9.json",
+      "source_face_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "unit_id": "f012-L-u001",
+      "page_id": "f012-L",
+      "before": "卽如藥鏢之能滅虎狼更可以優遊甚便邇者有携帶桂納船隻適毛里丟斯海島值其",
+      "after": "卽如藥鎗之能滅虎狼更可以優遊甚便邇者有携帶桂納船隻適毛里丟斯海島值其",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2aac1d42-b429-4ac1-b7f5-75d5427b56d9.json",
+      "source_face_sha256": "9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120"
+    },
+    {
+      "unit_id": "f012-L-u005",
+      "page_id": "f012-L",
+      "before": "有套管錐放去腹中之水立愈其錐三寸餘套亦如之錐隨套入臍下掣錐留套水自由",
+      "after": "有套管錐放其腹中之水立愈其錐三寸餘套亦如之錐隨套入臍下掣錐留套水自由",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2aac1d42-b429-4ac1-b7f5-75d5427b56d9.json",
+      "source_face_sha256": "9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120"
+    },
+    {
+      "unit_id": "f012-L-u009",
+      "page_id": "f012-L",
+      "before": "治去或以胡麻子油或以松除油墜下可愈若扁形者最難頭小約二分上有口吸人飲",
+      "after": "治去或以胡麻子油或以松漆油墮下可愈若扁形者最難頭小約二分上有口吸人飲",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2aac1d42-b429-4ac1-b7f5-75d5427b56d9.json",
+      "source_face_sha256": "9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120"
+    },
+    {
+      "unit_id": "f012-L-u010",
+      "page_id": "f012-L",
+      "before": "食肉之精華自頭以下由狹而漸寬每一節寬長約二三分平素有四五尺至二十尺六",
+      "after": "食內之精華自頭以下由狹而漸寬每一節寬長約二三分平素有四五尺至二十尺六",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2aac1d42-b429-4ac1-b7f5-75d5427b56d9.json",
+      "source_face_sha256": "9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120"
+    },
+    {
+      "unit_id": "f013-R-u001",
+      "page_id": "f013-R",
+      "before": "必于斫下之蟲見有頭在始謂愈矣又一種亦在扁者之類每節橫長竪短頭有二直紋",
+      "after": "必于所下之蟲見有頭在始謂愈矣又一種亦在扁者之類每節橫長竪短頭有二直紋",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101"
+    },
+    {
+      "unit_id": "f013-R-u002",
+      "page_id": "f013-R",
+      "before": "每昂與肛門發癢卽此蟲生焉治須空腹恐有食遮藥力則虫受之輕根株仍在西國有",
+      "after": "每鼻與肛門發癢卽此蟲生焉治須空腹恐有食遮藥力則虫受之輕根株仍在西國有",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101"
+    },
+    {
+      "unit_id": "f013-R-u005",
+      "page_id": "f013-R",
+      "before": "極小甚毒形如蟲人足前兩足長次兩足微短後四足又短男身生者長七十分寸之一",
+      "after": "極小甚毒形如蟲八足前兩足長次兩足微短後四足又短男身生者長七十分寸之一",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101"
+    },
+    {
+      "unit_id": "f013-R-u009",
+      "page_id": "f013-R",
+      "before": "皆因貪食生冷瓜果或飲茶太過或飲鹹苦之水及多飲冷水多食檳榔火酒鴉片火煙",
+      "after": "皆因貪食生冷瓜果或飲茶太過或飲鹹苦之水及多飲冷水多食檳榔火酒鴉片火烟",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101"
+    },
+    {
+      "unit_id": "f013-L-u003",
+      "page_id": "f013-L",
+      "before": "隨時傳染在西國亦非素有今始見之稱為⟦g-f013-L-transliteration⟧遂致束手雖有將咽喉穿一孔透其氣",
+      "after": "隨時傳染在西國亦非素有今始見之稍爲耽延遂致束手雖有將咽喉穿一孔透其氣",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "unit_id": "f013-L-u004",
+      "page_id": "f013-L",
+      "before": "管之療塞以為割救治法因恐駭人聽聞未便如此施治而毒深火重呼吸難通是年來",
+      "after": "管之擁塞以爲割救治法因恐駭人聽聞未便如此施治而毒深火重呼吸難通是年來",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "unit_id": "f013-L-u005",
+      "page_id": "f013-L",
+      "before": "治此症愈者四百七十人夫人來求醫卽為看視決不延滯乃有病之家自己為耽擱所",
+      "after": "治此症愈者四百七十人夫人來求醫卽爲看視決不延滯乃有病之家自己爲耽擱所",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "unit_id": "f013-L-u009",
+      "page_id": "f013-L",
+      "before": "如此至於火結咽喉每年亦有却非前症如買賣學徒在街市吆喝物價或學生讀書高",
+      "after": "如此至於火結咽喉年年亦有却非前症如買賣學徒在街市吆喝物價或學生讀書高",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "unit_id": "f013-L-u010",
+      "page_id": "f013-L",
+      "before": "聲朗誦或僧道諷經盡夜喧呼久則火升上焦致得此症",
+      "after": "聲朗誦或僧道諷經晝夜喧呼久則火升上焦致得此症",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "unit_id": "f014-R-u005",
+      "page_id": "f014-R",
+      "before": "磨海水江米酒冬用燕窩湯之類是也七日後又令忌食諸物恐其倒發如雄雞鯉魚牛",
+      "after": "磨海米江米酒冬用燕窩湯之類是也七日後又令忌食諸物恐其倒發如雄雞鯉魚牛",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "unit_id": "f014-R-u006",
+      "page_id": "f014-R",
+      "before": "肉羊肉豆麵更有希麵櫻桃忌之直至三年雖係保衞調養之法亦不必求全責備若是",
+      "after": "肉羊肉豆麪更有喬麪櫻桃忌之直至三年雖係保衞調養之法亦不必求全責備若是",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "unit_id": "f014-R-u008",
+      "page_id": "f014-R",
+      "before": "種痘之後不論何物皆可食之平素相同並無稍異蓋此牛痘特血管四達內何處有血",
+      "after": "種痘之後不論何物皆可食之平素相同並無稍異蓋此牛痘恃血管以達內何處有血",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "unit_id": "f014-R-u010",
+      "page_id": "f014-R",
+      "before": "取其便也人之血脈譬彼江河周而復始所以種不擇地一處已足飲食更不必拘亦莫",
+      "after": "取其便也人之血脈譬彼江河周而復始所以種不擇地一處已足飲食更不必拘亦崇",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "unit_id": "f014-R-u011",
+      "page_id": "f014-R",
+      "before": "眞去為致知格物之至理焉",
+      "after": "眞去僞致知格物之至理焉",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "unit_id": "f014-L-u005",
+      "page_id": "f014-L",
+      "before": "必願其足之甚小既願其足之甚小必肆其纏之甚惡裹之束之四五歲卽當此苦尼日",
+      "after": "必願其足之甚小既願其足之甚小必肆其纏之甚惡裹之束之四五歲卽當此苦厄日",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "unit_id": "f014-L-u006",
+      "page_id": "f014-L",
+      "before": "夜痛楚眠食俱廢難以解釋實為罪孽畢生無舒暢之心終身皆艱難之步求其足之小",
+      "after": "夜痛楚眠食俱廢難以解釋實爲罪孽畢生無舒暢之心終身皆艱難之步求其足之小",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "unit_id": "f014-L-u007",
+      "page_id": "f014-L",
+      "before": "不顧其苦之極其愛之乎其害之也然此為家小節所關者尚不僅是夫天下女子在室",
+      "after": "不顧其苦之極其愛之乎其害之也然此爲末小節所關者尚不僅是夫天下女子在室",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "unit_id": "f014-L-u009",
+      "page_id": "f014-L",
+      "before": "行動難以自便心懷併懟飲食未能消化動轉未能快然加之寒暑不調就冷貪涼則白",
+      "after": "行動難以自便心懷伊鬱飲食未能消化動轉未能快然加之寒暑不調就冷貪涼則白",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "unit_id": "f014-L-u011",
+      "page_id": "f014-L",
+      "before": "不得不然者也顧居家惟我為主我行我法安能附會他人我不許我女纏足我之外安",
+      "after": "不得不然者也顧居家惟我爲主我行我法安能附會他人我不許我女纏足我之外安",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "unit_id": "f014-L-u012",
+      "page_id": "f014-L",
+      "before": "得干預我事是纏足一節責在父母權亦操之父母也倘識為害而非愛一家改絃易轍",
+      "after": "得干預我事是纏足一節責在父母權亦操之父母也倘識爲害而非愛一家改絃易轍",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/540a5acb-6dcd-49e4-b24b-bb03ea676f84.json",
+      "source_face_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "unit_id": "f015-R-u002",
+      "page_id": "f015-R",
+      "before": "未能隨衆將來受聘因此覺難況足既云小縱言貌稍陋亦可涵容不知令聘娶因人平",
+      "after": "未能隨衆將來受聘因此覺難況足既云小縱言貌稍陋亦可涵容不知令聘娶因人乎",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "unit_id": "f015-R-u004",
+      "page_id": "f015-R",
+      "before": "明矣或謂纏足為博翁姑之愛也然德言功貌先嘗言足使其足小於雖人皆愛慕而行",
+      "after": "明矣或謂纏足爲博翁姑之愛也然德言功貌未嘗言足使其足小於雖人皆愛慕而行",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "unit_id": "f015-R-u006",
+      "page_id": "f015-R",
+      "before": "隨其衆而楊其波也夫人事至重莫重於世道人心翁娘創始原為固寵起見後人卽狃",
+      "after": "隨其衆而楊其波也夫人事至重莫重於世道人心窈娘創始原爲固寵起見後人卽狃",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "unit_id": "f015-R-u010",
+      "page_id": "f015-R",
+      "before": "其乳益莫大焉西國之生子至少者三五人餘者可知有一家一母所生二十四人實為",
+      "after": "其乳益莫大焉西國之生子至少者三五人餘者可知有一家一母所生二十四人實爲",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "unit_id": "f015-L-u001",
+      "page_id": "f015-L",
+      "before": "文猶恐矯情異俗獲責於人倘司牧者設法推行善為改易莫謂猥索鄙細不肯勞民生",
+      "after": "文猶恐矯情異俗獲責於人倘司牧者設法推行善爲改易莫謂猥索鄙細不肯勞民生",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "unit_id": "f015-L-u002",
+      "page_id": "f015-L",
+      "before": "國計之心也倘能如康熙三年欲行禁止纏足刻今再為明降諭示宣之中外吾知天下",
+      "after": "國計之心也倘能如康熙三年欲行禁止纏足刻令再爲明降諭示宣之中外吾知天下",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "unit_id": "f015-L-u007",
+      "page_id": "f015-L",
+      "before": "託之醫人非粗疏也至理存焉因其平素開腹考察凡內經之臟腑膚理之血脈全骨之",
+      "after": "託之醫人非粗疎也至理存焉因其平素開腹考察凡內經之臟腑膚理之血脈全骨之",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "unit_id": "f015-L-u008",
+      "page_id": "f015-L",
+      "before": "節腠筋絡之貫通閱之多而記之熟成竹在胸今生在抱更有許多善法利器遇有難產",
+      "after": "節腠筋絡之貫通閱之多而記之熟成竹在胸全牛在抱更有許多善法利器遇有難產",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "unit_id": "f015-L-u010",
+      "page_id": "f015-L",
+      "before": "而母命最為緊要有一開接之法甚有奇效其法西國新出先將麻藥吸入鼻中心神如",
+      "after": "而母命最爲緊要有一開接之法甚有奇效其法西國新出先將麻藥吸入鼻中心神如",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb.json",
+      "source_face_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "unit_id": "f016-R-u004",
+      "page_id": "f016-R",
+      "before": "長藥用其水少許於巾帕蓋鼻上候如睡昏不知人已麻過矣任施刀針心不能醒卽按",
+      "after": "良藥用其水少許於巾帕蓋鼻上俟如睡昏不知人已麻過矣任施刀針心不能醒卽按",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/01d9b1e6-3908-439c-913e-a13ed5e501b8.json",
+      "source_face_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "unit_id": "f016-R-u005",
+      "page_id": "f016-R",
+      "before": "法剖割少時人甦治理已畢其藥乃英國醫士心孫創始凡大症及折骨等病均各賴之",
+      "after": "法割剖少時人甦治理已畢其藥乃英國醫士心孫創始凡大症及折骨等病均各賴之",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/01d9b1e6-3908-439c-913e-a13ed5e501b8.json",
+      "source_face_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "unit_id": "f016-R-u011",
+      "page_id": "f016-R",
+      "before": "有精液汁津恃以生之迨返於同血管中色變紫炭氣毒也至同血總管抵心右上房轉",
+      "after": "有精液汁津恃以生之迨返於囘血管中色變紫炭氣毒也至囘血總管抵心右上房轉",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/01d9b1e6-3908-439c-913e-a13ed5e501b8.json",
+      "source_face_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "unit_id": "f016-L-u001",
+      "page_id": "f016-L",
+      "before": "右下房入肺出炭氣入養氣復為紅血入心左上房落左下房環轉無停周而復始倘赤",
+      "after": "右下房入肺出炭氣入養氣復爲紅血入心左上房落左下房環轉無停周而復始倘赤",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/01d9b1e6-3908-439c-913e-a13ed5e501b8.json",
+      "source_face_sha256": "5801bc980e3ef6afe3d94fce4552053117b1f865b4cf2ace537d38362aafda33"
+    },
+    {
+      "unit_id": "f016-L-u002",
+      "page_id": "f016-L",
+      "before": "血達於通體回毒血換於肺中皆心之功力此說初與西國諸醫未信不克遵循四五十",
+      "after": "血達於通體囘毒血換於肺中皆心之功力此說初與西國諸醫未信不尅遽循四五十",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/01d9b1e6-3908-439c-913e-a13ed5e501b8.json",
+      "source_face_sha256": "5801bc980e3ef6afe3d94fce4552053117b1f865b4cf2ace537d38362aafda33"
+    },
+    {
+      "unit_id": "f016-L-u004",
+      "page_id": "f016-L",
+      "before": "至兹四千餘年十二經絡六脈浮沉無憑之虛談徒兹耳目總不若親見親考最為眞切",
+      "after": "至兹四千餘年十二經絡六脈浮沉無憑之虛談徒炫耳目總不若親見親考最爲眞切",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/01d9b1e6-3908-439c-913e-a13ed5e501b8.json",
+      "source_face_sha256": "5801bc980e3ef6afe3d94fce4552053117b1f865b4cf2ace537d38362aafda33"
+    },
+    {
+      "unit_id": "f016-L-u005",
+      "page_id": "f016-L",
+      "before": "故占拿之創種牛痘哥羅羅佛爾墨之用刀忘痛哈兒菲之議論血理三大端皆其苦費",
+      "after": "故古拿之創種牛痘哥羅羅佛爾墨之用刀忘痛哈兒菲之議論血理三大端皆其苦費",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/01d9b1e6-3908-439c-913e-a13ed5e501b8.json",
+      "source_face_sha256": "5801bc980e3ef6afe3d94fce4552053117b1f865b4cf2ace537d38362aafda33"
+    },
+    {
+      "unit_id": "f017-R-u002",
+      "page_id": "f017-R",
+      "before": "大英欽差駐劄中國便宜行事大臣卜二百五十兩",
+      "after": "大英欽差大臣卜二百五十兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "unit_id": "f017-R-u004",
+      "page_id": "f017-R",
+      "before": "大英欽差駐劄中國便宜行事大臣阿一百零五兩",
+      "after": "大英欽差大臣阿一百零五兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "unit_id": "f017-R-u005",
+      "page_id": "f017-R",
+      "before": "大英署理欽差駐劄中國便宜行事大臣威一百一十兩",
+      "after": "大英署理欽差大臣威一百一十兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "unit_id": "f017-R-u006",
+      "page_id": "f017-R",
+      "before": "大美欽差駐劄中國便宜行事大臣蒲五十二兩五錢",
+      "after": "大美欽差大臣蒲五十二兩五錢",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "unit_id": "f017-R-u007",
+      "page_id": "f017-R",
+      "before": "大美署理欽差駐劄中國便宜行事大臣威三十五兩",
+      "after": "大美署理欽差大臣威三十五兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "unit_id": "f017-R-u012",
+      "page_id": "f017-R",
+      "before": "鎮江海關杜老爺十七兩",
+      "after": "鎭江海關杜老爺十七兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "unit_id": "f017-L-u017",
+      "page_id": "f017-L",
+      "before": "赫三老爺十七兩",
+      "after": "赫二老爺十兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "unit_id": "f017-L-u018",
+      "page_id": "f017-L",
+      "before": "李老爺十七兩",
+      "after": "李老爺十兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "unit_id": "f017-L-u019",
+      "page_id": "f017-L",
+      "before": "史老爺十七兩",
+      "after": "史老爺十兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "unit_id": "f017-L-u020",
+      "page_id": "f017-L",
+      "before": "漢老爺十七兩",
+      "after": "漢老爺十兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "unit_id": "f017-L-u021",
+      "page_id": "f017-L",
+      "before": "威老爺十七兩",
+      "after": "威老爺十兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "unit_id": "f017-L-u024",
+      "page_id": "f017-L",
+      "before": "穆先生十七兩",
+      "after": "穆先生十兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json",
+      "source_face_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "unit_id": "f018-R-u001",
+      "page_id": "f018-R",
+      "before": "上海洋商博洛⟦g-f018-R-name1⟧公共一千五百兩",
+      "after": "上海洋商博洛訥公共一千五百兩",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json",
+      "source_face_sha256": "c24ceb0d81e5c6f289d397c04bb08c1a1d44e029ade65933e6233aac597ca9a8"
+    }
+  ],
+  "new_small_note_units": [
+    {
+      "id": "f004-L-u013-note-v020",
+      "page_id": "f004-L",
+      "role": "small-note",
+      "text": "或從中國傳之彼地者",
+      "anchor": {
+        "parent_unit_id": "f004-L-u013",
+        "after": "帶至本國",
+        "relation": "side-note-near-parent-phrase-no-printed-insertion-mark"
+      }
+    },
+    {
+      "id": "f017-R-u002-small1-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "駐劄中國",
+      "anchor": {
+        "parent_unit_id": "f017-R-u002",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u002-small2-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "便宜行事",
+      "anchor": {
+        "parent_unit_id": "f017-R-u002",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u004-small1-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "駐劄中國",
+      "anchor": {
+        "parent_unit_id": "f017-R-u004",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u004-small2-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "便宜行事",
+      "anchor": {
+        "parent_unit_id": "f017-R-u004",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u005-small1-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "駐劄中國",
+      "anchor": {
+        "parent_unit_id": "f017-R-u005",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u005-small2-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "便宜行事",
+      "anchor": {
+        "parent_unit_id": "f017-R-u005",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u006-small1-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "駐劄中國",
+      "anchor": {
+        "parent_unit_id": "f017-R-u006",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u006-small2-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "便宜行事",
+      "anchor": {
+        "parent_unit_id": "f017-R-u006",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u007-small1-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "駐劄中國",
+      "anchor": {
+        "parent_unit_id": "f017-R-u007",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    },
+    {
+      "id": "f017-R-u007-small2-v020",
+      "page_id": "f017-R",
+      "role": "small-note",
+      "text": "便宜行事",
+      "anchor": {
+        "parent_unit_id": "f017-R-u007",
+        "after": "欽差",
+        "before": "大臣",
+        "relation": "original-double-small-column-within-title"
+      }
+    }
+  ],
+  "baseline_files_preserved": true,
+  "accuracy_claim": false
+}

@@ -1,14 +1,13 @@
 {
-  "scope": "All12small-note units and their actual parent links; source chunks, not an invented continuous reading edition",
-  "offset_convention": "0-based Unicodecodepoints, end exclusive in parent unit",
+  "scope": "23source small-note units and actual parent/phrase relationships; not a continuous modern reading edition",
   "notes": [
     {
       "page_id": "f004-L",
       "unit_id": "f004-L-u005",
-      "text": "⟦g-f004-L-inline-cluster⟧",
+      "text": "雒",
       "parent_unit_id": "f004-L-u004",
       "status": "spatially located near this main-column interval; no source insertion mark interpreted",
-      "after_surface": "咸豐十一年溫黃流行",
+      "after_surface": "咸豐十一年瘟黃流行",
       "after_surface_start": 0,
       "after_surface_end": 9,
       "before_surface": "公治過",
@@ -19,13 +18,27 @@
     {
       "page_id": "f004-L",
       "unit_id": "f004-L-u007",
-      "text": "肝居",
+      "text": "肝居右腹並不在左開視許多皆然試將猪肝驗之亦各在右",
       "parent_unit_id": "f004-L-u006",
-      "status": "small two-character tail beside the column bottom; continues in next physical column",
-      "after_surface": "致獲此症",
-      "after_surface_start": 45,
-      "after_surface_end": 49,
-      "exact_insertion_point_asserted": false
+      "status": "Original3segment small annotation starting beside C05 end and continuing in2small lines at C06 top, not C06 lower main text",
+      "after_surface": "人之",
+      "after_surface_start": 32,
+      "after_surface_end": 34,
+      "exact_insertion_point_asserted": false,
+      "source_segments": [
+        {
+          "text": "肝居",
+          "source_location": "C05 printed end side-note tail"
+        },
+        {
+          "text": "右腹並不在左開視許多皆",
+          "source_location": "C06 upper small right line"
+        },
+        {
+          "text": "然試將猪肝驗之亦各在右",
+          "source_location": "C06 upper small left line"
+        }
+      ]
     },
     {
       "page_id": "f005-L",
@@ -118,8 +131,160 @@
       "parent_unit_id": "f018-R-u011",
       "status": "small adjacent count, bound to this cell without silently rewriting the main text",
       "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f004-L",
+      "unit_id": "f004-L-u013-note-v020",
+      "text": "或從中國傳之彼地者",
+      "parent_unit_id": "f004-L-u013",
+      "status": "side-note-near-parent-phrase-no-printed-insertion-mark",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "帶至本國",
+      "after_surface_start": 22,
+      "after_surface_end": 26
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u002-small1-v020",
+      "text": "駐劄中國",
+      "parent_unit_id": "f017-R-u002",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 2,
+      "after_surface_end": 4,
+      "before_surface": "大臣",
+      "before_surface_start": 4,
+      "before_surface_end": 6
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u002-small2-v020",
+      "text": "便宜行事",
+      "parent_unit_id": "f017-R-u002",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 2,
+      "after_surface_end": 4,
+      "before_surface": "大臣",
+      "before_surface_start": 4,
+      "before_surface_end": 6
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u004-small1-v020",
+      "text": "駐劄中國",
+      "parent_unit_id": "f017-R-u004",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 2,
+      "after_surface_end": 4,
+      "before_surface": "大臣",
+      "before_surface_start": 4,
+      "before_surface_end": 6
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u004-small2-v020",
+      "text": "便宜行事",
+      "parent_unit_id": "f017-R-u004",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 2,
+      "after_surface_end": 4,
+      "before_surface": "大臣",
+      "before_surface_start": 4,
+      "before_surface_end": 6
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u005-small1-v020",
+      "text": "駐劄中國",
+      "parent_unit_id": "f017-R-u005",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 4,
+      "after_surface_end": 6,
+      "before_surface": "大臣",
+      "before_surface_start": 6,
+      "before_surface_end": 8
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u005-small2-v020",
+      "text": "便宜行事",
+      "parent_unit_id": "f017-R-u005",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 4,
+      "after_surface_end": 6,
+      "before_surface": "大臣",
+      "before_surface_start": 6,
+      "before_surface_end": 8
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u006-small1-v020",
+      "text": "駐劄中國",
+      "parent_unit_id": "f017-R-u006",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 2,
+      "after_surface_end": 4,
+      "before_surface": "大臣",
+      "before_surface_start": 4,
+      "before_surface_end": 6
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u006-small2-v020",
+      "text": "便宜行事",
+      "parent_unit_id": "f017-R-u006",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 2,
+      "after_surface_end": 4,
+      "before_surface": "大臣",
+      "before_surface_start": 4,
+      "before_surface_end": 6
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u007-small1-v020",
+      "text": "駐劄中國",
+      "parent_unit_id": "f017-R-u007",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 4,
+      "after_surface_end": 6,
+      "before_surface": "大臣",
+      "before_surface_start": 6,
+      "before_surface_end": 8
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u007-small2-v020",
+      "text": "便宜行事",
+      "parent_unit_id": "f017-R-u007",
+      "status": "original-double-small-column-within-title",
+      "exact_insertion_point_asserted": true,
+      "after_surface": "欽差",
+      "after_surface_start": 4,
+      "after_surface_end": 6,
+      "before_surface": "大臣",
+      "before_surface_start": 6,
+      "before_surface_end": 8
     }
   ],
+  "offset_convention": "0-based Unicode codepoints end exclusive in selected parent string",
   "note_groups_in_source_sequence": [
     {
       "parent_unit_id": "f004-L-u004",
@@ -127,7 +292,7 @@
         "f004-L-u005"
       ],
       "source_note_strings": [
-        "⟦g-f004-L-inline-cluster⟧"
+        "雒"
       ],
       "exact_prose_insertion_point_supplied": true
     },
@@ -137,7 +302,7 @@
         "f004-L-u007"
       ],
       "source_note_strings": [
-        "肝居"
+        "肝居右腹並不在左開視許多皆然試將猪肝驗之亦各在右"
       ],
       "exact_prose_insertion_point_supplied": false
     },
@@ -164,10 +329,14 @@
     {
       "parent_unit_id": "f017-R-u002",
       "note_ids": [
-        "f017-R-u003"
+        "f017-R-u003",
+        "f017-R-u002-small1-v020",
+        "f017-R-u002-small2-v020"
       ],
       "source_note_strings": [
-        "已故"
+        "已故",
+        "駐劄中國",
+        "便宜行事"
       ],
       "exact_prose_insertion_point_supplied": false
     },
@@ -232,6 +401,64 @@
         "五位"
       ],
       "exact_prose_insertion_point_supplied": false
+    },
+    {
+      "parent_unit_id": "f004-L-u013",
+      "note_ids": [
+        "f004-L-u013-note-v020"
+      ],
+      "source_note_strings": [
+        "或從中國傳之彼地者"
+      ],
+      "exact_prose_insertion_point_supplied": true
+    },
+    {
+      "parent_unit_id": "f017-R-u004",
+      "note_ids": [
+        "f017-R-u004-small1-v020",
+        "f017-R-u004-small2-v020"
+      ],
+      "source_note_strings": [
+        "駐劄中國",
+        "便宜行事"
+      ],
+      "exact_prose_insertion_point_supplied": true
+    },
+    {
+      "parent_unit_id": "f017-R-u005",
+      "note_ids": [
+        "f017-R-u005-small1-v020",
+        "f017-R-u005-small2-v020"
+      ],
+      "source_note_strings": [
+        "駐劄中國",
+        "便宜行事"
+      ],
+      "exact_prose_insertion_point_supplied": true
+    },
+    {
+      "parent_unit_id": "f017-R-u006",
+      "note_ids": [
+        "f017-R-u006-small1-v020",
+        "f017-R-u006-small2-v020"
+      ],
+      "source_note_strings": [
+        "駐劄中國",
+        "便宜行事"
+      ],
+      "exact_prose_insertion_point_supplied": true
+    },
+    {
+      "parent_unit_id": "f017-R-u007",
+      "note_ids": [
+        "f017-R-u007-small1-v020",
+        "f017-R-u007-small2-v020"
+      ],
+      "source_note_strings": [
+        "駐劄中國",
+        "便宜行事"
+      ],
+      "exact_prose_insertion_point_supplied": true
     }
   ],
   "continuous_reading_layer_produced": false
