@@ -1,0 +1,55 @@
+page_id,unit_id,table_row_source,table_column_source,heading_source,entry_source,name_and_title_source,amount_source,associated_notes_source,associated_note_ids,source_parts_json,split_status,source_canvas
+f017-R,f017-R-u002,1,1,外國捐輸銀數姓名總目,大英欽差駐劄中國便宜行事大臣卜二百五十兩,大英欽差駐劄中國便宜行事大臣卜,二百五十兩,已故,f017-R-u003,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u004,1,2,外國捐輸銀數姓名總目,大英欽差駐劄中國便宜行事大臣阿一百零五兩,大英欽差駐劄中國便宜行事大臣阿,一百零五兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u005,1,3,外國捐輸銀數姓名總目,大英署理欽差駐劄中國便宜行事大臣威一百一十兩,大英署理欽差駐劄中國便宜行事大臣威,一百一十兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u006,1,4,外國捐輸銀數姓名總目,大美欽差駐劄中國便宜行事大臣蒲五十二兩五錢,大美欽差駐劄中國便宜行事大臣蒲,五十二兩五錢,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u007,1,5,外國捐輸銀數姓名總目,大美署理欽差駐劄中國便宜行事大臣威三十五兩,大美署理欽差駐劄中國便宜行事大臣威,三十五兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u008,1,6,外國捐輸銀數姓名總目,大英欽命稅務總司赫二百兩,大英欽命稅務總司赫,二百兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u009,1,7,外國捐輸銀數姓名總目,大英欽命水師提督軍門荷一百九十六兩,大英欽命水師提督軍門荷,一百九十六兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u010,1,8,外國捐輸銀數姓名總目,大英欽命參贊交涉事務新二十八兩,大英欽命參贊交涉事務新,二十八兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u011,1,9,外國捐輸銀數姓名總目,大英欽命駐劄上海領事官溫三兩五錢,大英欽命駐劄上海領事官溫,三兩五錢,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u012,1,10,外國捐輸銀數姓名總目,鎮江海關杜老爺十七兩,鎮江海關杜老爺,十七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u013,2,1,外國捐輸銀數姓名總目,施老爺十四兩,施老爺,十四兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u014,2,2,外國捐輸銀數姓名總目,默老爺七兩,默老爺,七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u015,2,3,外國捐輸銀數姓名總目,佛老爺七兩,佛老爺,七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u016,2,4,外國捐輸銀數姓名總目,何老爺二十四兩五錢,何老爺,二十四兩五錢,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u017,2,5,外國捐輸銀數姓名總目,壁老爺二十兩,壁老爺,二十兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u018,2,6,外國捐輸銀數姓名總目,吉老爺七兩,吉老爺,七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u019,2,7,外國捐輸銀數姓名總目,佛老爺三兩五錢,佛老爺,三兩五錢,每年,f017-R-u020,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u021,2,8,外國捐輸銀數姓名總目,勞老爺十七兩五錢,勞老爺,十七兩五錢,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u022,2,9,外國捐輸銀數姓名總目,柏老爺二十一兩,柏老爺,二十一兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-R,f017-R-u023,2,10,外國捐輸銀數姓名總目,克都閫府二十一兩,克都閫府,二十一兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u001,1,1,外國捐輸銀數姓名總目,大英總兵沙大人,大英總兵沙大人,,"每年六兩五錢八
+年共銀五十四兩",f017-L-u002|f017-L-u003,,no main-cell amount parsed; see literal associated notes,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u004,1,2,外國捐輸銀數姓名總目,天津海關貝格老爺十五兩,天津海關貝格老爺,十五兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u005,1,3,外國捐輸銀數姓名總目,天津海關休士老爺十五兩,天津海關休士老爺,十五兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u006,1,4,外國捐輸銀數姓名總目,天津海關高老爺十五兩,天津海關高老爺,十五兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u007,1,5,外國捐輸銀數姓名總目,廣東海關吉老爺十七兩,廣東海關吉老爺,十七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u008,1,6,外國捐輸銀數姓名總目,烟台海關雷德老爺十四兩,烟台海關雷德老爺,十四兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u009,1,7,外國捐輸銀數姓名總目,福州海關葛德士老爺七兩,福州海關葛德士老爺,七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u010,1,8,外國捐輸銀數姓名總目,漢口海關博來德老爺三兩五錢,漢口海關博來德老爺,三兩五錢,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u011,1,9,外國捐輸銀數姓名總目,新家坡米老爺七兩,新家坡米老爺,七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u012,1,10,外國捐輸銀數姓名總目,海關滿老爺四十二兩五錢,海關滿老爺,四十二兩五錢,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u013,1,11,外國捐輸銀數姓名總目,海關德堤老爺七兩,海關德堤老爺,七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u014,2,1,外國捐輸銀數姓名總目,吳老爺二十二兩,吳老爺,二十二兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u015,2,2,外國捐輸銀數姓名總目,金老爺十五兩,金老爺,十五兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u016,2,3,外國捐輸銀數姓名總目,方老爺十二兩,方老爺,十二兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u017,2,4,外國捐輸銀數姓名總目,赫三老爺十七兩,赫三老爺,十七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u018,2,5,外國捐輸銀數姓名總目,李老爺十七兩,李老爺,十七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u019,2,6,外國捐輸銀數姓名總目,史老爺十七兩,史老爺,十七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u020,2,7,外國捐輸銀數姓名總目,漢老爺十七兩,漢老爺,十七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u021,2,8,外國捐輸銀數姓名總目,威老爺十七兩,威老爺,十七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u022,2,9,外國捐輸銀數姓名總目,彬先生十二兩六錢,彬先生,十二兩六錢,已故,f017-L-u023,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u024,2,10,外國捐輸銀數姓名總目,穆先生十七兩,穆先生,十七兩,已故,f017-L-u025,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f017-L,f017-L-u026,2,11,外國捐輸銀數姓名總目,顧先生七兩,顧先生,七兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/b773317a-345c-4447-bdb2-f5cb3760c109.json
+f018-R,f018-R-u001,1,1,外國捐輸銀數姓名總目,上海洋商博洛⟦g-f018-R-name1⟧公共一千五百兩,上海洋商博洛⟦g-f018-R-name1⟧公,共一千五百兩,,,"[""上海洋商博洛⟦g-f018-R-name1⟧公"", ""共一千五百兩""]","source-supplied parts, joined without normalization",https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u002,1,2,外國捐輸銀數姓名總目,上海洋商章伯共一千零二兩,上海洋商章伯,共一千零二兩,,,"[""上海洋商章伯"", ""共一千零二兩""]","source-supplied parts, joined without normalization",https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u003,1,3,外國捐輸銀數姓名總目,上海洋商李公三百兩,上海洋商李公,三百兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u004,1,4,外國捐輸銀數姓名總目,上海洋商薩公一百兩,上海洋商薩公,一百兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u005,1,5,外國捐輸銀數姓名總目,上海洋商伊公三十兩,上海洋商伊公,三十兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u006,1,6,外國捐輸銀數姓名總目,上海洋商何⟦g-f018-R-name6⟧拉三十兩,上海洋商何⟦g-f018-R-name6⟧拉,三十兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u007,2,1,外國捐輸銀數姓名總目,英商畢公三十五兩,英商畢公,三十五兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u008,2,2,外國捐輸銀數姓名總目,英國衆友共一百零三兩二錢六分,英國衆友,共一百零三兩二錢六分,在本國者,f018-R-u009,"[""英國衆友"", ""共一百零三兩"", ""二錢六分""]","source-supplied parts, joined without normalization",https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u010,2,3,外國捐輸銀數姓名總目,洋商四位共一百二十四兩六錢,洋商四位,共一百二十四兩六錢,,,"[""洋商四位"", ""共一百二十四"", ""兩六錢""]","source-supplied parts, joined without normalization",https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u011,2,4,外國捐輸銀數姓名總目,本國衆友共三十兩,本國衆友,共三十兩,五位,f018-R-u012,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json
+f018-R,f018-R-u013,2,5,外國捐輸銀數姓名總目,倫敦傳道會藥銀一千兩,倫敦傳道會藥銀,一千兩,,,,literal currency-suffix split; not numeric conversion,https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json

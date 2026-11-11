@@ -1,0 +1,2058 @@
+{
+  "offset_convention": "0-based Unicodecodepoints, end exclusive; candidate strings are not corrections",
+  "records": [
+    {
+      "id": "f003-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f003-L-u003",
+      "token": "⟦g-f003-L-col02⟧",
+      "extent": 1,
+      "candidates": [
+        "臨"
+      ],
+      "reason": "Single source glyph after 原處 retained unresolved; not reconstructed from relocation history.",
+      "page_id": "f003-L",
+      "start": 29,
+      "end": 45,
+      "source_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b"
+    },
+    {
+      "id": "f003-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f003-L-u004",
+      "token": "⟦g-f003-L-col03⟧",
+      "extent": 1,
+      "candidates": [
+        "移",
+        "穆"
+      ],
+      "reason": "Single source glyph after 廟 needs another source reading.",
+      "page_id": "f003-L",
+      "start": 10,
+      "end": 26,
+      "source_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b"
+    },
+    {
+      "id": "f003-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f003-L-u008",
+      "surface": "貽愧",
+      "extent": 2,
+      "candidates": [
+        "貽愧"
+      ],
+      "reason": "Visible initial surface retained; phrase is not silently improved from meaning.",
+      "page_id": "f003-L",
+      "start": 23,
+      "end": 25,
+      "source_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b"
+    },
+    {
+      "id": "f003-L-q004",
+      "kind": "source-capture-limited",
+      "unit_id": "f003-L-u012",
+      "surface": "施醫信錄",
+      "extent": 1,
+      "reason": "Running-title first character meets the spine-side edge; all ten main columns and external rule are visible. No main-body column loss inferred.",
+      "page_id": "f003-L",
+      "start": 0,
+      "end": 4,
+      "source_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b",
+      "candidates": []
+    },
+    {
+      "id": "f004-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f004-R-u006",
+      "token": "⟦g-f004-R-c06⟧",
+      "extent": 1,
+      "candidates": [
+        "天",
+        "未"
+      ],
+      "reason": "Short source character before 親視 is not resolved from expected phrase.",
+      "page_id": "f004-R",
+      "start": 1,
+      "end": 15,
+      "source_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "id": "f004-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f004-R-u010",
+      "token": "⟦g-f004-R-c10⟧",
+      "extent": 1,
+      "candidates": [
+        "貽",
+        "胎"
+      ],
+      "reason": "Small source form before 愛 needs independent reading.",
+      "page_id": "f004-R",
+      "start": 11,
+      "end": 25,
+      "source_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "id": "f004-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f004-R-u007",
+      "surface": "覬延之愆",
+      "extent": 4,
+      "candidates": [
+        "覬延之愆"
+      ],
+      "reason": "Initial visible forms preserved rather than editorially changing to a modern idiom.",
+      "page_id": "f004-R",
+      "start": 2,
+      "end": 6,
+      "source_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424"
+    },
+    {
+      "id": "f004-R-q004",
+      "kind": "exact-encoding-unresolved",
+      "unit_id": "f004-R-u009",
+      "surface": "卽",
+      "extent": 1,
+      "reason": "Source-looking glyph encodings retained, not normalized.",
+      "grouped_source_observation": "卽、刋",
+      "page_id": "f004-R",
+      "start": 0,
+      "end": 1,
+      "source_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424",
+      "candidates": []
+    },
+    {
+      "id": "f004-R-q005",
+      "kind": "exact-encoding-unresolved",
+      "unit_id": "f004-R-u009",
+      "surface": "刋",
+      "extent": 1,
+      "reason": "Source-looking glyph encodings retained, not normalized.",
+      "grouped_source_observation": "卽、刋",
+      "page_id": "f004-R",
+      "start": 27,
+      "end": 28,
+      "source_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424",
+      "candidates": []
+    },
+    {
+      "id": "f004-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f004-L-u005",
+      "token": "⟦g-f004-L-inline-cluster⟧",
+      "extent": "unknown",
+      "reason": "Actual small type cluster between main 流行 and 公 remains unresolved; it is not silently appended to the main column.",
+      "candidates": [
+        "雖",
+        "雉"
+      ],
+      "page_id": "f004-L",
+      "start": 0,
+      "end": 25,
+      "source_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "id": "f004-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f004-L-u006",
+      "token": "⟦g-f004-L-headpair⟧",
+      "extent": 2,
+      "reason": "Two-character column head was viewed in full image and actual-pixel detail. First has enclosing form, second has right striking-stroke component; candidate not accepted from sentence plausibility.",
+      "candidates": [
+        "罔效"
+      ],
+      "page_id": "f004-L",
+      "start": 0,
+      "end": 19,
+      "source_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "id": "f004-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f004-L-u004",
+      "token": "⟦g-f004-L-tailword⟧",
+      "extent": 1,
+      "reason": "Character immediately before 治 after 作燒 needs another source reading; do not replace from context.",
+      "candidates": [
+        "遲",
+        "遣"
+      ],
+      "page_id": "f004-L",
+      "start": 31,
+      "end": 50,
+      "source_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "id": "f004-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f004-L-u013",
+      "token": "⟦g-f004-L-tu-shi⟧",
+      "extent": 1,
+      "reason": "Relative horizontal lengths at this occurrence remain uncertain; expected place name is not used as a replacement.",
+      "candidates": [
+        "土",
+        "士"
+      ],
+      "page_id": "f004-L",
+      "start": 10,
+      "end": 27,
+      "source_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "id": "f004-L-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f004-L-u011",
+      "surface": "少",
+      "reason": "Initial visible reading preserved; check source glyph against 多 in independent reading, without correcting from a historical expectation.",
+      "candidates": [
+        "少",
+        "多"
+      ],
+      "extent": 1,
+      "page_id": "f004-L",
+      "start": 7,
+      "end": 8,
+      "source_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "id": "f004-L-q006",
+      "kind": "exact-encoding-unresolved",
+      "unit_id": "f004-L-u001",
+      "surface": "册",
+      "reason": "Source-looking forms retained; no automatic modern character replacement. Occurrence-level exact glyph/encoding should be reviewed.",
+      "candidates": [],
+      "extent": 1,
+      "grouped_source_observation": "册、瞻、衘",
+      "page_id": "f004-L",
+      "start": 14,
+      "end": 15,
+      "source_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "id": "f004-L-q007",
+      "kind": "exact-encoding-unresolved",
+      "unit_id": "f004-L-u001",
+      "surface": "瞻",
+      "reason": "Source-looking forms retained; no automatic modern character replacement. Occurrence-level exact glyph/encoding should be reviewed.",
+      "candidates": [],
+      "extent": 1,
+      "grouped_source_observation": "册、瞻、衘",
+      "page_id": "f004-L",
+      "start": 24,
+      "end": 25,
+      "source_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "id": "f004-L-q008",
+      "kind": "exact-encoding-unresolved",
+      "unit_id": "f004-L-u001",
+      "surface": "衘",
+      "reason": "Source-looking forms retained; no automatic modern character replacement. Occurrence-level exact glyph/encoding should be reviewed.",
+      "candidates": [],
+      "extent": 1,
+      "grouped_source_observation": "册、瞻、衘",
+      "page_id": "f004-L",
+      "start": 29,
+      "end": 30,
+      "source_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2"
+    },
+    {
+      "id": "f005-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f005-R-u001",
+      "surface": "團塞",
+      "extent": 2,
+      "candidates": [
+        "團塞"
+      ],
+      "reason": "Continuation-column initial surface remains to be independently checked with preceding face; no protocol reconstruction.",
+      "page_id": "f005-R",
+      "start": 0,
+      "end": 2,
+      "source_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "id": "f005-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f005-R-u002",
+      "surface": "識為",
+      "extent": 2,
+      "candidates": [
+        "識為",
+        "誠為"
+      ],
+      "reason": "First source glyph has unclear speech-side details at fixed preview resolution.",
+      "page_id": "f005-R",
+      "start": 32,
+      "end": 34,
+      "source_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "id": "f005-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f005-R-u003",
+      "surface": "慶缺",
+      "extent": 2,
+      "candidates": [
+        "慶缺",
+        "屢缺"
+      ],
+      "reason": "Source form before 缺 is not expanded from expected grammar.",
+      "page_id": "f005-R",
+      "start": 4,
+      "end": 6,
+      "source_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "id": "f005-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f005-R-u010",
+      "surface": "蘇甸國",
+      "extent": 3,
+      "candidates": [
+        "蘇甸國"
+      ],
+      "reason": "Historical transliteration copied as visible, not replaced by a modern country name.",
+      "page_id": "f005-R",
+      "start": 17,
+      "end": 20,
+      "source_sha256": "c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744"
+    },
+    {
+      "id": "f005-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f005-L-u002",
+      "token": "⟦g-f005-L-c02⟧",
+      "extent": 1,
+      "candidates": [
+        "恙",
+        "妄"
+      ],
+      "reason": "Single glyph after 無 is too small to resolve; source retained.",
+      "page_id": "f005-L",
+      "start": 6,
+      "end": 20,
+      "source_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "id": "f005-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f005-L-u012",
+      "token": "⟦g-f005-L-c11⟧",
+      "extent": 1,
+      "candidates": [
+        "人"
+      ],
+      "reason": "The small source mark between 多 and 人 needs another view; not deleted as duplicate.",
+      "page_id": "f005-L",
+      "start": 11,
+      "end": 25,
+      "source_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "id": "f005-L-q003",
+      "kind": "source-stated-inconsistency",
+      "unit_id": "f005-L-u003",
+      "surface": "一千八百十七年",
+      "reason": "Printed date strings retained without silently reconciling calendar labels.",
+      "grouped_source_observation": "一千八百十七年、嘉慶二十三年",
+      "extent": 7,
+      "page_id": "f005-L",
+      "start": 21,
+      "end": 28,
+      "source_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77",
+      "candidates": []
+    },
+    {
+      "id": "f005-L-q004",
+      "kind": "source-stated-inconsistency",
+      "unit_id": "f005-L-u003",
+      "surface": "嘉慶二",
+      "reason": "Printed date strings retained without silently reconciling calendar labels.",
+      "grouped_source_observation": "一千八百十七年、嘉慶二十三年",
+      "extent": 3,
+      "page_id": "f005-L",
+      "start": 31,
+      "end": 34,
+      "source_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77",
+      "candidates": []
+    },
+    {
+      "id": "f005-L-q005",
+      "kind": "source-stated-inconsistency",
+      "unit_id": "f005-L-u004",
+      "surface": "十三年",
+      "reason": "Printed date strings retained without silently reconciling calendar labels.",
+      "grouped_source_observation": "一千八百十七年、嘉慶二十三年",
+      "extent": 3,
+      "page_id": "f005-L",
+      "start": 0,
+      "end": 3,
+      "source_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77",
+      "candidates": []
+    },
+    {
+      "id": "f005-L-q006",
+      "kind": "reading-unresolved",
+      "unit_id": "f005-L-u005",
+      "surface": "顯達彌譯",
+      "extent": 4,
+      "candidates": [
+        "顯達彌譯"
+      ],
+      "reason": "Source proper-name/verb sequence not repaired from external biographical knowledge.",
+      "page_id": "f005-L",
+      "start": 17,
+      "end": 21,
+      "source_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "id": "f005-L-q007",
+      "kind": "reading-unresolved",
+      "unit_id": "f005-L-u010",
+      "surface": "霍公",
+      "extent": 2,
+      "candidates": [
+        "霍公",
+        "雒公"
+      ],
+      "reason": "Visible initial source form preserved; not harmonized to earlier doctor name.",
+      "page_id": "f005-L",
+      "start": 31,
+      "end": 33,
+      "source_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77"
+    },
+    {
+      "id": "f006-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f006-R-u007",
+      "token": "⟦g-f006-R-heading⟧",
+      "extent": 1,
+      "candidates": [
+        "癭",
+        "瘰"
+      ],
+      "reason": "Disease-heading specific source glyph needs independent source reading; not supplied from modern diagnosis.",
+      "page_id": "f006-R",
+      "start": 1,
+      "end": 19,
+      "source_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "id": "f006-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f006-R-u008",
+      "token": "⟦g-f006-R-body-name⟧",
+      "extent": 1,
+      "candidates": [
+        "癭",
+        "瘰"
+      ],
+      "reason": "Repeated source disease glyph remains separately located.",
+      "page_id": "f006-R",
+      "start": 10,
+      "end": 30,
+      "source_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "id": "f006-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f006-R-u008",
+      "token": "⟦g-f006-R-complication⟧",
+      "extent": 2,
+      "candidates": [
+        "癡痴",
+        "癡癎"
+      ],
+      "reason": "Two small source glyphs after 人多 remain unresolved.",
+      "page_id": "f006-R",
+      "start": 32,
+      "end": 55,
+      "source_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "id": "f006-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f006-R-u008",
+      "surface": "有之凡",
+      "extent": 3,
+      "candidates": [
+        "有之凡"
+      ],
+      "reason": "Crowded sequence before 氣 retained for another source reading.",
+      "page_id": "f006-R",
+      "start": 6,
+      "end": 9,
+      "source_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2"
+    },
+    {
+      "id": "f006-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f006-L-u003",
+      "surface": "唆勸",
+      "extent": 2,
+      "candidates": [
+        "唆勸",
+        "嗾勸"
+      ],
+      "reason": "Source-looking initial phrase retained; radicals need independent source reading.",
+      "page_id": "f006-L",
+      "start": 25,
+      "end": 27,
+      "source_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "id": "f006-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f006-L-u005",
+      "surface": "財帛",
+      "extent": 2,
+      "candidates": [
+        "財帛",
+        "財吊"
+      ],
+      "reason": "Second glyph looks 帛/吊 at this resolution; no financial-context normalization.",
+      "page_id": "f006-L",
+      "start": 9,
+      "end": 11,
+      "source_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "id": "f006-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f006-L-u007",
+      "surface": "儼種",
+      "extent": 2,
+      "candidates": [
+        "儼種",
+        "濫種"
+      ],
+      "reason": "Source glyph before 種 is preserved pending independent reading.",
+      "page_id": "f006-L",
+      "start": 18,
+      "end": 20,
+      "source_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4"
+    },
+    {
+      "id": "f006-L-q004",
+      "kind": "exact-encoding-unresolved",
+      "unit_id": "f006-L-u008",
+      "surface": "穀梁",
+      "extent": 2,
+      "reason": "Visible source form retained without changing to a conventional agricultural phrase.",
+      "page_id": "f006-L",
+      "start": 24,
+      "end": 26,
+      "source_sha256": "78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4",
+      "candidates": []
+    },
+    {
+      "id": "f007-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f007-R-u003",
+      "token": "⟦g-f007-R-name⟧",
+      "extent": 1,
+      "candidates": [
+        "椿",
+        "樁"
+      ],
+      "reason": "Specific source glyph between 美人 and 英雄架 unresolved; historical punishment wording not reconstructed.",
+      "page_id": "f007-R",
+      "start": 10,
+      "end": 25,
+      "source_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b"
+    },
+    {
+      "id": "f007-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f007-R-u004",
+      "surface": "維繫歸得",
+      "extent": 4,
+      "candidates": [
+        "維繫歸得"
+      ],
+      "reason": "Source sequence retained for independent source reading.",
+      "page_id": "f007-R",
+      "start": 8,
+      "end": 12,
+      "source_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b"
+    },
+    {
+      "id": "f007-R-q003",
+      "kind": "source-stated-oddity",
+      "unit_id": "f007-R-u009",
+      "surface": "甚不易易",
+      "reason": "Repeated-looking 易 preserved rather than editorially deleting it.",
+      "page_id": "f007-R",
+      "start": 9,
+      "end": 13,
+      "source_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b",
+      "candidates": []
+    },
+    {
+      "id": "f007-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f007-L-u010",
+      "token": "⟦g-f007-L-heading-first⟧",
+      "extent": 2,
+      "candidates": [
+        "癆瘵",
+        "癆癧"
+      ],
+      "reason": "Two initial disease-heading glyphs retained unresolved.",
+      "page_id": "f007-L",
+      "start": 0,
+      "end": 24,
+      "source_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "id": "f007-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f007-L-u010",
+      "token": "⟦g-f007-L-heading-last⟧",
+      "extent": 1,
+      "candidates": [
+        "癖",
+        "痞"
+      ],
+      "reason": "Last heading glyph needs another source view.",
+      "page_id": "f007-L",
+      "start": 29,
+      "end": 52,
+      "source_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "id": "f007-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f007-L-u011",
+      "token": "⟦g-f007-L-c11⟧",
+      "extent": 1,
+      "candidates": [
+        "址",
+        "牡"
+      ],
+      "reason": "Source glyph following 基 not supplied from the house metaphor.",
+      "page_id": "f007-L",
+      "start": 9,
+      "end": 23,
+      "source_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "id": "f007-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f007-L-u011",
+      "token": "⟦g-f007-L-body-last⟧",
+      "extent": 1,
+      "candidates": [
+        "癖",
+        "痞"
+      ],
+      "reason": "Repeated specific disease glyph remains separately located.",
+      "page_id": "f007-L",
+      "start": 30,
+      "end": 50,
+      "source_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "id": "f007-L-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f007-L-u003",
+      "surface": "當費經納",
+      "extent": 4,
+      "candidates": [
+        "當費經納"
+      ],
+      "reason": "Visible phrase retained pending independent source reading.",
+      "page_id": "f007-L",
+      "start": 17,
+      "end": 21,
+      "source_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3"
+    },
+    {
+      "id": "f007-L-q006",
+      "kind": "exact-encoding-unresolved",
+      "unit_id": "f007-L-u005",
+      "surface": "母令",
+      "extent": 2,
+      "reason": "Visible source form preserved; no conversion to 毋令.",
+      "page_id": "f007-L",
+      "start": 26,
+      "end": 28,
+      "source_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3",
+      "candidates": []
+    },
+    {
+      "id": "f008-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f008-R-u008",
+      "surface": "調勻糊貼",
+      "extent": 4,
+      "candidates": [
+        "調勻糊貼",
+        "調勻糖貼"
+      ],
+      "reason": "Single source form after 勻 is retained as initial candidate.",
+      "page_id": "f008-R",
+      "start": 17,
+      "end": 21,
+      "source_sha256": "5d1459eaa3f8e59a173e733934a14e438bf591d05d82302eea6a9c08e2176fad"
+    },
+    {
+      "id": "f008-R-q002",
+      "kind": "source-stated-variant",
+      "unit_id": "f008-R-u009",
+      "surface": "饅首",
+      "reason": "Source surface uses 首 at this occurrence; no automatic harmonization to earlier 饅頭.",
+      "page_id": "f008-R",
+      "start": 11,
+      "end": 13,
+      "source_sha256": "5d1459eaa3f8e59a173e733934a14e438bf591d05d82302eea6a9c08e2176fad",
+      "candidates": []
+    },
+    {
+      "id": "f008-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f008-R-u011",
+      "surface": "銃炮",
+      "extent": 2,
+      "candidates": [
+        "銃炮",
+        "銃砲"
+      ],
+      "reason": "Exact source fire-side/stone-side form remains to be checked.",
+      "page_id": "f008-R",
+      "start": 4,
+      "end": 6,
+      "source_sha256": "5d1459eaa3f8e59a173e733934a14e438bf591d05d82302eea6a9c08e2176fad"
+    },
+    {
+      "id": "f008-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f008-L-u002",
+      "surface": "大均",
+      "extent": 2,
+      "candidates": [
+        "大均",
+        "均"
+      ],
+      "reason": "Extra-looking source stroke after 人 needs independent reading, not deleted from expectation.",
+      "page_id": "f008-L",
+      "start": 13,
+      "end": 15,
+      "source_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "id": "f008-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f008-L-u006",
+      "surface": "頒詳敘",
+      "extent": 3,
+      "candidates": [
+        "頒詳敘"
+      ],
+      "reason": "Small source verb sequence not resolved from a presumed publication title.",
+      "page_id": "f008-L",
+      "start": 20,
+      "end": 23,
+      "source_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "id": "f008-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f008-L-u008",
+      "surface": "瞬愈",
+      "extent": 2,
+      "candidates": [
+        "瞬愈",
+        "瞤愈"
+      ],
+      "reason": "First source character retains an eye-side shape; not silently converted to 痊愈.",
+      "page_id": "f008-L",
+      "start": 1,
+      "end": 3,
+      "source_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "id": "f008-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f008-L-u009",
+      "surface": "自經",
+      "extent": 2,
+      "candidates": [
+        "自經",
+        "自斃"
+      ],
+      "reason": "Specific historical narrative source word remains unresolved.",
+      "page_id": "f008-L",
+      "start": 29,
+      "end": 31,
+      "source_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08"
+    },
+    {
+      "id": "f008-L-q005",
+      "kind": "source-stated-oddity",
+      "unit_id": "f008-L-u010",
+      "surface": "銃砂等於",
+      "reason": "Visible surface retained even where meaning is unclear; no reconstruction of the incident.",
+      "page_id": "f008-L",
+      "start": 0,
+      "end": 4,
+      "source_sha256": "1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08",
+      "candidates": []
+    },
+    {
+      "id": "f009-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f009-R-u002",
+      "surface": "還徒",
+      "extent": 2,
+      "candidates": [
+        "還徒",
+        "還徙"
+      ],
+      "reason": "Second glyph source form after 還 remains unresolved.",
+      "page_id": "f009-R",
+      "start": 3,
+      "end": 5,
+      "source_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "id": "f009-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f009-R-u003",
+      "surface": "乘而不治",
+      "extent": 4,
+      "candidates": [
+        "乘而不治"
+      ],
+      "reason": "Visible initial wording retained, not silently repaired from context.",
+      "page_id": "f009-R",
+      "start": 17,
+      "end": 21,
+      "source_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "id": "f009-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f009-R-u005",
+      "surface": "查聽科",
+      "extent": 3,
+      "candidates": [
+        "查聽科"
+      ],
+      "reason": "Historical field name recorded as visible; no modernization into present subject taxonomy.",
+      "page_id": "f009-R",
+      "start": 2,
+      "end": 5,
+      "source_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "id": "f009-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f009-R-u006",
+      "surface": "為執",
+      "extent": 2,
+      "candidates": [
+        "為執"
+      ],
+      "reason": "Source phrase kept for independent reading.",
+      "page_id": "f009-R",
+      "start": 24,
+      "end": 26,
+      "source_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "id": "f009-R-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f009-R-u010",
+      "surface": "壓把",
+      "extent": 2,
+      "candidates": [
+        "壓把",
+        "壓挹"
+      ],
+      "reason": "Specific source form after 壓 unresolved; not rewritten to standard injury wording.",
+      "page_id": "f009-R",
+      "start": 2,
+      "end": 4,
+      "source_sha256": "2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc"
+    },
+    {
+      "id": "f009-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f009-L-u006",
+      "surface": "傾蹶",
+      "extent": 2,
+      "candidates": [
+        "傾蹶",
+        "傾蹷"
+      ],
+      "reason": "Specific variant in source retained unresolved.",
+      "page_id": "f009-L",
+      "start": 3,
+      "end": 5,
+      "source_sha256": "1c5ffd2896fcef4580246654905ebfbf456a3526ad0476b2dcb3256d30224539"
+    },
+    {
+      "id": "f009-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f009-L-u006",
+      "surface": "海漫",
+      "extent": 2,
+      "candidates": [
+        "海漫"
+      ],
+      "reason": "Historical road-surface word retained as source, not modernized.",
+      "page_id": "f009-L",
+      "start": 11,
+      "end": 13,
+      "source_sha256": "1c5ffd2896fcef4580246654905ebfbf456a3526ad0476b2dcb3256d30224539"
+    },
+    {
+      "id": "f009-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f009-L-u011",
+      "surface": "摩躍",
+      "extent": 2,
+      "candidates": [
+        "摩躍",
+        "摩躑"
+      ],
+      "reason": "Source form describing prolonged-bed injury unresolved; no modern clinical term substituted.",
+      "page_id": "f009-L",
+      "start": 28,
+      "end": 30,
+      "source_sha256": "1c5ffd2896fcef4580246654905ebfbf456a3526ad0476b2dcb3256d30224539"
+    },
+    {
+      "id": "f010-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-R-u004",
+      "surface": "司昏",
+      "extent": 2,
+      "candidates": [
+        "司昏"
+      ],
+      "reason": "Source job title/name not replaced by a guessed occupation.",
+      "page_id": "f010-R",
+      "start": 22,
+      "end": 24,
+      "source_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "id": "f010-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-R-u005",
+      "surface": "蒲棚",
+      "extent": 2,
+      "candidates": [
+        "蒲棚",
+        "席棚"
+      ],
+      "reason": "Printed initial form retained for source comparison.",
+      "page_id": "f010-R",
+      "start": 20,
+      "end": 22,
+      "source_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "id": "f010-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-R-u005",
+      "surface": "牟落",
+      "extent": 2,
+      "candidates": [
+        "牟落",
+        "牽落"
+      ],
+      "reason": "Character before 落 needs independent source reading.",
+      "page_id": "f010-R",
+      "start": 29,
+      "end": 31,
+      "source_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "id": "f010-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-R-u006",
+      "surface": "牟插",
+      "extent": 2,
+      "candidates": [
+        "牟插",
+        "牽插"
+      ],
+      "reason": "Next-column initial glyph remains separately located.",
+      "page_id": "f010-R",
+      "start": 2,
+      "end": 4,
+      "source_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "id": "f010-R-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-R-u009",
+      "token": "⟦g-f010-R-tail⟧",
+      "extent": 1,
+      "candidates": [
+        "人"
+      ],
+      "reason": "Last source glyph at foot is partially crowded; stable token retained.",
+      "page_id": "f010-R",
+      "start": 33,
+      "end": 48,
+      "source_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c"
+    },
+    {
+      "id": "f010-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-L-u004",
+      "surface": "做公成做生活損",
+      "extent": 7,
+      "candidates": [
+        "做公成做生活損"
+      ],
+      "reason": "Work/expense source phrase retained unresolved rather than made fluent.",
+      "page_id": "f010-L",
+      "start": 27,
+      "end": 34,
+      "source_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "id": "f010-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-L-u006",
+      "surface": "堪惘堪憫",
+      "extent": 4,
+      "candidates": [
+        "堪惘堪憫",
+        "堪惘堪憐"
+      ],
+      "reason": "Visible source form not regularized from expected charitable phrasing.",
+      "page_id": "f010-L",
+      "start": 4,
+      "end": 8,
+      "source_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "id": "f010-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-L-u009",
+      "surface": "貧助",
+      "extent": 2,
+      "candidates": [
+        "貧助",
+        "資助"
+      ],
+      "reason": "First source glyph radical unclear; retained candidate.",
+      "page_id": "f010-L",
+      "start": 1,
+      "end": 3,
+      "source_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "id": "f010-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f010-L-u011",
+      "surface": "衡之",
+      "extent": 2,
+      "candidates": [
+        "衡之"
+      ],
+      "reason": "Historical weighing verb retained; printed number not calculated or reconciled.",
+      "page_id": "f010-L",
+      "start": 32,
+      "end": 34,
+      "source_sha256": "c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21"
+    },
+    {
+      "id": "f011-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f011-R-u005",
+      "surface": "下頷",
+      "extent": 2,
+      "candidates": [
+        "下頷",
+        "下頜",
+        "下額"
+      ],
+      "reason": "Printed heading source glyph differs in clarity from 下額 in body; not harmonized.",
+      "page_id": "f011-R",
+      "start": 3,
+      "end": 5,
+      "source_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "id": "f011-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f011-R-u007",
+      "surface": "敷具",
+      "extent": 2,
+      "candidates": [
+        "敷具"
+      ],
+      "reason": "Unusual source phrase retained for another source reading.",
+      "page_id": "f011-R",
+      "start": 8,
+      "end": 10,
+      "source_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "id": "f011-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f011-R-u008",
+      "surface": "具者",
+      "extent": 2,
+      "candidates": [
+        "具者"
+      ],
+      "reason": "Source unit after 一二 remains as initial visible candidate.",
+      "page_id": "f011-R",
+      "start": 5,
+      "end": 7,
+      "source_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "id": "f011-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f011-R-u009",
+      "surface": "底緖",
+      "extent": 2,
+      "candidates": [
+        "底緖",
+        "底緒"
+      ],
+      "reason": "Exact variant kept unresolved.",
+      "page_id": "f011-R",
+      "start": 31,
+      "end": 33,
+      "source_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "id": "f011-R-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f011-R-u011",
+      "surface": "臁瘡篤疾",
+      "extent": 4,
+      "candidates": [
+        "臁瘡篤疾"
+      ],
+      "reason": "Historical disease phrase copied as visible without modern diagnosis.",
+      "page_id": "f011-R",
+      "start": 0,
+      "end": 4,
+      "source_sha256": "fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b"
+    },
+    {
+      "id": "f011-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f011-L-u002",
+      "surface": "臁瘡",
+      "extent": 2,
+      "candidates": [
+        "臁瘡"
+      ],
+      "reason": "Source disease name remains independently unreviewed.",
+      "page_id": "f011-L",
+      "start": 16,
+      "end": 18,
+      "source_sha256": "817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8"
+    },
+    {
+      "id": "f011-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f011-L-u007",
+      "surface": "臚炎",
+      "extent": 2,
+      "candidates": [
+        "臚炎",
+        "眶炎"
+      ],
+      "reason": "Source eye-related glyph unresolved; no modern ophthalmic term substituted.",
+      "page_id": "f011-L",
+      "start": 26,
+      "end": 28,
+      "source_sha256": "817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8"
+    },
+    {
+      "id": "f011-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f011-L-u009",
+      "surface": "內腫",
+      "extent": 2,
+      "candidates": [
+        "內腫",
+        "內障"
+      ],
+      "reason": "Last disease word before 等症 kept as initial surface with alternatives.",
+      "page_id": "f011-L",
+      "start": 28,
+      "end": 30,
+      "source_sha256": "817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8"
+    },
+    {
+      "id": "f012-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-R-u003",
+      "surface": "凹文",
+      "extent": 2,
+      "candidates": [
+        "凹文",
+        "凸文"
+      ],
+      "reason": "Visible source surface retained, not automatically changed from knowledge of raised print.",
+      "page_id": "f012-R",
+      "start": 0,
+      "end": 2,
+      "source_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "id": "f012-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-R-u009",
+      "surface": "極裒",
+      "extent": 2,
+      "candidates": [
+        "極裒",
+        "極寡"
+      ],
+      "reason": "Specific source glyph after 極 remains unresolved.",
+      "page_id": "f012-R",
+      "start": 8,
+      "end": 10,
+      "source_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "id": "f012-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-R-u009",
+      "surface": "構求",
+      "extent": 2,
+      "candidates": [
+        "構求",
+        "購求"
+      ],
+      "reason": "Source wood/buy radical unclear; no normalization.",
+      "page_id": "f012-R",
+      "start": 28,
+      "end": 30,
+      "source_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "id": "f012-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-R-u010",
+      "surface": "甘下",
+      "extent": 2,
+      "candidates": [
+        "甘下"
+      ],
+      "reason": "Place/directional phrase retained; no invented modern geography.",
+      "page_id": "f012-R",
+      "start": 23,
+      "end": 25,
+      "source_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "id": "f012-R-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-R-u011",
+      "surface": "往近特藥鋪",
+      "extent": 5,
+      "candidates": [
+        "往近特藥鋪",
+        "往近恃藥鋪"
+      ],
+      "reason": "Source sequence after 能 unresolved rather than made fluent.",
+      "page_id": "f012-R",
+      "start": 1,
+      "end": 6,
+      "source_sha256": "961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354"
+    },
+    {
+      "id": "f012-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-L-u001",
+      "surface": "藥鏢",
+      "extent": 2,
+      "candidates": [
+        "藥鏢"
+      ],
+      "reason": "Specific comparison noun retained as visible initial candidate.",
+      "page_id": "f012-L",
+      "start": 2,
+      "end": 4,
+      "source_sha256": "9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120"
+    },
+    {
+      "id": "f012-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-L-u004",
+      "surface": "水蠱",
+      "extent": 2,
+      "candidates": [
+        "水蠱"
+      ],
+      "reason": "Source disease heading not modernized.",
+      "page_id": "f012-L",
+      "start": 0,
+      "end": 2,
+      "source_sha256": "9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120"
+    },
+    {
+      "id": "f012-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-L-u005",
+      "surface": "掣錐",
+      "extent": 2,
+      "candidates": [
+        "掣錐"
+      ],
+      "reason": "Printed verb retained without modern procedural rewriting.",
+      "page_id": "f012-L",
+      "start": 27,
+      "end": 29,
+      "source_sha256": "9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120"
+    },
+    {
+      "id": "f012-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f012-L-u009",
+      "surface": "松除油",
+      "extent": 3,
+      "candidates": [
+        "松除油",
+        "松涂油"
+      ],
+      "reason": "Historical drug name unresolved; no present-day material substituted.",
+      "page_id": "f012-L",
+      "start": 10,
+      "end": 13,
+      "source_sha256": "9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120"
+    },
+    {
+      "id": "f013-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f013-R-u001",
+      "surface": "必于斫下",
+      "extent": 4,
+      "candidates": [
+        "必于斫下"
+      ],
+      "reason": "Visible opening phrase retained pending another source reading.",
+      "page_id": "f013-R",
+      "start": 0,
+      "end": 4,
+      "source_sha256": "cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101"
+    },
+    {
+      "id": "f013-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f013-R-u002",
+      "surface": "每昂",
+      "extent": 2,
+      "candidates": [
+        "每昂",
+        "鼻孔"
+      ],
+      "reason": "Crowded source phrase before 與肛門 unresolved; no anatomical expectation used as correction.",
+      "page_id": "f013-R",
+      "start": 0,
+      "end": 2,
+      "source_sha256": "cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101"
+    },
+    {
+      "id": "f013-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f013-R-u005",
+      "surface": "形如蟲人足",
+      "extent": 5,
+      "candidates": [
+        "形如蟲人足"
+      ],
+      "reason": "Specific source sequence not rewritten to a presumed count of limbs.",
+      "page_id": "f013-R",
+      "start": 4,
+      "end": 9,
+      "source_sha256": "cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101"
+    },
+    {
+      "id": "f013-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f013-R-u010",
+      "surface": "錯悞",
+      "extent": 2,
+      "candidates": [
+        "錯悞"
+      ],
+      "reason": "Exact encoding retained for source review.",
+      "page_id": "f013-R",
+      "start": 19,
+      "end": 21,
+      "source_sha256": "cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101"
+    },
+    {
+      "id": "f013-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f013-L-u003",
+      "token": "⟦g-f013-L-transliteration⟧",
+      "extent": 3,
+      "candidates": [
+        "跳延遂",
+        "跳延"
+      ],
+      "reason": "Historical name transliteration unclear; no modern disease identification inserted.",
+      "page_id": "f013-L",
+      "start": 17,
+      "end": 43,
+      "source_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "id": "f013-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f013-L-u004",
+      "surface": "療塞",
+      "extent": 2,
+      "candidates": [
+        "療塞",
+        "擁塞"
+      ],
+      "reason": "Source disease/obstruction form after 管之 remains unresolved.",
+      "page_id": "f013-L",
+      "start": 2,
+      "end": 4,
+      "source_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "id": "f013-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f013-L-u008",
+      "surface": "喪者",
+      "extent": 2,
+      "candidates": [
+        "喪者"
+      ],
+      "reason": "Visible initial form retained; final selection requires source reading.",
+      "page_id": "f013-L",
+      "start": 12,
+      "end": 14,
+      "source_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "id": "f013-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f013-L-u011",
+      "surface": "風疾",
+      "extent": 2,
+      "candidates": [
+        "風疾"
+      ],
+      "reason": "Heading source form retained without translating to modern diagnosis.",
+      "page_id": "f013-L",
+      "start": 0,
+      "end": 2,
+      "source_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155"
+    },
+    {
+      "id": "f014-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-R-u005",
+      "surface": "磨海水",
+      "extent": 3,
+      "candidates": [
+        "磨海水"
+      ],
+      "reason": "Source food/drug name copied as visible and left unresolved; no modern equivalent supplied.",
+      "page_id": "f014-R",
+      "start": 0,
+      "end": 3,
+      "source_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "id": "f014-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-R-u006",
+      "surface": "希麵",
+      "extent": 2,
+      "candidates": [
+        "希麵",
+        "稀麵"
+      ],
+      "reason": "Specific source radical unclear; not made fluent.",
+      "page_id": "f014-R",
+      "start": 7,
+      "end": 9,
+      "source_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "id": "f014-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-R-u010",
+      "surface": "亦莫",
+      "extent": 2,
+      "candidates": [
+        "亦莫"
+      ],
+      "reason": "Source sentence continuation preserved for another reading.",
+      "page_id": "f014-R",
+      "start": 32,
+      "end": 34,
+      "source_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "id": "f014-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-R-u011",
+      "surface": "眞去為",
+      "extent": 3,
+      "candidates": [
+        "眞去為"
+      ],
+      "reason": "Source closing phrase unclear; no replacement from philosophical idiom.",
+      "page_id": "f014-R",
+      "start": 0,
+      "end": 3,
+      "source_sha256": "7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3"
+    },
+    {
+      "id": "f014-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-L-u003",
+      "surface": "窈",
+      "extent": 1,
+      "candidates": [
+        "窈",
+        "窅"
+      ],
+      "reason": "Small historical name character needs independent source reading; not supplied from known footbinding narratives.",
+      "page_id": "f014-L",
+      "start": 0,
+      "end": 1,
+      "source_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "id": "f014-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-L-u002",
+      "surface": "快盡",
+      "extent": 2,
+      "candidates": [
+        "快盡"
+      ],
+      "reason": "Specific source phrase retained as initial surface.",
+      "page_id": "f014-L",
+      "start": 10,
+      "end": 12,
+      "source_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "id": "f014-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-L-u002",
+      "surface": "作踊",
+      "extent": 2,
+      "candidates": [
+        "作踊"
+      ],
+      "reason": "Visible source form retained; no modern variant replacement.",
+      "page_id": "f014-L",
+      "start": 22,
+      "end": 24,
+      "source_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "id": "f014-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-L-u005",
+      "surface": "苦尼日",
+      "extent": 3,
+      "candidates": [
+        "苦尼日"
+      ],
+      "reason": "Source line ending not regularized from syntax.",
+      "page_id": "f014-L",
+      "start": 31,
+      "end": 34,
+      "source_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "id": "f014-L-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f014-L-u009",
+      "surface": "併懟",
+      "extent": 2,
+      "candidates": [
+        "併懟",
+        "憤懟"
+      ],
+      "reason": "Source radicals not resolved from expected emotion vocabulary.",
+      "page_id": "f014-L",
+      "start": 8,
+      "end": 10,
+      "source_sha256": "bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27"
+    },
+    {
+      "id": "f015-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-R-u002",
+      "surface": "因人平",
+      "extent": 3,
+      "candidates": [
+        "因人平",
+        "因人乎"
+      ],
+      "reason": "Clause-final glyph has a short cross form; source not repaired from syntax.",
+      "page_id": "f015-R",
+      "start": 31,
+      "end": 34,
+      "source_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "id": "f015-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-R-u004",
+      "surface": "先嘗言足",
+      "extent": 4,
+      "candidates": [
+        "先嘗言足",
+        "未嘗言足"
+      ],
+      "reason": "Opening source glyph before 嘗 unclear; candidates retained.",
+      "page_id": "f015-R",
+      "start": 18,
+      "end": 22,
+      "source_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "id": "f015-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-R-u004",
+      "surface": "於雖人",
+      "extent": 3,
+      "candidates": [
+        "於雖人"
+      ],
+      "reason": "Specific printed sequence preserved pending independent reading.",
+      "page_id": "f015-R",
+      "start": 26,
+      "end": 29,
+      "source_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "id": "f015-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-R-u005",
+      "surface": "河東之吼",
+      "extent": 4,
+      "candidates": [
+        "河東之吼"
+      ],
+      "reason": "Historical allusion not used to supply a presumed variant.",
+      "page_id": "f015-R",
+      "start": 1,
+      "end": 5,
+      "source_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "id": "f015-R-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-R-u006",
+      "surface": "翁娘",
+      "extent": 2,
+      "candidates": [
+        "翁娘",
+        "窅娘"
+      ],
+      "reason": "Small historical name shape retained, not harmonized with footbinding narratives.",
+      "page_id": "f015-R",
+      "start": 20,
+      "end": 22,
+      "source_sha256": "52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414"
+    },
+    {
+      "id": "f015-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-L-u001",
+      "surface": "猥索",
+      "extent": 2,
+      "candidates": [
+        "猥索",
+        "猥瑣"
+      ],
+      "reason": "Visible source form retained without modernizing the expression.",
+      "page_id": "f015-L",
+      "start": 25,
+      "end": 27,
+      "source_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "id": "f015-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-L-u003",
+      "surface": "此志者",
+      "extent": 3,
+      "candidates": [
+        "此志者"
+      ],
+      "reason": "Printed source sequence kept for independent reading.",
+      "page_id": "f015-L",
+      "start": 2,
+      "end": 5,
+      "source_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "id": "f015-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-L-u007",
+      "surface": "全骨",
+      "extent": 2,
+      "candidates": [
+        "全骨"
+      ],
+      "reason": "Source-looking term retained; no anatomical correction from outside knowledge.",
+      "page_id": "f015-L",
+      "start": 31,
+      "end": 33,
+      "source_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "id": "f015-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f015-L-u010",
+      "surface": "開接",
+      "extent": 2,
+      "candidates": [
+        "開接"
+      ],
+      "reason": "Historical surgical term not replaced with a modern procedure name.",
+      "page_id": "f015-L",
+      "start": 9,
+      "end": 11,
+      "source_sha256": "b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13"
+    },
+    {
+      "id": "f016-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-R-u002",
+      "surface": "哥羅羅佛爾墨",
+      "extent": 6,
+      "candidates": [
+        "哥羅羅佛爾墨"
+      ],
+      "reason": "Historical drug transliteration unresolved; no modern chemical name substituted.",
+      "page_id": "f016-R",
+      "start": 4,
+      "end": 10,
+      "source_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "id": "f016-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-R-u003",
+      "surface": "研手足",
+      "extent": 3,
+      "candidates": [
+        "研手足"
+      ],
+      "reason": "Specific source verb remains an initial visible candidate.",
+      "page_id": "f016-R",
+      "start": 15,
+      "end": 18,
+      "source_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "id": "f016-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-R-u004",
+      "surface": "長藥",
+      "extent": 2,
+      "candidates": [
+        "長藥",
+        "良藥"
+      ],
+      "reason": "Opening source glyph unclear, retained for independent reading.",
+      "page_id": "f016-R",
+      "start": 0,
+      "end": 2,
+      "source_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "id": "f016-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-R-u005",
+      "surface": "心孫",
+      "extent": 2,
+      "candidates": [
+        "心孫"
+      ],
+      "reason": "Historical personal name not replaced using external biography.",
+      "page_id": "f016-R",
+      "start": 18,
+      "end": 20,
+      "source_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "id": "f016-R-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-R-u007",
+      "surface": "偏出",
+      "extent": 2,
+      "candidates": [
+        "偏出"
+      ],
+      "reason": "Printed source verb sequence retained unresolved.",
+      "page_id": "f016-R",
+      "start": 10,
+      "end": 12,
+      "source_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "id": "f016-R-q006",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-R-u011",
+      "surface": "同血",
+      "extent": 2,
+      "candidates": [
+        "同血",
+        "回血"
+      ],
+      "reason": "Specific source character recorded, not normalized to modern circulatory terminology.",
+      "page_id": "f016-R",
+      "start": 12,
+      "end": 14,
+      "source_sha256": "9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c"
+    },
+    {
+      "id": "f016-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-L-u002",
+      "surface": "回毒血",
+      "extent": 3,
+      "candidates": [
+        "回毒血"
+      ],
+      "reason": "Source phrase retained rather than rewritten to a modern physiological description.",
+      "page_id": "f016-L",
+      "start": 5,
+      "end": 8,
+      "source_sha256": "5801bc980e3ef6afe3d94fce4552053117b1f865b4cf2ace537d38362aafda33"
+    },
+    {
+      "id": "f016-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-L-u003",
+      "surface": "久遐",
+      "extent": 2,
+      "candidates": [
+        "久遐"
+      ],
+      "reason": "Printed source glyph before 而 remains unresolved.",
+      "page_id": "f016-L",
+      "start": 9,
+      "end": 11,
+      "source_sha256": "5801bc980e3ef6afe3d94fce4552053117b1f865b4cf2ace537d38362aafda33"
+    },
+    {
+      "id": "f016-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f016-L-u005",
+      "surface": "占拿",
+      "extent": 2,
+      "candidates": [
+        "占拿"
+      ],
+      "reason": "Historical vaccination-related name transliteration retained without external harmonization.",
+      "page_id": "f016-L",
+      "start": 1,
+      "end": 3,
+      "source_sha256": "5801bc980e3ef6afe3d94fce4552053117b1f865b4cf2ace537d38362aafda33"
+    },
+    {
+      "id": "f017-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-R-u005",
+      "surface": "一百一十兩",
+      "extent": 5,
+      "candidates": [
+        "一百一十兩",
+        "一百二十兩"
+      ],
+      "reason": "Middle printed digit has one horizontal-looking stroke in this source view; retained for independent reading.",
+      "page_id": "f017-R",
+      "start": 17,
+      "end": 22,
+      "source_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "id": "f017-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-R-u008",
+      "surface": "稅務",
+      "extent": 2,
+      "candidates": [
+        "稅務",
+        "祝務"
+      ],
+      "reason": "Donor official title source glyphs need independent reading.",
+      "page_id": "f017-R",
+      "start": 4,
+      "end": 6,
+      "source_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "id": "f017-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-R-u017",
+      "surface": "壁",
+      "extent": 1,
+      "candidates": [
+        "壁",
+        "璧"
+      ],
+      "reason": "Name glyph radical unclear; no foreign-name list used.",
+      "page_id": "f017-R",
+      "start": 0,
+      "end": 1,
+      "source_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "id": "f017-R-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-R-u023",
+      "surface": "閫府",
+      "extent": 2,
+      "candidates": [
+        "閫府"
+      ],
+      "reason": "Historical title source form preserved.",
+      "page_id": "f017-R",
+      "start": 2,
+      "end": 4,
+      "source_sha256": "3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223"
+    },
+    {
+      "id": "f017-L-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-L-u002",
+      "surface": "每年六兩五錢八",
+      "extent": 7,
+      "candidates": [
+        "每年六兩五錢八"
+      ],
+      "reason": "First small amount line retained exactly as initial visible reading; do not reconcile with second annual-looking line.",
+      "page_id": "f017-L",
+      "start": 0,
+      "end": 7,
+      "source_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "id": "f017-L-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-L-u003",
+      "surface": "年共銀五十四兩",
+      "extent": 7,
+      "candidates": [
+        "年共銀五十四兩"
+      ],
+      "reason": "Second source line not calculated or corrected to fit the first.",
+      "page_id": "f017-L",
+      "start": 0,
+      "end": 7,
+      "source_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "id": "f017-L-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-L-u012",
+      "surface": "四十二兩五錢",
+      "extent": 6,
+      "candidates": [
+        "四十二兩五錢",
+        "四十三兩五錢"
+      ],
+      "reason": "Printed middle digit remains independently unreviewed.",
+      "page_id": "f017-L",
+      "start": 5,
+      "end": 11,
+      "source_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "id": "f017-L-q004",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-L-u022",
+      "surface": "十二兩六錢",
+      "extent": 5,
+      "candidates": [
+        "十二兩六錢",
+        "十三兩六錢"
+      ],
+      "reason": "Specific donor amount retains the visible initial digit with alternative.",
+      "page_id": "f017-L",
+      "start": 3,
+      "end": 8,
+      "source_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "id": "f017-L-q005",
+      "kind": "reading-unresolved",
+      "unit_id": "f017-L-u017",
+      "surface": "赫三",
+      "extent": 2,
+      "candidates": [
+        "赫三"
+      ],
+      "reason": "Separate donor name preserved, no conflation with upper donor band.",
+      "page_id": "f017-L",
+      "start": 0,
+      "end": 2,
+      "source_sha256": "12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3"
+    },
+    {
+      "id": "f018-R-q001",
+      "kind": "reading-unresolved",
+      "unit_id": "f018-R-u001",
+      "token": "⟦g-f018-R-name1⟧",
+      "extent": 1,
+      "candidates": [
+        "詞",
+        "詷"
+      ],
+      "reason": "Unresolved right-hand component of foreign-name character; not supplied from an external name list.",
+      "page_id": "f018-R",
+      "start": 6,
+      "end": 22,
+      "source_sha256": "c24ceb0d81e5c6f289d397c04bb08c1a1d44e029ade65933e6233aac597ca9a8"
+    },
+    {
+      "id": "f018-R-q002",
+      "kind": "reading-unresolved",
+      "unit_id": "f018-R-u006",
+      "token": "⟦g-f018-R-name6⟧",
+      "extent": 1,
+      "candidates": [
+        "章",
+        "韋"
+      ],
+      "reason": "Specific foreign-name glyph retained by stable source token; candidate forms kept separate.",
+      "page_id": "f018-R",
+      "start": 5,
+      "end": 21,
+      "source_sha256": "c24ceb0d81e5c6f289d397c04bb08c1a1d44e029ade65933e6233aac597ca9a8"
+    },
+    {
+      "id": "f018-R-q003",
+      "kind": "reading-unresolved",
+      "unit_id": "f018-R-u015",
+      "surface": "醫施信錄終",
+      "extent": 5,
+      "candidates": [
+        "醫施信錄終",
+        "施醫信錄終"
+      ],
+      "reason": "Exact source order of the closing title needs independent source reading; current visible order is not harmonized to the book title.",
+      "page_id": "f018-R",
+      "start": 0,
+      "end": 5,
+      "source_sha256": "c24ceb0d81e5c6f289d397c04bb08c1a1d44e029ade65933e6233aac597ca9a8"
+    }
+  ]
+}

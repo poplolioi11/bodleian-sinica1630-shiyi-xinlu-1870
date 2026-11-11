@@ -1,0 +1,238 @@
+{
+  "scope": "All12small-note units and their actual parent links; source chunks, not an invented continuous reading edition",
+  "offset_convention": "0-based Unicodecodepoints, end exclusive in parent unit",
+  "notes": [
+    {
+      "page_id": "f004-L",
+      "unit_id": "f004-L-u005",
+      "text": "⟦g-f004-L-inline-cluster⟧",
+      "parent_unit_id": "f004-L-u004",
+      "status": "spatially located near this main-column interval; no source insertion mark interpreted",
+      "after_surface": "咸豐十一年溫黃流行",
+      "after_surface_start": 0,
+      "after_surface_end": 9,
+      "before_surface": "公治過",
+      "before_surface_start": 9,
+      "before_surface_end": 12,
+      "exact_insertion_point_asserted": true
+    },
+    {
+      "page_id": "f004-L",
+      "unit_id": "f004-L-u007",
+      "text": "肝居",
+      "parent_unit_id": "f004-L-u006",
+      "status": "small two-character tail beside the column bottom; continues in next physical column",
+      "after_surface": "致獲此症",
+      "after_surface_start": 45,
+      "after_surface_end": 49,
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f005-L",
+      "unit_id": "f005-L-u009",
+      "text": "硃",
+      "parent_unit_id": "f005-L-u008",
+      "status": "Small printed glyph immediately above/alongside 砂; keep anchored instead of reading this unit at the paragraph end.",
+      "after_surface": "牛黃",
+      "after_surface_start": 20,
+      "after_surface_end": 22,
+      "before_surface": "砂",
+      "before_surface_start": 22,
+      "before_surface_end": 23,
+      "exact_insertion_point_asserted": true
+    },
+    {
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u003",
+      "text": "窈",
+      "parent_unit_id": "f014-L-u002",
+      "status": "Small source character appears immediately above/right of 娘, kept as separate unit; exact reading unresolved.",
+      "after_surface": "自後唐",
+      "after_surface_start": 18,
+      "after_surface_end": 21,
+      "before_surface": "娘作踊",
+      "before_surface_start": 21,
+      "before_surface_end": 24,
+      "exact_insertion_point_asserted": true
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u003",
+      "text": "已故",
+      "parent_unit_id": "f017-R-u002",
+      "status": "small note at amount tail of the first donor column",
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f017-R",
+      "unit_id": "f017-R-u020",
+      "text": "每年",
+      "parent_unit_id": "f017-R-u019",
+      "status": "small note immediately preceding this printed amount; no inferred annual total",
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u002",
+      "text": "每年六兩五錢八",
+      "parent_unit_id": "f017-L-u001",
+      "status": "right-side small amount line; preserve source wording without reconciliation",
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u003",
+      "text": "年共銀五十四兩",
+      "parent_unit_id": "f017-L-u001",
+      "status": "adjacent small amount line; not a computed total",
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u023",
+      "text": "已故",
+      "parent_unit_id": "f017-L-u022",
+      "status": "small note after this printed amount",
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f017-L",
+      "unit_id": "f017-L-u025",
+      "text": "已故",
+      "parent_unit_id": "f017-L-u024",
+      "status": "small note after this printed amount",
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f018-R",
+      "unit_id": "f018-R-u009",
+      "text": "在本國者",
+      "parent_unit_id": "f018-R-u008",
+      "status": "bound to this table cell; exact prose insertion point not asserted",
+      "exact_insertion_point_asserted": false
+    },
+    {
+      "page_id": "f018-R",
+      "unit_id": "f018-R-u012",
+      "text": "五位",
+      "parent_unit_id": "f018-R-u011",
+      "status": "small adjacent count, bound to this cell without silently rewriting the main text",
+      "exact_insertion_point_asserted": false
+    }
+  ],
+  "note_groups_in_source_sequence": [
+    {
+      "parent_unit_id": "f004-L-u004",
+      "note_ids": [
+        "f004-L-u005"
+      ],
+      "source_note_strings": [
+        "⟦g-f004-L-inline-cluster⟧"
+      ],
+      "exact_prose_insertion_point_supplied": true
+    },
+    {
+      "parent_unit_id": "f004-L-u006",
+      "note_ids": [
+        "f004-L-u007"
+      ],
+      "source_note_strings": [
+        "肝居"
+      ],
+      "exact_prose_insertion_point_supplied": false
+    },
+    {
+      "parent_unit_id": "f005-L-u008",
+      "note_ids": [
+        "f005-L-u009"
+      ],
+      "source_note_strings": [
+        "硃"
+      ],
+      "exact_prose_insertion_point_supplied": true
+    },
+    {
+      "parent_unit_id": "f014-L-u002",
+      "note_ids": [
+        "f014-L-u003"
+      ],
+      "source_note_strings": [
+        "窈"
+      ],
+      "exact_prose_insertion_point_supplied": true
+    },
+    {
+      "parent_unit_id": "f017-R-u002",
+      "note_ids": [
+        "f017-R-u003"
+      ],
+      "source_note_strings": [
+        "已故"
+      ],
+      "exact_prose_insertion_point_supplied": false
+    },
+    {
+      "parent_unit_id": "f017-R-u019",
+      "note_ids": [
+        "f017-R-u020"
+      ],
+      "source_note_strings": [
+        "每年"
+      ],
+      "exact_prose_insertion_point_supplied": false
+    },
+    {
+      "parent_unit_id": "f017-L-u001",
+      "note_ids": [
+        "f017-L-u002",
+        "f017-L-u003"
+      ],
+      "source_note_strings": [
+        "每年六兩五錢八",
+        "年共銀五十四兩"
+      ],
+      "exact_prose_insertion_point_supplied": false
+    },
+    {
+      "parent_unit_id": "f017-L-u022",
+      "note_ids": [
+        "f017-L-u023"
+      ],
+      "source_note_strings": [
+        "已故"
+      ],
+      "exact_prose_insertion_point_supplied": false
+    },
+    {
+      "parent_unit_id": "f017-L-u024",
+      "note_ids": [
+        "f017-L-u025"
+      ],
+      "source_note_strings": [
+        "已故"
+      ],
+      "exact_prose_insertion_point_supplied": false
+    },
+    {
+      "parent_unit_id": "f018-R-u008",
+      "note_ids": [
+        "f018-R-u009"
+      ],
+      "source_note_strings": [
+        "在本國者"
+      ],
+      "exact_prose_insertion_point_supplied": false
+    },
+    {
+      "parent_unit_id": "f018-R-u011",
+      "note_ids": [
+        "f018-R-u012"
+      ],
+      "source_note_strings": [
+        "五位"
+      ],
+      "exact_prose_insertion_point_supplied": false
+    }
+  ],
+  "continuous_reading_layer_produced": false
+}

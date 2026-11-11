@@ -1,0 +1,331 @@
+{
+  "records": [
+    {
+      "id": "g-f003-L-col02",
+      "representation": "⟦g-f003-L-col02⟧",
+      "page_id": "f003-L",
+      "unit_id": "f003-L-u003",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be8d6962-3b7a-4efe-b8a9-c6a64f301341.json",
+      "source_face_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b",
+      "extent": 1,
+      "candidates": [
+        "臨"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f003-L-col03",
+      "representation": "⟦g-f003-L-col03⟧",
+      "page_id": "f003-L",
+      "unit_id": "f003-L-u004",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be8d6962-3b7a-4efe-b8a9-c6a64f301341.json",
+      "source_face_sha256": "097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b",
+      "extent": 1,
+      "candidates": [
+        "移",
+        "穆"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f004-R-c06",
+      "representation": "⟦g-f004-R-c06⟧",
+      "page_id": "f004-R",
+      "unit_id": "f004-R-u006",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424",
+      "extent": 1,
+      "candidates": [
+        "天",
+        "未"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f004-R-c10",
+      "representation": "⟦g-f004-R-c10⟧",
+      "page_id": "f004-R",
+      "unit_id": "f004-R-u010",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424",
+      "extent": 1,
+      "candidates": [
+        "貽",
+        "胎"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f004-L-tailword",
+      "representation": "⟦g-f004-L-tailword⟧",
+      "page_id": "f004-L",
+      "unit_id": "f004-L-u004",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2",
+      "extent": 1,
+      "candidates": [
+        "遲",
+        "遣"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f004-L-inline-cluster",
+      "representation": "⟦g-f004-L-inline-cluster⟧",
+      "page_id": "f004-L",
+      "unit_id": "f004-L-u005",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2",
+      "extent": "unknown",
+      "candidates": [
+        "雖",
+        "雉"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f004-L-headpair",
+      "representation": "⟦g-f004-L-headpair⟧",
+      "page_id": "f004-L",
+      "unit_id": "f004-L-u006",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2",
+      "extent": 2,
+      "candidates": [
+        "罔效"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f004-L-tu-shi",
+      "representation": "⟦g-f004-L-tu-shi⟧",
+      "page_id": "f004-L",
+      "unit_id": "f004-L-u013",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c319f5b0-f096-47a6-8b32-c703b7005076.json",
+      "source_face_sha256": "6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2",
+      "extent": 1,
+      "candidates": [
+        "土",
+        "士"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f005-L-c02",
+      "representation": "⟦g-f005-L-c02⟧",
+      "page_id": "f005-L",
+      "unit_id": "f005-L-u002",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77",
+      "extent": 1,
+      "candidates": [
+        "恙",
+        "妄"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f005-L-c11",
+      "representation": "⟦g-f005-L-c11⟧",
+      "page_id": "f005-L",
+      "unit_id": "f005-L-u012",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dd15c20f-eca4-4ac0-8634-16e3a6bb9500.json",
+      "source_face_sha256": "c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77",
+      "extent": 1,
+      "candidates": [
+        "人"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f006-R-heading",
+      "representation": "⟦g-f006-R-heading⟧",
+      "page_id": "f006-R",
+      "unit_id": "f006-R-u007",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2",
+      "extent": 1,
+      "candidates": [
+        "癭",
+        "瘰"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f006-R-body-name",
+      "representation": "⟦g-f006-R-body-name⟧",
+      "page_id": "f006-R",
+      "unit_id": "f006-R-u008",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2",
+      "extent": 1,
+      "candidates": [
+        "癭",
+        "瘰"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f006-R-complication",
+      "representation": "⟦g-f006-R-complication⟧",
+      "page_id": "f006-R",
+      "unit_id": "f006-R-u008",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/35331cbf-7f11-4788-af72-dbf78fa8a544.json",
+      "source_face_sha256": "63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2",
+      "extent": 2,
+      "candidates": [
+        "癡痴",
+        "癡癎"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f007-R-name",
+      "representation": "⟦g-f007-R-name⟧",
+      "page_id": "f007-R",
+      "unit_id": "f007-R-u003",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b",
+      "extent": 1,
+      "candidates": [
+        "椿",
+        "樁"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f007-L-heading-first",
+      "representation": "⟦g-f007-L-heading-first⟧",
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u010",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3",
+      "extent": 2,
+      "candidates": [
+        "癆瘵",
+        "癆癧"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f007-L-heading-last",
+      "representation": "⟦g-f007-L-heading-last⟧",
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u010",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3",
+      "extent": 1,
+      "candidates": [
+        "癖",
+        "痞"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f007-L-c11",
+      "representation": "⟦g-f007-L-c11⟧",
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u011",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3",
+      "extent": 1,
+      "candidates": [
+        "址",
+        "牡"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f007-L-body-last",
+      "representation": "⟦g-f007-L-body-last⟧",
+      "page_id": "f007-L",
+      "unit_id": "f007-L-u011",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/74a97a9a-e94a-41ca-80f7-199261ddf732.json",
+      "source_face_sha256": "740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3",
+      "extent": 1,
+      "candidates": [
+        "癖",
+        "痞"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f010-R-tail",
+      "representation": "⟦g-f010-R-tail⟧",
+      "page_id": "f010-R",
+      "unit_id": "f010-R-u009",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66.json",
+      "source_face_sha256": "5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c",
+      "extent": 1,
+      "candidates": [
+        "人"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f013-L-transliteration",
+      "representation": "⟦g-f013-L-transliteration⟧",
+      "page_id": "f013-L",
+      "unit_id": "f013-L-u003",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e97540b4-b92a-43aa-a044-bdad6758e4ec.json",
+      "source_face_sha256": "6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155",
+      "extent": 3,
+      "candidates": [
+        "跳延遂",
+        "跳延"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f018-R-name1",
+      "representation": "⟦g-f018-R-name1⟧",
+      "page_id": "f018-R",
+      "unit_id": "f018-R-u001",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json",
+      "source_face_sha256": "c24ceb0d81e5c6f289d397c04bb08c1a1d44e029ade65933e6233aac597ca9a8",
+      "extent": 1,
+      "candidates": [
+        "詞",
+        "詷"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    },
+    {
+      "id": "g-f018-R-name6",
+      "representation": "⟦g-f018-R-name6⟧",
+      "page_id": "f018-R",
+      "unit_id": "f018-R-u006",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3a0fad29-5047-4a8e-8b59-61aee65d0e57.json",
+      "source_face_sha256": "c24ceb0d81e5c6f289d397c04bb08c1a1d44e029ade65933e6233aac597ca9a8",
+      "extent": 1,
+      "candidates": [
+        "章",
+        "韋"
+      ],
+      "exact_encoding_status": "unknown",
+      "source_images_included": false
+    }
+  ],
+  "source_images_included": false
+}

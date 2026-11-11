@@ -1,0 +1,111 @@
+{
+  "title": "施醫信錄（1870；Bodleian Sinica 1630）：逐面轉錄與捐款名錄 / Shi yi xin lu [Report of the Peking Hospital]: Transcription and donor lists",
+  "version": "0.1.0",
+  "resource_type": "dataset",
+  "publication_state": "release files fixed; DOI not assigned at preparation",
+  "creators": [
+    {
+      "family_name": "Chu",
+      "given_name": "Chen-Yu",
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  ],
+  "account_alias": "poplolioi11",
+  "repository_url": "https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870",
+  "version_release_url": "https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870/releases/tag/v0.1.0",
+  "descriptions": [
+    {
+      "language": "zh-Hant",
+      "type": "abstract",
+      "text": "《施醫信錄》（Shi yi xin lu）由德貞（John Dudgeon）著校，1870年在北京美華活字書館刊印，牛津博德利圖書館藏本為Sinica 1630。這份倫敦傳道會北京施醫院報告回顧1861至1869年的院務，並討論求診病症、醫學教育、慈善救濟、纏足、麻藥和血液循環知識，末附中外捐款者與銀數，可供晚清醫學史、傳教史、慈善史與翻譯史研究。本版提供20個館方影像幀中32個內容面的AI輔助初錄，以JSON、TXT及TEI保存來源面次與文字單位，另附捐款表、疑讀與小字接續定位；不包含館方影像。疑讀已標記，尚未經人類全文校勘或專家審定，方法與限制另見說明。"
+    },
+    {
+      "language": "en",
+      "type": "abstract",
+      "text": "Shi yi xin lu (Report of the Peking Hospital), prepared by John Dudgeon and printed at the American Mission Press in Peking in 1870, is held as Bodleian Sinica 1630. This London Missionary Society hospital report reviews its work from 1861 to 1869, discussing patient conditions, medical teaching, charitable care, footbinding, anaesthetics and knowledge of circulation; it also lists Chinese and foreign contributors and recorded silver amounts. The dataset supports histories of medicine, missions, philanthropy and translation through an AI-assisted initial transcription of 32 content faces within 20 official image canvases, including Chinese and English title pages. JSON, TXT and TEI preserve source-face and text-unit references, accompanied by a literal donor table, uncertainty records and small-note continuation links. Source images are excluded. Uncertain readings are marked; the text has not undergone full human collation or expert approval."
+    }
+  ],
+  "keywords": [
+    "施醫信錄",
+    "Shi yi xin lu",
+    "Report of the Peking Hospital",
+    "John Dudgeon",
+    "德貞",
+    "Peking Hospital",
+    "北京施醫院",
+    "London Missionary Society",
+    "倫敦傳道會",
+    "American Mission Press",
+    "美華活字書館",
+    "1870",
+    "1861–1869",
+    "晚清醫學史",
+    "medical history",
+    "charity history",
+    "donor lists",
+    "捐款名錄",
+    "Bodleian Libraries",
+    "Sinica 1630",
+    "TEI XML",
+    "IIIF"
+  ],
+  "languages": {
+    "source_text": [
+      "lzh",
+      "en"
+    ],
+    "documentation": [
+      "zh-Hant",
+      "en"
+    ]
+  },
+  "original_publication_dates": [
+    {
+      "source_text": "同治八年冬月",
+      "calendar_conversion": "not performed"
+    },
+    {
+      "source_text": "耶穌降生一千八百七十年",
+      "printed_year": "1870"
+    },
+    {
+      "source_text": "1870.",
+      "printed_year": "1870"
+    }
+  ],
+  "original_places": [
+    {
+      "source_text": "北京燈市口",
+      "role": "Chinese printed imprint"
+    },
+    {
+      "source_text": "PEKING:",
+      "role": "English printed imprint"
+    }
+  ],
+  "license_for_original_documentation": {
+    "id": "cc-by-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "historical_text_rights": "No new exclusive restrictions asserted by curator over historical text",
+  "related_identifiers": [
+    {
+      "identifier": "https://digital.bodleian.ox.ac.uk/objects/b5eb81ca-42ca-49c9-9372-aac27572a35e/",
+      "relation": "isDerivedFrom",
+      "resource_role": "original facsimile"
+    },
+    {
+      "identifier": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/b5eb81ca-42ca-49c9-9372-aac27572a35e.json",
+      "relation": "references",
+      "resource_role": "official IIIF manifest"
+    },
+    {
+      "identifier": "https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%201630.xml",
+      "relation": "references",
+      "resource_role": "official catalogue snapshot"
+    }
+  ],
+  "methods_file": "METHODS.md",
+  "quality_file": "QUALITY.md"
+}

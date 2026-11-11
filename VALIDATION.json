@@ -1,0 +1,66 @@
+{
+  "scope": "32original printed contentfaces within20fixedofficial captures",
+  "faces": 32,
+  "units": 407,
+  "serialized_codepoints_including_gaiji_markers": 9977,
+  "uncertainty_records": 134,
+  "gaiji_markers": 22,
+  "small_note_parent_links": 12,
+  "donor_source_entries": 53,
+  "donor_main_cell_amount_not_parsed": 1,
+  "donor_totals_computed": false,
+  "json_txt_tei_unit_strings_order": "passed",
+  "original_six_batch_strings_unchanged": true,
+  "tei_p5_4_12_0_relaxng": "passed",
+  "cff_1_2_0_schema": "passed",
+  "private_annotations": {
+    "exit_code": 3,
+    "status": "incomplete",
+    "events": 261,
+    "normalized_cases": 134,
+    "legacy_gap_containers": 127,
+    "pending_types": {
+      "unknown-model": 407
+    },
+    "other_pending_types": [],
+    "not_full_traceability": true
+  },
+  "text_publication_gate": "allowed-as-recorded; not legal certification",
+  "source_reading_reperformed_by_integrator": false,
+  "independent_second_reading_applied": false,
+  "human_full_collation": false,
+  "expert_review": false,
+  "accuracy_measurement": false,
+  "negative_checks": [
+    {
+      "case": "changed-character",
+      "rejected": true
+    },
+    {
+      "case": "missing-unit",
+      "rejected": true
+    },
+    {
+      "case": "swapped-unit-order",
+      "rejected": true
+    },
+    {
+      "case": "source-hash-change",
+      "rejected": true
+    },
+    {
+      "case": "duplicate-id",
+      "rejected": true
+    },
+    {
+      "case": "uncertainty-offset-change",
+      "rejected": true
+    },
+    {
+      "case": "external-DTD",
+      "rejected": true
+    }
+  ],
+  "public_allowlist": "passed",
+  "remote_publication_performed": false
+}

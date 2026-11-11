@@ -1,0 +1,843 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>施醫信錄（1870；Bodleian Sinica 1630）：逐面轉錄與捐款名錄 / Shi yi xin lu [Report of the Peking Hospital]: Transcription and donor lists</title>
+        <respStmt>
+          <resp>Dataset curation and AI-assisted initial transcription</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914">Chu, Chen-Yu</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>0.1.0 — fixed32content-face initial transcription</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Chu, Chen-Yu</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY4.0 applies to original documentation. Historical text has no additional exclusive restrictions asserted; source images are excluded and separately carry CC BY-NC4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>施醫信錄</title>
+          <author>Dudgeon, John</author>
+          <pubPlace>北京燈市口 / PEKING</pubPlace>
+          <publisher>美華活字書館 / AMERICAN MISSION PRESS</publisher>
+          <date>同治八年冬月</date>
+          <date when="1870">1870</date>
+          <idno type="shelfmark">Sinica 1630</idno>
+          <ref target="https://digital.bodleian.ox.ac.uk/objects/b5eb81ca-42ca-49c9-9372-aac27572a35e/">Original source</ref>
+          <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/b5eb81ca-42ca-49c9-9372-aac27572a35e.json">IIIF manifest</ref>
+          <ref target="https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%201630.xml">Official catalogue snapshot</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>407fixed initial units in32content faces within20official captures. Donation fields retain source strings, not computed totals;12small notes are separately linked.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>No Unicode normalization, new punctuation, source correction or insertion-point invention. Units retain identical strings across JSON/TXT/TEI. Source-linked gaiji retain literal navigation markers.</p>
+      </editorialDecl>
+      <charDecl>
+        <glyph xml:id="gaiji-g-f003-L-col02">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f003-L-col02⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f003-L-col03">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f003-L-col03⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f004-R-c06">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f004-R-c06⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f004-R-c10">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f004-R-c10⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f004-L-tailword">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f004-L-tailword⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f004-L-inline-cluster">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f004-L-inline-cluster⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f004-L-headpair">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f004-L-headpair⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f004-L-tu-shi">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f004-L-tu-shi⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f005-L-c02">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f005-L-c02⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f005-L-c11">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f005-L-c11⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f006-R-heading">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f006-R-heading⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f006-R-body-name">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f006-R-body-name⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f006-R-complication">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f006-R-complication⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f007-R-name">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f007-R-name⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f007-L-heading-first">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f007-L-heading-first⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f007-L-heading-last">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f007-L-heading-last⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f007-L-c11">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f007-L-c11⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f007-L-body-last">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f007-L-body-last⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f010-R-tail">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f010-R-tail⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f013-L-transliteration">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f013-L-transliteration⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f018-R-name1">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f018-R-name1⟧</mapping>
+        </glyph>
+        <glyph xml:id="gaiji-g-f018-R-name6">
+          <desc>Unresolved source glyph or source glyph cluster; exact encoding not asserted.</desc>
+          <mapping type="navigation-marker">⟦g-f018-R-name6⟧</mapping>
+        </glyph>
+      </charDecl>
+    </encodingDesc>
+    <profileDesc>
+      <abstract xml:lang="zh-Hant">
+        <p>《施醫信錄》（Shi yi xin lu）由德貞（John Dudgeon）著校，1870年在北京美華活字書館刊印，牛津博德利圖書館藏本為Sinica 1630。這份倫敦傳道會北京施醫院報告回顧1861至1869年的院務，並討論求診病症、醫學教育、慈善救濟、纏足、麻藥和血液循環知識，末附中外捐款者與銀數，可供晚清醫學史、傳教史、慈善史與翻譯史研究。本版提供20個館方影像幀中32個內容面的AI輔助初錄，以JSON、TXT及TEI保存來源面次與文字單位，另附捐款表、疑讀與小字接續定位；不包含館方影像。疑讀已標記，尚未經人類全文校勘或專家審定，方法與限制另見說明。</p>
+      </abstract>
+      <abstract xml:lang="en">
+        <p>Shi yi xin lu (Report of the Peking Hospital), prepared by John Dudgeon and printed at the American Mission Press in Peking in 1870, is held as Bodleian Sinica 1630. This London Missionary Society hospital report reviews its work from 1861 to 1869, discussing patient conditions, medical teaching, charitable care, footbinding, anaesthetics and knowledge of circulation; it also lists Chinese and foreign contributors and recorded silver amounts. The dataset supports histories of medicine, missions, philanthropy and translation through an AI-assisted initial transcription of 32 content faces within 20 official image canvases, including Chinese and English title pages. JSON, TXT and TEI preserve source-face and text-unit references, accompanied by a literal donor table, uncertainty records and small-note continuation links. Source images are excluded. Uncertain readings are marked; the text has not undergone full human collation or expert approval.</p>
+      </abstract>
+      <langUsage>
+        <language ident="lzh">Classical Chinese source</language>
+        <language ident="en">English title and documentation</language>
+        <language ident="zh-Hant">Traditional Chinese documentation</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>施醫信錄</term>
+          <term>Shi yi xin lu</term>
+          <term>Report of the Peking Hospital</term>
+          <term>John Dudgeon</term>
+          <term>德貞</term>
+          <term>Peking Hospital</term>
+          <term>北京施醫院</term>
+          <term>London Missionary Society</term>
+          <term>倫敦傳道會</term>
+          <term>American Mission Press</term>
+          <term>美華活字書館</term>
+          <term>1870</term>
+          <term>1861–1869</term>
+          <term>晚清醫學史</term>
+          <term>medical history</term>
+          <term>charity history</term>
+          <term>donor lists</term>
+          <term>捐款名錄</term>
+          <term>Bodleian Libraries</term>
+          <term>Sinica 1630</term>
+          <term>TEI XML</term>
+          <term>IIIF</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="surface-f002-L">
+      <desc>Fixed source face SHA-256 4950365a0bc0eb08b6a0c86730e0c5dbaa1cb1f65fd4e9a10837bf25a1d95af7</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/5f682063-63ee-4674-8f37-4a83c320118c/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f002-L"/>
+    </surface>
+    <surface xml:id="surface-f003-R">
+      <desc>Fixed source face SHA-256 13da2efe5966d268d7d777ba7975ee7ebeda2f7246dc9c8ecaae0071d5856f3a</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/be8d6962-3b7a-4efe-b8a9-c6a64f301341/2650,0,2762,5700/1200,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="1200" lry="2476" xml:id="zone-f003-R"/>
+    </surface>
+    <surface xml:id="surface-f003-L">
+      <desc>Fixed source face SHA-256 097952eaa228ac946314d95545eec7fb29c07f0fd2b24c029e020be8d94a451b</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/be8d6962-3b7a-4efe-b8a9-c6a64f301341/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f003-L"/>
+    </surface>
+    <surface xml:id="surface-f004-R">
+      <desc>Fixed source face SHA-256 83ed03f55be93be492f0bca725b3067719f542d3e4a9cb3795f491e85cb62424</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/c319f5b0-f096-47a6-8b32-c703b7005076/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f004-R"/>
+    </surface>
+    <surface xml:id="surface-f004-L">
+      <desc>Fixed source face SHA-256 6172d802c5fadf0c774884e6535514e2483c635ba1836c32790b9bbde919dcf2</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/c319f5b0-f096-47a6-8b32-c703b7005076/0,0,2706,5700/1200,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="1200" lry="2528" xml:id="zone-f004-L"/>
+    </surface>
+    <surface xml:id="surface-f005-R">
+      <desc>Fixed source face SHA-256 c38064da53dd71cc6129b41c623aa08f7cf54ff3ac7f1c897b9d2fdede916744</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/dd15c20f-eca4-4ac0-8634-16e3a6bb9500/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f005-R"/>
+    </surface>
+    <surface xml:id="surface-f005-L">
+      <desc>Fixed source face SHA-256 c04720d7ec5273b8f00e9956c4fd750b2af8a998ef389b785766edde540f8c77</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/dd15c20f-eca4-4ac0-8634-16e3a6bb9500/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f005-L"/>
+    </surface>
+    <surface xml:id="surface-f006-R">
+      <desc>Fixed source face SHA-256 63d8ce694bce77f4e957542606d87be560077747998a53959954ca2e2dd495f2</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/35331cbf-7f11-4788-af72-dbf78fa8a544/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f006-R"/>
+    </surface>
+    <surface xml:id="surface-f006-L">
+      <desc>Fixed source face SHA-256 78e3be5da9c34e5d395221711929cb563385e3363f5a72c568c710b0862ec6f4</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/35331cbf-7f11-4788-af72-dbf78fa8a544/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f006-L"/>
+    </surface>
+    <surface xml:id="surface-f007-R">
+      <desc>Fixed source face SHA-256 ea23ba7f1af6d6b0629e8442231500b341c421f59a919995148ea4a04998d55b</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/74a97a9a-e94a-41ca-80f7-199261ddf732/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f007-R"/>
+    </surface>
+    <surface xml:id="surface-f007-L">
+      <desc>Fixed source face SHA-256 740b8288bafad980faa8e8e0ce48d8c8ce587a43b3641677c28ecda53b6ea3e3</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/74a97a9a-e94a-41ca-80f7-199261ddf732/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f007-L"/>
+    </surface>
+    <surface xml:id="surface-f008-R">
+      <desc>Fixed source face SHA-256 5d1459eaa3f8e59a173e733934a14e438bf591d05d82302eea6a9c08e2176fad</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/d8c79af6-7ac6-4245-8524-38a685310143/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f008-R"/>
+    </surface>
+    <surface xml:id="surface-f008-L">
+      <desc>Fixed source face SHA-256 1ae165b2b504b9ffe471bdaea9e165eb112254b64a2e2921aa771ab50f27fd08</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/d8c79af6-7ac6-4245-8524-38a685310143/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f008-L"/>
+    </surface>
+    <surface xml:id="surface-f009-R">
+      <desc>Fixed source face SHA-256 2e5823316f9dcd4f66acd1a98936c847d8bb7b4b43a7901fb24c9f86f649e8dc</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/ec51819a-2eea-446a-9e74-0a9472a98a70/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f009-R"/>
+    </surface>
+    <surface xml:id="surface-f009-L">
+      <desc>Fixed source face SHA-256 1c5ffd2896fcef4580246654905ebfbf456a3526ad0476b2dcb3256d30224539</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/ec51819a-2eea-446a-9e74-0a9472a98a70/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f009-L"/>
+    </surface>
+    <surface xml:id="surface-f010-R">
+      <desc>Fixed source face SHA-256 5dd1767a9a990aa0ba21fa307aa870c304cb82bc9bf2e10b09c86262bfd0010c</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f010-R"/>
+    </surface>
+    <surface xml:id="surface-f010-L">
+      <desc>Fixed source face SHA-256 c8ced0edf8f40209616890da1a33fadd5b935106a29e88d52d939db782377a21</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/9c6a011a-635a-41f3-aa4b-d5d9b82ffa66/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f010-L"/>
+    </surface>
+    <surface xml:id="surface-f011-R">
+      <desc>Fixed source face SHA-256 fcc3cb4b811c2e51f3d9ec395f3dcc6a79c43103b4cc966b539a37e8ddc7ad8b</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/1083e99f-849a-476a-97f8-cc5fa12adfba/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f011-R"/>
+    </surface>
+    <surface xml:id="surface-f011-L">
+      <desc>Fixed source face SHA-256 817e4fe453e1ef24219de01b454f4b543bb209050028096f177a5d372703ffb8</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/1083e99f-849a-476a-97f8-cc5fa12adfba/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f011-L"/>
+    </surface>
+    <surface xml:id="surface-f012-R">
+      <desc>Fixed source face SHA-256 961c0b71e142118b466a7ceee56f845b012bac6f5c734e3abad6562a0d8ee354</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/2aac1d42-b429-4ac1-b7f5-75d5427b56d9/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f012-R"/>
+    </surface>
+    <surface xml:id="surface-f012-L">
+      <desc>Fixed source face SHA-256 9510d9137f7093640fd76332887934eab366325185407408ed4c4368d05d8120</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/2aac1d42-b429-4ac1-b7f5-75d5427b56d9/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f012-L"/>
+    </surface>
+    <surface xml:id="surface-f013-R">
+      <desc>Fixed source face SHA-256 cc0fd795dc46b458c0d582ee399479d6e0365be7fb4292751a0a0bcfe73a0101</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/e97540b4-b92a-43aa-a044-bdad6758e4ec/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f013-R"/>
+    </surface>
+    <surface xml:id="surface-f013-L">
+      <desc>Fixed source face SHA-256 6a2ca9371090943135ff794810bb1a63ffb8d10092169936fc281647dacab155</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/e97540b4-b92a-43aa-a044-bdad6758e4ec/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f013-L"/>
+    </surface>
+    <surface xml:id="surface-f014-R">
+      <desc>Fixed source face SHA-256 7dfb475eda42bb4c262f4cf8fc99c1497cdf91218cf5bae26466a311847c4de3</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/540a5acb-6dcd-49e4-b24b-bb03ea676f84/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f014-R"/>
+    </surface>
+    <surface xml:id="surface-f014-L">
+      <desc>Fixed source face SHA-256 bc4dd07fa31067a5c0ae80378ab3d854ceea8984cd2fbd45f1b8447ced18ed27</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/540a5acb-6dcd-49e4-b24b-bb03ea676f84/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f014-L"/>
+    </surface>
+    <surface xml:id="surface-f015-R">
+      <desc>Fixed source face SHA-256 52f18113704911cc527bdc08974ae23c491a108bdf07e6d41d81d0043bb1d414</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f015-R"/>
+    </surface>
+    <surface xml:id="surface-f015-L">
+      <desc>Fixed source face SHA-256 b98788484893906d39c3439c2a715c1a1271cd161833fb7f915dae5379874f13</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/82ca90ba-5d66-4cd8-a25c-da3800d8d1bb/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f015-L"/>
+    </surface>
+    <surface xml:id="surface-f016-R">
+      <desc>Fixed source face SHA-256 9f406ee57de266852a668b35d83432c4d417c7d9dbd45abd0b2c62c7b111d43c</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/01d9b1e6-3908-439c-913e-a13ed5e501b8/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f016-R"/>
+    </surface>
+    <surface xml:id="surface-f016-L">
+      <desc>Fixed source face SHA-256 5801bc980e3ef6afe3d94fce4552053117b1f865b4cf2ace537d38362aafda33</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/01d9b1e6-3908-439c-913e-a13ed5e501b8/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f016-L"/>
+    </surface>
+    <surface xml:id="surface-f017-R">
+      <desc>Fixed source face SHA-256 3f7fdecfe0836f21438dbe8485071e38d062c7019f7cbc9b12ec9da37bc58223</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/b773317a-345c-4447-bdb2-f5cb3760c109/full/1000,/0/default.jpg"/>
+      <zone ulx="500" uly="0" lrx="1000" lry="1109" xml:id="zone-f017-R"/>
+    </surface>
+    <surface xml:id="surface-f017-L">
+      <desc>Fixed source face SHA-256 12a2ee66a38e772ee08a75d006aec3974b1664a96a81534f7ee484ed64d2dea3</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/b773317a-345c-4447-bdb2-f5cb3760c109/full/1000,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="500" lry="1109" xml:id="zone-f017-L"/>
+    </surface>
+    <surface xml:id="surface-f018-R">
+      <desc>Fixed source face SHA-256 c24ceb0d81e5c6f289d397c04bb08c1a1d44e029ade65933e6233aac597ca9a8</desc>
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/3a0fad29-5047-4a8e-8b59-61aee65d0e57/2650,0,2762,5700/1200,/0/default.jpg"/>
+      <zone ulx="0" uly="0" lrx="1200" lry="2476" xml:id="zone-f018-R"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="lzh">
+    <body>
+      <div type="source-face" xml:id="f002-L">
+        <pb n="1" facs="#zone-f002-L"/>
+        <ab type="date" facs="#zone-f002-L" xml:id="f002-L-u001">同治八年冬月</ab>
+        <ab type="title" facs="#zone-f002-L" xml:id="f002-L-u002">施醫信錄</ab>
+        <ab type="date" facs="#zone-f002-L" xml:id="f002-L-u003">耶穌降生一千八百七十年</ab>
+        <ab type="responsibility" facs="#zone-f002-L" xml:id="f002-L-u004">大英國醫士德貞著校</ab>
+        <ab type="imprint" facs="#zone-f002-L" xml:id="f002-L-u005">北京燈市口美華活字書館刷印</ab>
+      </div>
+      <div type="source-face" xml:id="f003-R" xml:lang="en">
+        <pb n="2" facs="#zone-f003-R"/>
+        <ab type="title" facs="#zone-f003-R" xml:id="f003-R-u001">REPORT</ab>
+        <ab type="title-line" facs="#zone-f003-R" xml:id="f003-R-u002">OF THE</ab>
+        <ab type="title" facs="#zone-f003-R" xml:id="f003-R-u003">PEKING HOSPITAL</ab>
+        <ab type="title-line" facs="#zone-f003-R" xml:id="f003-R-u004">IN CONNECTION WITH THE</ab>
+        <ab type="title" facs="#zone-f003-R" xml:id="f003-R-u005">LONDON MISSIONARY SOCIETY</ab>
+        <ab type="responsibility" facs="#zone-f003-R" xml:id="f003-R-u006">BY J. DUDGEON, M. D., C. M.</ab>
+        <ab type="coverage" facs="#zone-f003-R" xml:id="f003-R-u007">From 1861 to 1869 inclusive.</ab>
+        <ab type="title-line" facs="#zone-f003-R" xml:id="f003-R-u008">WITH</ab>
+        <ab type="subtitle" facs="#zone-f003-R" xml:id="f003-R-u009">NOTES ON EUROPEAN AND CHINESE MEDICINE, PRACTICE</ab>
+        <ab type="subtitle" facs="#zone-f003-R" xml:id="f003-R-u010">AND HYGIENE.</ab>
+        <ab type="imprint" facs="#zone-f003-R" xml:id="f003-R-u011">PEKING:</ab>
+        <ab type="imprint" facs="#zone-f003-R" xml:id="f003-R-u012">PRINTED AT THE AMERICAN MISSION PRESS.</ab>
+        <ab type="imprint" facs="#zone-f003-R" xml:id="f003-R-u013">1870.</ab>
+      </div>
+      <div type="source-face" xml:id="f003-L">
+        <pb n="3" facs="#zone-f003-L"/>
+        <ab type="heading" facs="#zone-f003-L" xml:id="f003-L-u001">施醫信錄</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u002">大英國施醫院自咸豐辛酉醫士雒公創立於北京御河橋英國府南隔壁同治三年七</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u003">月因英國阿使臣來京地不敷用更兼街道遼僻往來人不甚多遂將原處<g ref="#gaiji-g-f003-L-col02">⟦g-f003-L-col02⟧</g>於府中另</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u004">買米市大街路東火神廟<g ref="#gaiji-g-f003-L-col03">⟦g-f003-L-col03⟧</g>之計房三十餘間以大殿為講書堂每日有人在此宣講聖</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u005">書來治病者聚集坐聽以待按時施治其有緊急病症必須常常調閱不可遠離者令宿</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u006">殿後諸房以便隨時看視外有門房藥房學醫者及工人住房足資安置買價銀一千一</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u007">百兩修理用銀二百兩此外每年買藥材並用人經費約銀五百兩醫士修金不在其數</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u008">所需之項皆英國衆善官民商賈按時盡力捐輸並無間斷貽愧彼意一為濟世一為輔</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u009">道樂有同心拯患難於中華成救主愛人之本志自三年七月至去歲歲底楊子江北一</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u010">帶暨蒙古高麗各處男婦大小內外兩科眼目等症共治過五萬五千三百七十二人有</ab>
+        <ab type="body" facs="#zone-f003-L" xml:id="f003-L-u011">來一次者有來數次者統核次數通共治過十七萬二千三百五十八其中男子較多所</ab>
+        <ab type="running-title" facs="#zone-f003-L" xml:id="f003-L-u012">施醫信錄</ab>
+      </div>
+      <div type="source-face" xml:id="f004-R">
+        <pb n="4" facs="#zone-f004-R"/>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u001">治人數首屬北京次直隸次山東山西諸省人本院初立時治目疾者甚衆繼則外科今</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u002">則內科婦科亦皆求治焉於昔日先是中國醫士品評月旦謂外國人精於外科華人精</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u003">於內科余心以為西國人不止精於外科茲觀內科婦科之病源源而來可為確據其精</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u004">於內科者緣本國有既死貧丐或罪應處決者無論有無病症死後皆准學醫人割腹察</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u005">考凡臟腑之部位形像心目俱各詳明至於何病本於何處卽片筋寸骨無不透澈深悉</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u006">較<g ref="#gaiji-g-f004-R-c06">⟦g-f004-R-c06⟧</g>親視者所以得其精也但此地病者必先延華醫調治未效或已成沉痾始來本院</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u007">求醫覬延之愆每至莫能措手余與病者兩無光顏最為可惜醫士雒公先在定海廣東</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u008">上海等處行道有年百姓皆為甘棠之頌又一合信醫士久居廣東救人濟世界有餘暇</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u009">卽將西國醫書譯成漢本四五冊中國高麗日本等國均極鄭重寶貴刋印行世居中土</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u010">者二十餘載益人匪淺二公<g ref="#gaiji-g-f004-R-c10">⟦g-f004-R-c10⟧</g>愛於南方至今日碑在道惟北京醫院此為創始病愈者</ab>
+        <ab type="body" facs="#zone-f004-R" xml:id="f004-R-u011">贈匾額三十餘方並敘引跋以誌其感余思以後匾額已無地可懸衣服綢緞古玉時珍</ab>
+      </div>
+      <div type="source-face" xml:id="f004-L">
+        <pb n="5" facs="#zone-f004-L"/>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u001">余無所用何如以厚禮之資捐於院册遇有貧之病者為調息瞻養之助芳衘登簡盛德</ab>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u002">廣傳當時為拯人之善事後世為永著之鴻恩余亦與有榮焉</ab>
+        <ab type="heading" facs="#zone-f004-L" xml:id="f004-L-u003">溫黃之症</ab>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u004">咸豐十一年溫黃流行公治過三百七十人先不甚多繼則甚盛始得身痛作燒<g ref="#gaiji-g-f004-L-tailword">⟦g-f004-L-tailword⟧</g>治</ab>
+        <ab type="small-note" facs="#zone-f004-L" xml:id="f004-L-u005"><g ref="#gaiji-g-f004-L-inline-cluster">⟦g-f004-L-inline-cluster⟧</g></ab>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u006"><g ref="#gaiji-g-f004-L-headpair">⟦g-f004-L-headpair⟧</g>症因春秋冷暖不勻乍寒乍熱血旺內流積聚於肝肝之無力流滯致獲此症</ab>
+        <ab type="small-note" facs="#zone-f004-L" xml:id="f004-L-u007">肝居</ab>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u008">右腹並不在左開視許多皆然試將猪肝驗之亦各在右治法先行降藥繼用斑毛膏藥貼於肝部汁出血歸皮膚肝覺</ab>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u009">蘇快其症可痊是症北京較盛山陝二省之地較多</ab>
+        <ab type="heading" facs="#zone-f004-L" xml:id="f004-L-u010">天花</ab>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u011">先前外國天花甚少自行牛痘法於今已六十餘年兹者西國嬰童皆種此痘英國向有</ab>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u012">條例不種則治以罪條例未設之先因生天花人多麻面今已較少生痘之流也中國乾</ab>
+        <ab type="body" facs="#zone-f004-L" xml:id="f004-L-u013">隆年間已有種痘之法駐<g ref="#gaiji-g-f004-L-tu-shi">⟦g-f004-L-tu-shi⟧</g>邇其京城英國使臣之夫人帶至本國或從中國傳其法用綿</ab>
+        <ab type="running-title" facs="#zone-f004-L" xml:id="f004-L-u014">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f004-L" xml:id="f004-L-u015">二</ab>
+      </div>
+      <div type="source-face" xml:id="f005-R">
+        <pb n="6" facs="#zone-f005-R"/>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u001">團塞於鼻及出時仍係天花雖較不種者微輕究難必其不死未若牛痘之安且便也牛</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u002">痘之法先來廣東已六十四載傳於北京至斯四十三年今京師設局四五處施種識為</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u003">美舉近年慶缺牛漿來本院尋乞卽付之為救生續命之助先是小呂宋國來漿因道路</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u004">遙遠恐漿乾燥凝在道時每八日途中種一嬰轉種至京其漿鮮豔法不果行嗣仍携漿</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u005">來北依然適用後又用以痘中亦與漿無異尤為簡便兹以此事極要者中國賢士大夫</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u006">自當勸諭民間於各州府縣廣推斯術不至如前每逢花年死者莫及其數其罪重矣其</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u007">情慘矣倘能處處設局人人種此非特安天下父母之心且救無數孩提之命如英都民</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u008">數今實三百萬人每年產嬰十萬皆種牛痘北京民數雖未悉其確聊作為一百五十萬</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u009">每年產嬰五萬亦當皆種牛痘乃每年所種僅四千人出天花四萬六千人核之每百嬰</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u010">童八人保其生命其餘之生死均未可知又蘇甸國未種牛痘之先花年死者一萬餘自</ab>
+        <ab type="body" facs="#zone-f005-R" xml:id="f005-R-u011">有牛痘以來歲不過數十人耳況天花為時毒所引若任其自發則歷代相傳各處類及</ab>
+      </div>
+      <div type="source-face" xml:id="f005-L">
+        <pb n="7" facs="#zone-f005-L"/>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u001">由近至遠愈久愈盛無所底止牛痘則不待自發種具數粒毒已消除根株盡絕久則天</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u002">花漸息童稚無<g ref="#gaiji-g-f005-L-c02">⟦g-f005-L-c02⟧</g>豈非保赤盡善盡美之策此余厚望於中國顯達諸公之推廣者云</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u003">牛痘書始自外國初傳者無論矣有一編在救主降生一千八百十七年為中國嘉慶二</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u004">十三年至東粵道降生一千八百二十八年為中國道光十年曾撫台澤此編北京廣傳</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u005">之迄今已四十三年矣是書創稿乃一英國顯達彌譯成帙凡東粵及他省考據諸家並</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u006">醫士皆各引用其言遵為模楷</ab>
+        <ab type="heading" facs="#zone-f005-L" xml:id="f005-L-u007">霍亂</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u008">同治元年中醫治此針刺臂膀手腿未必盡效藥則牛黃砂甘草等味亦難通靈京師</ab>
+        <ab type="small-note" facs="#zone-f005-L" xml:id="f005-L-u009">硃</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u010">死者不下二萬餘人每日每門發殯者滔滔皆是其見症也腹先泄洩隨卽轉筋霍公治</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u011">法內用收歛之劑飲鴉片洋輕粉外用芥末膏藥貼之以熱水洗溫足心腿肚又用補精神</ab>
+        <ab type="body" facs="#zone-f005-L" xml:id="f005-L-u012">與火之藥卽可痊愈治好多<g ref="#gaiji-g-f005-L-c11">⟦g-f005-L-c11⟧</g>人三十七年以前外國原無此症後來自印度始有之其</ab>
+        <ab type="running-title" facs="#zone-f005-L" xml:id="f005-L-u013">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f005-L" xml:id="f005-L-u014">三</ab>
+      </div>
+      <div type="source-face" xml:id="f006-R">
+        <pb n="8" facs="#zone-f006-R"/>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u001">症易染者因街道污穢溝水泥土不淨何處不淨者多卽何處染患者重若外國城內常</ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u002">有兵役洒掃差衞不准民間堆積污穢有則隨時清除又有藥水能解毒氣惡味者時時</ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u003">洒之兼以淨水澆灑自免前症之害北京地窄人稠日曬臭水氣味熏蒸更感以天時之</ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u004">毒易致此病若此首善大邦河渠最為至要倘由城北引西來之水不使東流故於城中</ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u005">水多土潤心爽氣清加以修理殷勤務使閭閻至潔至淨塵垢不生民病自少再此症首</ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u006">先泄洩服藥能止者易治否則甚難</ab>
+        <ab type="heading" facs="#zone-f006-R" xml:id="f006-R-u007">氣<g ref="#gaiji-g-f006-R-heading">⟦g-f006-R-heading⟧</g></ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u008">北京近山一帶有之凡氣<g ref="#gaiji-g-f006-R-body-name">⟦g-f006-R-body-name⟧</g>人多<g ref="#gaiji-g-f006-R-complication">⟦g-f006-R-complication⟧</g>其症皆水所致水甜此病寡少若水中雜以石灰</ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u009">或有帶灰之雪水人飲之此疾生焉外國有數處歷代皆生此疾或謂世居山谷內外風</ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u010">氣不通或謂山水重硬更飲以有灰之雪與水或謂山居僻遠結婚不出其本鄉血脈相</ab>
+        <ab type="body" facs="#zone-f006-R" xml:id="f006-R-u011">通沿襲所致俱生之初得尚小有藥可已</ab>
+      </div>
+      <div type="source-face" xml:id="f006-L">
+        <pb n="9" facs="#zone-f006-L"/>
+        <ab type="heading" facs="#zone-f006-L" xml:id="f006-L-u001">斷鴉片</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u002">自雒公時至今來斷者千有餘人甚難斷之夫鴉片原係益人之品醫家之用處極廣非</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u003">特百姓不識用法卽中國醫士亦未必深究其理每於病無策便唆勸其吸煙以圖卸責</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u004">吸後百害皆作較其病為尤深故煙能敗精神耗財物損聲名內為家人所鄙薄外為親</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u005">友所輕視無怪乎中原財帛一年窮於一年人民精神衰弱子嗣艱難一年減於一年國</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u006">累民貧吸煙之故余實為寒心直有涕泗滂沱隱痛更兼鴉片其初來自外國今則內地</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u007">各處皆種值之年復一年多於五穀再若任其儼種將來天下之大皆為產煙之區尤可</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u008">慮也惟願中國皇上輔政各臣設法禁止民間不種鴉片只種穀梁種與吸者日見其少</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u009">培養數載國阜民豐是為至願</ab>
+        <ab type="heading" facs="#zone-f006-L" xml:id="f006-L-u010">痰火</ab>
+        <ab type="body" facs="#zone-f006-L" xml:id="f006-L-u011">來治者亦復不少官民商賈有輕有重京師其症甲於他方中國多於外國皆因平素讀</ab>
+        <ab type="running-title" facs="#zone-f006-L" xml:id="f006-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f006-L" xml:id="f006-L-u013">四</ab>
+      </div>
+      <div type="source-face" xml:id="f007-R">
+        <pb n="10" facs="#zone-f007-R"/>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u001">書背書為時甚久精力虧損加之乘隙逞其淫樂煙酒心身之困勞累太過且此症富貴</ab>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u002">人得之甚易仕官每逢朝覲叩頭跪拜年老身虛精神頹敗久則致此最難醫治又有被</ab>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u003">刑嚴考手足拘攣如美人<g ref="#gaiji-g-f007-R-name">⟦g-f007-R-name⟧</g>英雄架之類為時既久血凝滯不通亦能致之同治二年京</ab>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u004">都有一人身被木架維繫歸得痰火之症重不堪醫雖用電氣法終未得愈三年又一人</ab>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u005">亦受木架之刑逾六時釋後亦獲其症用法急救始得膀臂愈而兩手仍未愈西國古有</ab>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u006">此刑今不准用人有控告被告者不必自定其罪必擇出證見據驗其事甘認已罪若無</ab>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u007">證據卽行釋放不動非法之刑另有因北方煤氣甚重房無煙筒日夜熏蒸神氣昏悶亦</ab>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u008">可致此倘中國煙筒設於房外俾室內清潔無煙未始非却病之一道至偏枯半身不遂</ab>
+        <ab type="body" facs="#zone-f007-R" xml:id="f007-R-u009">等症緣腦氣筋斷不通甚不易易無可盼望若在少壯身力尚未虧盡有藥有法可以獲</ab>
+        <ab type="body-continuation" facs="#zone-f007-R" xml:id="f007-R-u010">痊</ab>
+        <ab type="heading" facs="#zone-f007-R" xml:id="f007-R-u011">瘋癲狂癎</ab>
+      </div>
+      <div type="source-face" xml:id="f007-L">
+        <pb n="11" facs="#zone-f007-L"/>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u001">來求醫者頗多在外國各府各邑皆有公所安置諸人共百餘處設有首事司事管理看</ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u002">守豐其衣食不令出牆垣之外恐滋生事端內有弈棋詩書並講道諸務博其見聞暢其</ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u003">性情並有花園容其游逸名其處為瘋癲院當費經納另有自捐公所其中諸務尤為全</ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u004">備昔者相待此輩必以嚴厲相加後思此非自主情堪憫憐今視之如待孩提和顏撫育</ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u005">恕其無知亦相愛之意耳若人無論中國外國均應設地安為調養母令失所盡其哀矜</ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u006">外國養濟育嬰各院上古未有自耶穌降生之後凡其教之所至卽其院之所始縱中國</ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u007">諸處明萬歷以前尚未建立蓋彼時其教未入中原也迄今外國耶穌教未及之地仍未</ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u008">創設足為明徵最忍者病者家人願其速死莫免拖累甚非善意不如捐貲設院盡法調</ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u009">攝卽不痊不待其天年自盡不致輕棄性命實余之所厚望云爾</ab>
+        <ab type="heading" facs="#zone-f007-L" xml:id="f007-L-u010"><g ref="#gaiji-g-f007-L-heading-first">⟦g-f007-L-heading-first⟧</g>牙乾肺勞積<g ref="#gaiji-g-f007-L-heading-last">⟦g-f007-L-heading-last⟧</g></ab>
+        <ab type="body" facs="#zone-f007-L" xml:id="f007-L-u011">此症以血虛血惡為基<g ref="#gaiji-g-f007-L-c11">⟦g-f007-L-c11⟧</g>痰癆牙乾肺勞積<g ref="#gaiji-g-f007-L-body-last">⟦g-f007-L-body-last⟧</g>為房屋言其症之連類相及也幼時血之</ab>
+        <ab type="running-title" facs="#zone-f007-L" xml:id="f007-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f007-L" xml:id="f007-L-u013">五</ab>
+      </div>
+      <div type="source-face" xml:id="f008-R">
+        <pb n="12" facs="#zone-f008-R"/>
+        <ab type="body" facs="#zone-f008-R" xml:id="f008-R-u001">虛惡長則諸症皆作若飲食不足養法未善尤易患此更兼孩提斷乳甚晚葷食過少氣</ab>
+        <ab type="body" facs="#zone-f008-R" xml:id="f008-R-u002">力不克充足亦致此症西國生子或八個月或一年斷乳是時正當生牙之際乳早斷子</ab>
+        <ab type="body" facs="#zone-f008-R" xml:id="f008-R-u003">女可以壯實故中國之五歲嬰童如外國之三歲者故衣服飲食寒暖諸事皆當妥為保</ab>
+        <ab type="body" facs="#zone-f008-R" xml:id="f008-R-u004">養可免此疾本院遇牙乾來治者不少無如早不言治治則已晚莫能措手故近來只救</ab>
+        <ab type="body-continuation" facs="#zone-f008-R" xml:id="f008-R-u005">得一人</ab>
+        <ab type="heading" facs="#zone-f008-R" xml:id="f008-R-u006">腫毒</ab>
+        <ab type="body" facs="#zone-f008-R" xml:id="f008-R-u007">來治者約有數千中醫治法特貼膏藥為上轉致膿向內串其腫更甚本院治法熟者開</ab>
+        <ab type="body" facs="#zone-f008-R" xml:id="f008-R-u008">之腐肉隨膿一并掏出將饅頭用熱水泡開調勻糊貼患上候毒與腐肉淨盡方貼膏藥</ab>
+        <ab type="body" facs="#zone-f008-R" xml:id="f008-R-u009">可以痊愈凡有腐肉有膿貼饅首無者貼膏藥症勢較大非開不可開必為一十字形以</ab>
+        <ab type="body" facs="#zone-f008-R" xml:id="f008-R-u010">通血初發者貼饅首亦消</ab>
+        <ab type="heading" facs="#zone-f008-R" xml:id="f008-R-u011">跌打損傷銃炮傷藥傷</ab>
+      </div>
+      <div type="source-face" xml:id="f008-L">
+        <pb n="13" facs="#zone-f008-L"/>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u001">有來治者見其手指相連長成一處詢之言中醫治後得此蓋其術尚未精耳本院治此</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u002">不使病留餘患若此者治好多人大均各如故在外國兵一千立醫士三人一正二副凡兵</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u003">弁受傷者帶至行營按法調治每大邑亦醫院亦可就之其便如此中國行軍時倘亦</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u004">若是保全無負今中國兵勇使用火器並不謹慎火器不潔因不隨時詳細琢磨致有鏽</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u005">坐銃折炮炸炮裂傷人之虞可不戒歟同治六年有一人被人嚼破腎囊咬出睪丸十分</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u006">沉重中醫無策來求余醫旬日間脫然無累特繪圖頒詳敘小引以誌其感又一山西人</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u007">安姓用刀自破其腹斜長尺餘大小腸流出當將其腸條理停妥納入腹中針縫布蒙其</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u008">人瞬愈又有松姓等三人或傷肝或傷肺或傷心胞絡皆決不待治之症十二時內必死</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u009">故來者三人死者二以見其傷重難醫云又一旗人婦以伊夫之火銃欲行自經燃其機</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u010">銃砂等於右股下自臀透出極為危險恰來醫治調理布裹未兼旬復初此外有或傷其</ab>
+        <ab type="body" facs="#zone-f008-L" xml:id="f008-L-u011">手指或傷頭面或刀砍臂膀或刀抹脖項亦皆獲安但安姓者初未求治氣已將絕人以</ab>
+        <ab type="running-title" facs="#zone-f008-L" xml:id="f008-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f008-L" xml:id="f008-L-u013">六</ab>
+      </div>
+      <div type="source-face" xml:id="f009-R">
+        <pb n="14" facs="#zone-f009-R"/>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u001">為必死余詢其情形尚在可治無如中國律例凡被傷已報官者其人不准動移必待驗</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u002">後方許還徒余因其傷雖重尚有可乘之機若俟驗後則無及矣遂命人抬至院中撥房</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u003">存身以便看視未及月餘平復如舊倘當時乘而不治其人猶有命乎然外國選醫甚非</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u004">易易必須在院習之四年又必二十一歲以上者方准為之不可私充凡內科外科婦科</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u005">幼科查聽科化學草學身體學辨證學等皆通達者有管理宗學院及醫院秉公拔取領</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u006">有文憑鈐有院印本人姓名年貌所學所能俱載於上交該士為執故國內醫人皆註名</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u007">於冊如中國之縉紳備列其人是以外國醫士非經選取不許出世治人何得各隨己意</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u008">不為官考卽欲行道為醫乎若西國之法雖顯其揀拔之難或可免庸醫之濫亦善策也</ab>
+        <ab type="heading" facs="#zone-f009-R" xml:id="f009-R-u009">折骨</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u010">或為壓把或為石壓或手足所傷或器械所擊或因道路不平驚車逸馬往來擁擠砸碰</ab>
+        <ab type="body" facs="#zone-f009-R" xml:id="f009-R-u011">踢踏本院治好者甚多前門外有一官員吳姓因車翻砸折肩骨延華醫調攝皮膚雖已</ab>
+      </div>
+      <div type="source-face" xml:id="f009-L">
+        <pb n="15" facs="#zone-f009-L"/>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u001">無恙骨肉折錯於內來此求治見其皮肉久已長合無可著手後又延前醫並他醫視之</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u002">俱言脫落實非骨折然骨跡明明顯露何為是言也咸豐十一年有一婦人乘車行至御</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u003">河橋上轉灣時車與人翻之橋下腿骨自膝錯落抬至本院治之未旬月其骨接續得安</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u004">但其足畧有腐形以其初傷過重耳京都地面路狹人稠既不善於修理而橋梁每乏欄</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u005">杆大街不平道路狹小更兼挖坑積水日則車馬往來爭先恐後無隙可容夜則黑暗不</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u006">明最易傾蹶城門內之石路海漫亦多坭敗每致有蹶跌之處倘能如英國馬加達摩之</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u007">路一法中凸兩邊漫低常以碎石平鋪地上使往來無轍跡實乃濟人之事同治七年十</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u008">月李姓行至東單牌樓二巷外遇一英國之騎一中國之車車馬爭路相擊傷其頭顱破</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u009">裂復傷其腰近於命門官驗先言頭為馬砸腰被車壓死後覆驗又言車壓其頭馬踏其</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u010">腰至今並未接得回札未知前後不符却因何故據余之見自伊至施醫院時卽仰臥不</ab>
+        <ab type="body" facs="#zone-f009-L" xml:id="f009-L-u011">起頭因車轍砸傷腰為馬踏調治旬月業經平復但仰臥多日未能起坐摩躍成瘡瘡重</ab>
+        <ab type="running-title" facs="#zone-f009-L" xml:id="f009-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f009-L" xml:id="f009-L-u013">七</ab>
+      </div>
+      <div type="source-face" xml:id="f010-R">
+        <pb n="16" facs="#zone-f010-R"/>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u001">身微因瘡身死英國海關諸公合計足以每月贍銀三兩贍伊妻子為永遠養身之貲此</ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u002">亦路窄難避之一端耳又前門外一車行人年五旬餘為差役勒索被踢折胯骨三日始</ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u003">抬來求治其人年老傷重身虛復受驚恐心力難敵三日已死其傷則官驗以為骨脫余</ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u004">言骨折兩論不決余欲開剖經驗不果而止又一英國府司昏因風翻席棚伊手握棚繩</ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u005">風力甚猛將伊帶過房簷數尺幸其放手落地只將蒲棚及巨石掀出門外牟落於堤樹</ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u006">之上牟插於河中而其人腿骨業經摔折得治痊愈</ab>
+        <ab type="heading" facs="#zone-f010-R" xml:id="f010-R-u007">煤氣凍瘡疥瘡</ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u008">有受煤氣者室內煤煙甚重或因酒醉落於熱水鍋中或倒於炕爐火內直有隨房燒燬</ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u009">沿及孩提者其中凡有措手之機卽能獲安又有乞丐患凍瘡者脚指脫落亦治好多<g ref="#gaiji-g-f010-R-tail">⟦g-f010-R-tail⟧</g></ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u010">但疥瘡一症京城最多與楊梅並諸般惡毒直難數計大半自養濟院傳染得之夫養濟</ab>
+        <ab type="body" facs="#zone-f010-R" xml:id="f010-R-u011">之人出院多死不死則必生瘡生疥蓋院中人衆屋內未能換氣更兼每房一炕容數十</ab>
+      </div>
+      <div type="source-face" xml:id="f010-L">
+        <pb n="17" facs="#zone-f010-L"/>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u001">人不得睡臥只得蹲伏火毒柴煙三冬困繫出院後有不死而且病者乎安置未妥之故</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u002">也倘能多用銀錢廣營屋宇使其室寬人少神爽氣舒可免前患天下各省及外國之乞</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u003">丐無如北京之盛在西國各地俱有公所存養其人不惟冬令得所四時均有衣服飲食</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u004">並有醫士調其病症有講書宣釋聖道開其蒙昧且令在本公所每日做公成做生活損</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u005">銀存公以備公用局中所需皆百姓按地畝房屋捐貲做院中經費世間貧乞本不能無</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u006">仁者見其堪惘堪憫視之必當如兄如弟始合耶穌聖道故人皆願設立斯院以寄愛心</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u007">在西國凡信耶穌者遇人必多惻恤遇事必多幫助所以貧乞不致凍餒由來久矣目今</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u008">疥藥素討者甚多每年所治不下數百人所用硫磺不下數十斤他藥稱是遇有極寒苦</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u009">者貧助錢文以便買食或有路遠或無家者令伊在本院住宿以便常常看視</ab>
+        <ab type="heading" facs="#zone-f010-L" xml:id="f010-L-u010">贅瘤</ab>
+        <ab type="body" facs="#zone-f010-L" xml:id="f010-L-u011">有京南農人距城三百餘里左臉下生一瘤業經二三十年圍二尺餘高八寸取下衡之</ab>
+        <ab type="running-title" facs="#zone-f010-L" xml:id="f010-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f010-L" xml:id="f010-L-u013">八</ab>
+      </div>
+      <div type="source-face" xml:id="f011-R">
+        <pb n="18" facs="#zone-f011-R"/>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u001">重三斤又一沈姓先是鼻瘤通咽喉鴨卵大生三月後服中醫藥餌無效來求治余視之</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u002">其病自腦根骨下生出故不易治另用奇方二人皆獲無恙沈姓初來時不能飲食喘氣</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u003">更難咽喉不通十分危險愈後贈匾二方以誌其不忘又一人頭生十五瘤大如鴨卵其</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u004">餘者或二三瘤或數瘤不等復治好數十人</ab>
+        <ab type="heading" facs="#zone-f011-R" xml:id="f011-R-u005">骨槽風下頷生瘡臉瘡</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u006">有來治者其骨已死內則朽骨折錯外則紅腫如桃其勢危險卽將其朽敗下額骨並牙</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u007">及牙牀骨用器取下敷具候膿血既淨敷藥而愈若此者亦治好多人其骨全取之者有</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u008">之取下一二具者亦有之俱各無防但不能再生耳然患此症者多在左邊所治所見暨</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u009">街市偶遇咸在臉左生臉右者僅見一人又有因針法致患者其醫未識臟腹之底緖徒</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u010">知自外針之有傷內臟則肢體因消成瘡又有針刺腿上刺後肉轉大腫敗壞日久成為</ab>
+        <ab type="body" facs="#zone-f011-R" xml:id="f011-R-u011">臁瘡篤疾來此求治者雖經本院治之咸愈可見針刀不可輕用精益求精為要務耳同</ab>
+      </div>
+      <div type="source-face" xml:id="f011-L">
+        <pb n="19" facs="#zone-f011-L"/>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u001">治二年有一孩提自言心中不爽醫針臂膀從肘至腕腫潰難堪來時見其力小氣微無</ab>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u002">著手處不久已死又有因破席札刺而得臁瘡者其症破流黃水到處蔓延傳染疲煩</ab>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u003">多載最不易痊本院亦治多人俱各痊愈</ab>
+        <ab type="heading" facs="#zone-f011-L" xml:id="f011-L-u004">目疾</ab>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u005">凡淚炎之症因冷熱不勻天氣代謝換之甚速血不暢行及生淚所致也或為沙土所眯</ab>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u006">成為腫眼若小兒之目多壞者於落草時洗浴未能淨潔目沾伊母之白帶或伊父身染</ab>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u007">瘡疥或用其巾帕揩抹不潔傳染所致症有睫毛倒插向內翻轉並臚炎畏光努肉攀睛</ab>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u008">明角暈炎明角暈昏明角暈生翳諸病更有睛珠變質不明治法用刀割去變質發其清</ab>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u009">光卽可得愈始得時或因讀書久坐血不流通或因淫慾過度積勞而成內腫等症僧人</ab>
+        <ab type="body" facs="#zone-f011-L" xml:id="f011-L-u010">多有此病最不易為</ab>
+        <ab type="heading" facs="#zone-f011-L" xml:id="f011-L-u011">天花目疾</ab>
+        <ab type="running-title" facs="#zone-f011-L" xml:id="f011-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f011-L" xml:id="f011-L-u013">九</ab>
+      </div>
+      <div type="source-face" xml:id="f012-R">
+        <pb n="20" facs="#zone-f012-R"/>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u001">世間瞽者半因天花毒熱上炎盡歸於目所致自傳種牛痘之法其症甚稀在西國凡有</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u002">瞽者皆有地安之設局存養教其工做以物易財並教其讀書使明聖道書中字劃做出</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u003">凹文可以手揣心識如蔡伯喈目暮讀曹娥碑也又有明角暈全白外努不能開視用法</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u004">輕輕割下取出卽能見物倘一目已壞恐沿及他目將此壞目取下易一假者與眞目無</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u005">異其假目用薄玻璃片或薄磁片所造法極巧妙</ab>
+        <ab type="heading" facs="#zone-f012-R" xml:id="f012-R-u006">瘧疾</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u007">患此症者南方甚多北方亦復不少因雨落街衢溝水臭味熏蒸遂致此症本醫院有金</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u008">雞納又名桂納者用之少許藥可通神性補血力外國寶重此藥如中國寶重人參一樣</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u009">因其得之極難用之極裒也久宦南方時常服此回京告罄每向本醫院構求可見人之</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u010">於此不能或離也外國每兩洋銀一元上海每兩洋銀二元甘下各地虎狼最多先不</ab>
+        <ab type="body" facs="#zone-f012-R" xml:id="f012-R-u011">能往近特藥鋪自衞任意前行如各地各島之瘴瘧亦阻人往其地有桂納之可愈瘴瘧</ab>
+      </div>
+      <div type="source-face" xml:id="f012-L">
+        <pb n="21" facs="#zone-f012-L"/>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u001">卽如藥鏢之能滅虎狼更可以優遊甚便邇者有携帶桂納船隻適毛里丟斯海島值其</ab>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u002">地瘟瘧流行日死二百餘人聞其船帶此藥卽售之每兩藥資益至金洋錢一百三十六</ab>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u003">枚亦足見其寶貴也</ab>
+        <ab type="heading" facs="#zone-f012-L" xml:id="f012-L-u004">水蠱</ab>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u005">有套管錐放去腹中之水立愈其錐三寸餘套亦如之錐隨套入臍下掣錐留套水自由</ab>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u006">套中暢流水盡痊愈</ab>
+        <ab type="heading" facs="#zone-f012-L" xml:id="f012-L-u007">蟲積</ab>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u008">腹中生蟲形像甚多種約有三細者圓者扁者細者如線長三四分餘圓者長尺許俱易</ab>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u009">治去或以胡麻子油或以松除油墜下可愈若扁形者最難頭小約二分上有口吸人飲</ab>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u010">食肉之精華自頭以下由狹而漸寬每一節寬長約二三分平素有四五尺至二十尺六</ab>
+        <ab type="body" facs="#zone-f012-L" xml:id="f012-L-u011">丈至九丈者生化不窮時有隨糞落下數寸自何處斷仍自何處生之頭不下總不能痊</ab>
+        <ab type="running-title" facs="#zone-f012-L" xml:id="f012-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f012-L" xml:id="f012-L-u013">十</ab>
+      </div>
+      <div type="source-face" xml:id="f013-R">
+        <pb n="22" facs="#zone-f013-R"/>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u001">必于斫下之蟲見有頭在始謂愈矣又一種亦在扁者之類每節橫長竪短頭有二直紋</ab>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u002">每昂與肛門發癢卽此蟲生焉治須空腹恐有食遮藥力則虫受之輕根株仍在西國有</ab>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u003">鳳尾草油治此甚妙如嬰孩不願服藥另有小餅極願食之再如見其睡時咬牙抽風發</ab>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u004">燒時輕時重或不能食或轉多食却日漸消瘦皆係此症疥之作癢者亦蟲故也其蟲</ab>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u005">極小甚毒形如蟲人足前兩足長次兩足微短後四足又短男身生者長七十分寸之一</ab>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u006">寬八十四分寸之一女身生者一百四十分寸之一足行之處而膿能生焉所以必用硫</ab>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u007">磺藥品燥濕把乾殺蟲而愈</ab>
+        <ab type="heading" facs="#zone-f013-R" xml:id="f013-R-u008">不消化</ab>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u009">皆因貪食生冷瓜果或飲茶太過或飲鹹苦之水及多飲冷水多食檳榔火酒鴉片火煙</ab>
+        <ab type="body" facs="#zone-f013-R" xml:id="f013-R-u010">傷胃之物胃中積存少生津液致難消化再加以錯悞均能得之本醫院治好此症甚多</ab>
+        <ab type="heading" facs="#zone-f013-R" xml:id="f013-R-u011">咽喉</ab>
+      </div>
+      <div type="source-face" xml:id="f013-L">
+        <pb n="23" facs="#zone-f013-L"/>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u001">同治五年瘟毒流行結於咽喉死者過衆日日街衢發殯者詢之皆係此症城內有一家</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u002">二十六人一月間死二十四人誠足異也其病得之甚速瞬卽身死決無可緩男女大小</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u003">隨時傳染在西國亦非素有今始見之稱為<g ref="#gaiji-g-f013-L-transliteration">⟦g-f013-L-transliteration⟧</g>遂致束手雖有將咽喉穿一孔透其氣</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u004">管之療塞以為割救治法因恐駭人聽聞未便如此施治而毒深火重呼吸難通是年來</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u005">治此症愈者四百七十人夫人來求醫卽為看視決不延滯乃有病之家自己為耽擱所</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u006">悞既失治於不早且於彌流之際棄醫求神燒香拜佛心願已許性命已亡誠可歎也此</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u007">症生則傳染死則過染生宜早治死卽早埋不可延僧講道召魂迎巫留其遺毒遺臭受</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u008">之必死當時親友不敢往來於喪者之家或恐傳染外國有此病症死卽掩埋夏日尤宜</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u009">如此至於火結咽喉每年亦有却非前症如買賣學徒在街市吆喝物價或學生讀書高</ab>
+        <ab type="body" facs="#zone-f013-L" xml:id="f013-L-u010">聲朗誦或僧道諷經盡夜喧呼久則火升上焦致得此症</ab>
+        <ab type="heading" facs="#zone-f013-L" xml:id="f013-L-u011">風疾筋骨痛疼</ab>
+        <ab type="running-title" facs="#zone-f013-L" xml:id="f013-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f013-L" xml:id="f013-L-u013">十一</ab>
+      </div>
+      <div type="source-face" xml:id="f014-R">
+        <pb n="24" facs="#zone-f014-R"/>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u001">筋骨痛疼各樣風疾皆因春秋晝熱夜冷所睡之炕濕潮或冬時炕熱甚則炕涼或夏夜</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u002">炎暑貪涼求爽在廊在院睡臥迎風自不謹慎所致</ab>
+        <ab type="heading" facs="#zone-f014-R" xml:id="f014-R-u003">論種牛痘</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u004">中醫種此必有一定部位總在兩臂膀三處種之至三日令食發表之物以盡其毒如口</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u005">磨海水江米酒冬用燕窩湯之類是也七日後又令忌食諸物恐其倒發如雄雞鯉魚牛</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u006">肉羊肉豆麵更有希麵櫻桃忌之直至三年雖係保衞調養之法亦不必求全責備若是</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u007">之甚也外國異是自古迄今創造其法至今生活億兆莫計一身之內不論何處皆可種之</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u008">種痘之後不論何物皆可食之平素相同並無稍異蓋此牛痘特血管四達內何處有血</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u009">管卽何處可種手足肢體無一處不有血管卽無一處不可種也然西國種時亦在兩膀</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u010">取其便也人之血脈譬彼江河周而復始所以種不擇地一處已足飲食更不必拘亦莫</ab>
+        <ab type="body" facs="#zone-f014-R" xml:id="f014-R-u011">眞去為致知格物之至理焉</ab>
+      </div>
+      <div type="source-face" xml:id="f014-L">
+        <pb n="25" facs="#zone-f014-L"/>
+        <ab type="heading" facs="#zone-f014-L" xml:id="f014-L-u001">論纏足</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u002">中國纏足一節天下古今快盡多少婦人女子自後唐娘作踊以來後人習焉不察亦</ab>
+        <ab type="small-note" facs="#zone-f014-L" xml:id="f014-L-u003">窈</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u004">步亦趨久假不歸世風莫易天下無不愛女之父母諸凡嬌養惟恐有傷獨其愛之既深</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u005">必願其足之甚小既願其足之甚小必肆其纏之甚惡裹之束之四五歲卽當此苦尼日</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u006">夜痛楚眠食俱廢難以解釋實為罪孽畢生無舒暢之心終身皆艱難之步求其足之小</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u007">不顧其苦之極其愛之乎其害之也然此為家小節所關者尚不僅是夫天下女子在室</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u008">多病歸後之子雖不在纏足亦有因此而致之者蓋兩足骨肉已拆最易傾跌扶持需人</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u009">行動難以自便心懷併懟飲食未能消化動轉未能快然加之寒暑不調就冷貪涼則白</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u010">帶經閉與經血妄行諸症因之由漸而入安能受孕成胎或謂風俗故轍自古流傳勢有</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u011">不得不然者也顧居家惟我為主我行我法安能附會他人我不許我女纏足我之外安</ab>
+        <ab type="body" facs="#zone-f014-L" xml:id="f014-L-u012">得干預我事是纏足一節責在父母權亦操之父母也倘識為害而非愛一家改絃易轍</ab>
+        <ab type="running-title" facs="#zone-f014-L" xml:id="f014-L-u013">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f014-L" xml:id="f014-L-u014">十二</ab>
+      </div>
+      <div type="source-face" xml:id="f015-R">
+        <pb n="26" facs="#zone-f015-R"/>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u001">家家效尤從此漸息其風亦一道也或謂天下民人皆係漢裝倘不纏足勢如鶴立雞羣</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u002">未能隨衆將來受聘因此覺難況足既云小縱言貌稍陋亦可涵容不知令聘娶因人平</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u003">因足乎天下之大有不纏足之家誰謂其女終於閨室是纏足之事與受聘毫無干涉也</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u004">明矣或謂纏足為博翁姑之愛也然德言功貌先嘗言足使其足小於雖人皆愛慕而行</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u005">如河東之吼安貴有此足亦徒成淫具而已或謂纏足乃家庭猥鄙之事所關非重亦可</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u006">隨其衆而楊其波也夫人事至重莫重於世道人心翁娘創始原為固寵起見後人卽狃</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u007">於故習直同莫挽之舟以上帝恩賜之全體父母畀受之完膚適成殘廢之人遺害於天</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u008">下後世倘能變其頹風惡俗使心志舒展之女諸病由此不生脫然無累之軀子女由此</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u009">而致人民此後日可增加世道人心孰重於是更兼諸般調養不吸鴉片生子八月早斷</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u010">其乳益莫大焉西國之生子至少者三五人餘者可知有一家一母所生二十四人實為</ab>
+        <ab type="body" facs="#zone-f015-R" xml:id="f015-R-u011">確據此亦生女不纏足生子早斷乳之故耳近日中國人心或亦有變更之意但未奉明</ab>
+      </div>
+      <div type="source-face" xml:id="f015-L">
+        <pb n="27" facs="#zone-f015-L"/>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u001">文猶恐矯情異俗獲責於人倘司牧者設法推行善為改易莫謂猥索鄙細不肯勞民生</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u002">國計之心也倘能如康熙三年欲行禁止纏足刻今再為明降諭示宣之中外吾知天下</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u003">久苦此志者無不遵行恐後矣</ab>
+        <ab type="heading" facs="#zone-f015-L" xml:id="f015-L-u004">論難產</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u005">中國婦科延請男醫至於生產則專恃婦人謂之收洗遇平安產育若輩只司接浴之勞</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u006">既不識生育之理更不知臟腑之道乃遇難產之婦無策以救其生也在西國生產之事</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u007">託之醫人非粗疏也至理存焉因其平素開腹考察凡內經之臟腑膚理之血脈全骨之</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u008">節腠筋絡之貫通閱之多而記之熟成竹在胸今生在抱更有許多善法利器遇有難產</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u009">按其情形隨症施治中醫束手者西國皆有法生之卽至各法難行之際母子垂危之時</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u010">而母命最為緊要有一開接之法甚有奇效其法西國新出先將麻藥吸入鼻中心神如</ab>
+        <ab type="body" facs="#zone-f015-L" xml:id="f015-L-u011">睡胎可安然產下此事有開之數次者欲保母子全命須按西國之新法也</ab>
+        <ab type="running-title" facs="#zone-f015-L" xml:id="f015-L-u012">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f015-L" xml:id="f015-L-u013">十三</ab>
+      </div>
+      <div type="source-face" xml:id="f016-R">
+        <pb n="28" facs="#zone-f016-R"/>
+        <ab type="heading" facs="#zone-f016-R" xml:id="f016-R-u001">西國新合麻藥</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u002">有一藥名哥羅羅佛爾墨卽中國麻藥之類乃極緊要之品不論巨瘡大毒應行開割者</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u003">病人見有針刀自生畏懼且開割時或研手足其痛更自難堪遇有難產之際尤幸有此</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u004">長藥用其水少許於巾帕蓋鼻上候如睡昏不知人已麻過矣任施刀針心不能醒卽按</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u005">法剖割少時人甦治理已畢其藥乃英國醫士心孫創始凡大症及折骨等病均各賴之</ab>
+        <ab type="heading" facs="#zone-f016-R" xml:id="f016-R-u006">另有用刀不知痛法數條</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u007">一以藥水只將患處麻住偏出熱氣使本處肌膚冰冷不知痛疼餘處照常起卽開視事</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u008">完如初創此新法今已三年中國醫書所載可信者甚多不可信者亦復不少亦在學</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u009">醫者之自得焉耳明懷宗初年英國哈兒菲始明血理言心有房有管房則容血管則放</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u010">血出入蓋血自心左下房流出由總血管入分支其支愈分愈多愈多愈細行於通身所</ab>
+        <ab type="body" facs="#zone-f016-R" xml:id="f016-R-u011">有精液汁津恃以生之迨返於同血管中色變紫炭氣毒也至同血總管抵心右上房轉</ab>
+      </div>
+      <div type="source-face" xml:id="f016-L">
+        <pb n="29" facs="#zone-f016-L"/>
+        <ab type="body" facs="#zone-f016-L" xml:id="f016-L-u001">右下房入肺出炭氣入養氣復為紅血入心左上房落左下房環轉無停周而復始倘赤</ab>
+        <ab type="body" facs="#zone-f016-L" xml:id="f016-L-u002">血達於通體回毒血換於肺中皆心之功力此說初與西國諸醫未信不克遵循四五十</ab>
+        <ab type="body" facs="#zone-f016-L" xml:id="f016-L-u003">載後久假而畧悟其理久遐而豁然貫通迄今二百餘年咸服卓識若中國醫書自黃帝</ab>
+        <ab type="body" facs="#zone-f016-L" xml:id="f016-L-u004">至兹四千餘年十二經絡六脈浮沉無憑之虛談徒兹耳目總不若親見親考最為眞切</ab>
+        <ab type="body" facs="#zone-f016-L" xml:id="f016-L-u005">故占拿之創種牛痘哥羅羅佛爾墨之用刀忘痛哈兒菲之議論血理三大端皆其苦費</ab>
+        <ab type="body" facs="#zone-f016-L" xml:id="f016-L-u006">心思獨創妙理於四千年後足以破千古之疑而長久堅後人之信也夫</ab>
+        <ab type="running-title" facs="#zone-f016-L" xml:id="f016-L-u007">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f016-L" xml:id="f016-L-u008">十四</ab>
+      </div>
+      <div type="source-face" xml:id="f017-R">
+        <pb n="30" facs="#zone-f017-R"/>
+        <ab type="heading" facs="#zone-f017-R" xml:id="f017-R-u001">外國捐輸銀數姓名總目</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u002">大英欽差駐劄中國便宜行事大臣卜二百五十兩</ab>
+        <ab type="small-note" facs="#zone-f017-R" xml:id="f017-R-u003">已故</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u004">大英欽差駐劄中國便宜行事大臣阿一百零五兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u005">大英署理欽差駐劄中國便宜行事大臣威一百一十兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u006">大美欽差駐劄中國便宜行事大臣蒲五十二兩五錢</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u007">大美署理欽差駐劄中國便宜行事大臣威三十五兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u008">大英欽命稅務總司赫二百兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u009">大英欽命水師提督軍門荷一百九十六兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u010">大英欽命參贊交涉事務新二十八兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u011">大英欽命駐劄上海領事官溫三兩五錢</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u012">鎮江海關杜老爺十七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u013">施老爺十四兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u014">默老爺七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u015">佛老爺七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u016">何老爺二十四兩五錢</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u017">壁老爺二十兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u018">吉老爺七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u019">佛老爺三兩五錢</ab>
+        <ab type="small-note" facs="#zone-f017-R" xml:id="f017-R-u020">每年</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u021">勞老爺十七兩五錢</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u022">柏老爺二十一兩</ab>
+        <ab type="table-cell" facs="#zone-f017-R" xml:id="f017-R-u023">克都閫府二十一兩</ab>
+      </div>
+      <div type="source-face" xml:id="f017-L">
+        <pb n="31" facs="#zone-f017-L"/>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u001">大英總兵沙大人</ab>
+        <ab type="small-note" facs="#zone-f017-L" xml:id="f017-L-u002">每年六兩五錢八</ab>
+        <ab type="small-note" facs="#zone-f017-L" xml:id="f017-L-u003">年共銀五十四兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u004">天津海關貝格老爺十五兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u005">天津海關休士老爺十五兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u006">天津海關高老爺十五兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u007">廣東海關吉老爺十七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u008">烟台海關雷德老爺十四兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u009">福州海關葛德士老爺七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u010">漢口海關博來德老爺三兩五錢</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u011">新家坡米老爺七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u012">海關滿老爺四十二兩五錢</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u013">海關德堤老爺七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u014">吳老爺二十二兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u015">金老爺十五兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u016">方老爺十二兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u017">赫三老爺十七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u018">李老爺十七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u019">史老爺十七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u020">漢老爺十七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u021">威老爺十七兩</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u022">彬先生十二兩六錢</ab>
+        <ab type="small-note" facs="#zone-f017-L" xml:id="f017-L-u023">已故</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u024">穆先生十七兩</ab>
+        <ab type="small-note" facs="#zone-f017-L" xml:id="f017-L-u025">已故</ab>
+        <ab type="table-cell" facs="#zone-f017-L" xml:id="f017-L-u026">顧先生七兩</ab>
+        <ab type="running-title" facs="#zone-f017-L" xml:id="f017-L-u027">施醫信錄</ab>
+        <ab type="printed-folio" facs="#zone-f017-L" xml:id="f017-L-u028">十五</ab>
+      </div>
+      <div type="source-face" xml:id="f018-R">
+        <pb n="32" facs="#zone-f018-R"/>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u001">上海洋商博洛<g ref="#gaiji-g-f018-R-name1">⟦g-f018-R-name1⟧</g>公共一千五百兩</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u002">上海洋商章伯共一千零二兩</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u003">上海洋商李公三百兩</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u004">上海洋商薩公一百兩</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u005">上海洋商伊公三十兩</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u006">上海洋商何<g ref="#gaiji-g-f018-R-name6">⟦g-f018-R-name6⟧</g>拉三十兩</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u007">英商畢公三十五兩</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u008">英國衆友共一百零三兩二錢六分</ab>
+        <ab type="small-note" facs="#zone-f018-R" xml:id="f018-R-u009">在本國者</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u010">洋商四位共一百二十四兩六錢</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u011">本國衆友共三十兩</ab>
+        <ab type="small-note" facs="#zone-f018-R" xml:id="f018-R-u012">五位</ab>
+        <ab type="table-cell" facs="#zone-f018-R" xml:id="f018-R-u013">倫敦傳道會藥銀一千兩</ab>
+        <ab type="printed-total" facs="#zone-f018-R" xml:id="f018-R-u014">以上總共捐銀計五千七百三十四兩九錢六分</ab>
+        <ab type="end-title" facs="#zone-f018-R" xml:id="f018-R-u015">醫施信錄終</ab>
+      </div>
+    </body>
+  </text>
+</TEI>
