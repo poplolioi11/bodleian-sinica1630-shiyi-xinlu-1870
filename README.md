@@ -1,0 +1,9 @@
+# 施醫信錄（Sinica 1630）v0.2.2 累積訂正附檔
+
+本附檔提供兩處經原圖覆核的讀字訂正及捐輸表加總說明。使用時請搭配[固定底本 v0.2.0](https://doi.org/10.5281/zenodo.24147324)，並在引用時標明底本 DOI、附檔版本和單元 ID。
+
+- `ERRATA.json` 記錄底本的 SHA-256、單元識別碼、零起算 Unicode 碼位範圍及覆核後讀法。只有底本雜湊及舊字一致時才套用。
+- `CORRECTIONS.md` 說明訂正所據源像、書末原印總數及可讀捐輸欄目的重算差額。
+- `SHA256SUMS` 供查核同版附檔。
+
+搭配 v0.2.0 使用時，只需套用本附檔。它已包含 [v0.2.1](https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870/releases/tag/v0.2.1) 的訂正。字形經 AI 輔助回圖，未經人類全文雙校或專家審定。原件為牛津博德利圖書館 Sinica 1630，整理與公開維護為曲宸宇。原件及固定 v0.2.0 文件仍可由原版本取得。[館方原件](https://digital.bodleian.ox.ac.uk/objects/b5eb81ca-42ca-49c9-9372-aac27572a35e/)

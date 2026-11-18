@@ -1,0 +1,59 @@
+{
+  "schema": "antique-corpus-errata-overlay/1",
+  "title": "施醫信錄",
+  "shelfmark": "Sinica 1630",
+  "version": "0.2.2",
+  "release_date": "2026-11-18",
+  "kind": "versioned errata overlay",
+  "base": {
+    "version": "0.2.0",
+    "version_doi": "10.5281/zenodo.24147324",
+    "concept_doi": "10.5281/zenodo.24147294",
+    "release_url": "https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870/releases/tag/v0.2.0",
+    "archive_sha256": "d78494405432f848adf2768f45fce53cb17a368d1f31c0ad587ea0e802bca7e8",
+    "filename": "book.json",
+    "sha256": "57f5bd81773acb892c4c49a14a8c751e69cd6d9ce16159509e69293b274b32f5"
+  },
+  "offset_convention": "0-based Unicode codepoints with exclusive end; refer to the fixed base unit strings",
+  "changes": [
+    {
+      "id": "S1630-01",
+      "page_id": "f014-L",
+      "unit_id": "f014-L-u008",
+      "range": [
+        4,
+        5
+      ],
+      "before": "之",
+      "after": "乏",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/540a5acb-6dcd-49e4-b24b-bb03ea676f84/full/1000,/0/default.jpg",
+      "basis": "同面原圖對照，目標字首筆短斜撇，同面之字首筆為分離點。"
+    },
+    {
+      "id": "S1630-03",
+      "page_id": "f004-R",
+      "unit_id": "f004-R-u007",
+      "range": [
+        2,
+        3
+      ],
+      "before": "覬",
+      "after": "躭",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/c319f5b0-f096-47a6-8b32-c703b7005076/3645,1495,245,460/full/0/default.jpg",
+      "basis": "官圖原像素可見左旁身，右旁冘作曲鉤，採躭。"
+    }
+  ],
+  "reader_notes": [
+    {
+      "id": "S1630-02",
+      "kind": "unresolved difference in printed total",
+      "included_entry_count": 53,
+      "original_printed_tael": "5734.96",
+      "recomputed_tael": "5719.96",
+      "difference_tael": "15.00",
+      "status": "report both figures, no change to source text or DONORS.csv"
+    }
+  ],
+  "review_scope": "AI-assisted targeted source-image adjudication of listed locations only",
+  "supersedes": "https://github.com/poplolioi11/bodleian-sinica1630-shiyi-xinlu-1870/releases/tag/v0.2.1"
+}
